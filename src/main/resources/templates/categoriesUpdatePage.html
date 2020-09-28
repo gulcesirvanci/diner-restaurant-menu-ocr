@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title></title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+    <!-- Google Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
+    <style type="text/css">
+  .pt-3-half {
+        padding-top: 1.4rem;
+    }
+
+    .input-group {
+        width: 500px;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+
+        background-color: #F1F1F1;
+ }
+ .row{
+     margin-top: 10%;
+     margin-left: 10%;
+     margin-right: 10%;
+}
+button{
+    display:inline-block;
+    padding: 0.4em;
+    margin: 0.5em;
+    border:0.16em solid rgba(255,255,255,0);
+    border-radius:2em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color:#FFFFFF;
+    text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
+    text-align:center;
+    color: black;
+    transition: all 0.2s;
+}
+button:hover{
+    border-color: rgba(255,255,255,1);
+}
+@media all and (max-width:30em){
+    button{
+        display:block;
+        margin:0.2em auto;
+}
+}
+.category-item{
+    border-color:#f14e4e;
+    }
+.dish-name{
+    border-color:#f1bb4e;
+    }
+.price{
+    border-color:#4e9af1;
+    }
+.description{
+    border-color:#90ee90;
+    }
+  </style>
+</head>
+<body>
+<!-- Navbar -->
+<nav class="navbar fixed-top navbar-expand-lg navbar-light white scrolling-navbar">
+    <div class="container">
+
+        <!-- Brand -->
+        <a class="navbar-brand pt-0 waves-effect" href="/">
+            Diner Menu Digitization With OCR
+        </a>
+    </div>
+
+</nav>
+<!-- Navbar -->
+<div class="card">
+    <h3 class="card-header text-center font-weight-bold text-uppercase py-4">Editable table</h3>
+    <div class="card-body">
+        <div id="table" class="table-editable">
+      <span class="table-add float-right mb-3 mr-2"><a data-toggle="modal" data-target="#addNewCategoryModal" class="text-success"><i class="fas fa-plus fa-2x" aria-hidden="true"></i></a></span>
+            <table class="table table-bordered table-responsive-md table-striped text-center">
+                <thead>
+                <tr>
+                    <th class="text-center">Category</th>
+                    <th class="text-center">Actions</th>
+                </tr>
+                </thead>
+                <tbody>
+                <div th:if="${menu}">
+
+                    <th:block th:each="category : ${menu.menuCategories}">
+
+                            <tr>
+                                <td class="pt-3-half" th:text="${category.name}" th:value="${category.name}"></td>
+                                <td>
+                                    <span><button type="button" class="btn btn-success btn-rounded btn-sm my-0" data-toggle="modal" data-target="#editModal" th:data-id="${category.categoryID}" th:data-text="${category.name}" onclick="loadValues(this)">Edit</button></span>
+                                </td>
+
+
+                            </tr>
+                        <!-- This is our clonable table line -->
+                    </th:block>
+                </div>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<form action="/list-menu-items" method="post" enctype="multipart/form-data">
+    <input name = "menuId" type="text" th:value="${menuId}" style="display: none;" \>
+    <button type="submit" class="btn btn-secondary btn-lg btn-block btn-outline-dark">Contınue</button>
+</form>
+<!--
+  <div class="row">
+
+      <div th:if="${menu}">
+
+              <th:block th:each="category : ${menu.menuCategories}">
+                  <button class="category-item" data-toggle="modal" data-target="#myModal" data-category="Category" th:id="${category.uniqueID}" th:text="${category.name}" th:value="${category.name}" onclick="loadValues(this)"></button>
+                  <br>
+                  <th:block th:each="dish : ${category.dishes}">
+                      <button class="dish-name" data-toggle="modal" data-target="#myModal" data-category="Name" th:id="${dish.uniqueID}" th:text="${dish.name}" th:value="${dish.name}" onclick="loadValues(this)"></button>
+                      <button class="price" data-toggle="modal" data-target="#myModal" data-category="Price" th:id="${category.uniqueID+dish.uniqueID+'p'}" th:text="${dish.price}" th:value="${dish.price}" onclick="loadValues(this)"></button>
+                      <button class="description" data-toggle="modal" data-target="#myModal" data-category="Description" th:id="${category.uniqueID+dish.uniqueID+'d'}" th:text="${dish.description}" th:value="${dish.description}" onclick="loadValues(this)"></button>
+                      <br>
+                  </th:block>
+                  <br>
+              </th:block>
+      </div>
+  </div>
+  -->
+<div class="modal fade" id="editModal" role="dialog">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Update Category</h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <form action="/update-category" method="post" enctype="multipart/form-data">
+                        <input name = "menuId" type="text" th:value="${menuId}" style="display: none;" \>
+                        <input name = "categoryId" type="text" id="id" style="display: none;" \>
+                        <div class="form-group">
+                            <label>Ocr Text</label>
+                            <input name="ocrText" id="ocrText" class="form-control" type = "text"></input>
+                        </div>
+                        <button class="btn btn-info" id = "save" type="submit">Save</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="addNewCategoryModal" role="dialog">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Add New Category</h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <form action="/add-new-category" method="post" enctype="multipart/form-data">
+                        <input name = "menuId" type="text" th:value="${menuId}" style="display: none;" \>
+                        <div class="form-group">
+                            <label>Category Name</label>
+                            <input name="categoryName" id="categoryName" class="form-control" type = "text"></input>
+                        </div>
+                        <button class="btn btn-info" id = "add" type="submit">Add</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    function loadValues(btn){
+        var ocrText = btn.getAttribute("data-text");
+        var ocrTextField = document.getElementById("ocrText");
+        ocrTextField.value = ocrText;
+        var idField = document.getElementById("id");
+        idField.value = btn.getAttribute("data-id");
+
+    }
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<!-- Bootstrap tooltips -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+<!-- Bootstrap core JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
+<!-- MDB core JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js"></script>
+<!-- NO JS ADDED YET -->
+<script id="__bs_script__">//<![CDATA[
+    document.write("<script async src='http://HOST:3000/browser-sync/browser-sync-client.js?v=2.26.7'><\/script>".replace("HOST", location.hostname));
+//]]></script>
+
+
+</body>
+</html>

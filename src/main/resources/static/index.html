@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <title></title>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+  <!-- Google Fonts -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+  <!-- Bootstrap core CSS -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
+  <style type="text/css">
+    .input-group {
+    width: 500px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    background-color: #F1F1F1;
+ }
+  </style>
+  </head>
+<body>
+  <!-- Navbar -->
+<nav class="navbar fixed-top navbar-expand-lg navbar-light white scrolling-navbar">
+    <div class="container">
+
+        <!-- Brand -->
+        <a class="navbar-brand pt-0 waves-effect" href="">
+            Diner Menu Digitization With OCR
+        </a>
+        </div>
+
+</nav>
+<!-- Navbar -->
+  <form style="margin-top:500px" method="post" action="/upload" enctype="multipart/form-data">
+
+      <center>
+      <div class="col-lg-12 col-md-12 col-sm-12">
+
+         <div class="input-group">
+          <div class="input-group-prepend">
+            <input type="submit" class="input-group-text" value="Upload Files"></input>
+          </div>
+          <div class="custom-file">
+            <input name="files" type="file" class="custom-file-input" id="inputGroupFile01"
+              aria-describedby="inputGroupFileAddon01" multiple>
+            <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
+          </div>
+        </div>
+      </div>
+    </center>
+      <center>
+          <div class="col-lg-6 col-md-6 col-sm-12">
+              <div class="md-form">
+                  <input name="restaurantName" type="text" id="inputPlaceholderEx" class="form-control">
+                  <label for="inputPlaceholderEx">Restaurant Name</label>
+              </div>
+          </div>
+      </center>
+</form>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<!-- Bootstrap tooltips -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+<!-- Bootstrap core JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
+<!-- MDB core JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js"></script>
+<!-- NO JS ADDED YET -->
+<script id="__bs_script__">//<![CDATA[
+    document.write("<script async src='http://HOST:3000/browser-sync/browser-sync-client.js?v=2.26.7'><\/script>".replace("HOST", location.hostname));
+//]]></script>
+<script type="text/javascript">
+  function setText(){
+    document.getElementById("inputGroupFileAddon01").innerHTML = "Submit";
+  }
+</script>
+</body>
+</html>

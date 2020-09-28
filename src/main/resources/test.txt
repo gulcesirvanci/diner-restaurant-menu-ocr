@@ -1,0 +1,215 @@
+__label__category kahvalti
+__label__name şipşak kahvaltı
+__label__description dilediğiniz yumurta, beyaz peynir, tulum peyniri, kaşar peyniri, burgu peyniri, domates, salatalık, zeytin, reçel, bal, tereyağ, simir, 2 çay ile
+__label__name serpme kahvaltı(kişi başı)
+__label__description dilediğiniz yumurta, beyaz peynir, tulum peyniri, kaşar peyniri, dil peyniri, burgu  peyniri, kuru et, füme dil, füme kaburga, sucuk, domates, salatalık, reçel, nutella, tereyağ, bal, kaymak, zeytin, gözleme, patates kızartması, sınırsız çay ile
+__label__category yumurta & omlet & menemen
+__label__name sade
+__label__name kavurmalı
+__label__name sucuklu
+__label__name peynirli
+__label__description (beyaz peynir, kaşar peyniri)
+__label__name karışık
+__label__description (sucuk, sosis, mantar)
+__label__name günün çorbası
+__label__name soğan çorbası
+__label__category kare tost & tortilla
+__label__description (domates, salatalık ve patates kızartması ile)
+__label__name çift kaşarlı
+__label__name akdeniz
+__label__description (domates, zeytin, kekik, ezine)
+__label__name sucuk & kaşarlı
+__label__name hindi füme & kaşarlı
+__label__name dana jambon kaşarlı
+__label__name kavurma kaşarlı
+__label__category kahveler
+__label__category soğuk
+__label__name ice americano
+__label__name ice latte
+__label__name ice mocha
+__label__description white & dark chocolate, caramel
+__label__name ice chai tea latte
+__label__name cold brew
+__label__name cocomon
+__label__description tek shot espresso, hindistan cevizi, toz tarçın ve özü
+__label__name ice matcha latte
+__label__description tek shot espresso, matcha çayı, süt, vanilya özütü
+__label__name ice maple latte
+__label__description espresso, akçaağaç şurubu, süt, vanilya özütü
+__label__name cherry fredo
+__label__description cold brew marashino kirazı, vanilyalı dondurma, süt
+__label__name lavender coco
+__label__description tek shot espresso, lavanta özü, hindistan cevizi, süt
+__label__name mint chocolate
+__label__description tek shot espresso, nane, çikolata sos, süt
+__label__name pamuk prenses
+__label__description cold brew, nutella, vanilya özütü, süt, krem şanti, çikolata parçacıkları
+__label__category alkollü kahveler
+__label__category soğuk
+__label__name ice maria
+__label__description baleys, tia maria, hindistan cevizi, espresso, süt
+__label__name mexico
+__label__description tekila, agave, spice blend, filtre kahve, krema
+__label__name stronger
+__label__description gordon's gin, tia maria, espresso, esmer şeker, süt, yaban mersini özütü
+__label__name violetta
+__label__description creme de cassis, kırmızı şarap, cold brew, esmer şeker, kambuça mint love
+__label__name olivia
+__label__description gordon's gin, chambord, cold brew, böğürtlen, şeker şurubu, greyfurt, kambuça cherry love
+__label__name bonita
+__label__description captain morgan white rum, amarula, krema, filtre kahve, çikolata özütü
+__label__category kahveler
+__label__category sicak
+__label__name türk kahvesi
+__label__name double türk kahvesi
+__label__name single espresso
+__label__name double espresso
+__label__name single espresso macchiato
+__label__name double espresso macchiato
+__label__name mocha
+__label__description white, dark chocolate, caramel
+__label__name filtre kahve colombia
+__label__name latte
+__label__name americano
+__label__name cappuccino
+__label__name sıcak karamel
+__label__name sıcak çikolata
+__label__name chai tea latte
+__label__name sahlep
+__label__name strawberry lace
+__label__description beyaz çikolata, çilek, filtre kahve, süt
+__label__name kopi jahe (güney amerika usulü)(baharatlı filtre kahve)
+__label__description yaş zencefil, tarçın özü, karanfil özü, filtre kahve
+__label__name walnut maple
+__label__description akçaağaç, ceviz özütü, tek shot espresso, süt
+__label__name almond fig latte
+__label__description badem, i̇ncir özütü, tek shot espresso, süt
+__label__name matcha latte
+__label__description espresso, matcha tea, süt, vanilya özü
+__label__category alkollü kahveler
+__label__category sicak
+__label__name coffee baileys
+__label__description baileys, tek shot espresso, süt
+__label__name irish coffee
+__label__description jameson, filtre kahve, esmer şeker, süt kreması
+__label__name la pienta
+__label__description captain morgan white rum, amarula, filtre kahve, bal, ceviz özütü, süt
+__label__name deja brew
+__label__description cold brew, kahlua, green chatreuse, spice blend, portakal özütü, süt
+__label__name valerio
+__label__description martel konyak, baileys, filtre kahve, akçaağaç, vanilya özütü, süt
+__label__category atiştirmaliklar/alkolün yaninda
+__label__name mix tabağı
+__label__description 150 gr çıtır tavuk, 4 adet stick, 4 parça füme sosis, 4 adet soğan halkası, patates kızartması, bbq sos, chili sos, ballı hardal ile
+__label__name chicken shots / fingers (250 gr)
+__label__description patates kızartması, bbq sos, chili sos, ballı hardal ile
+__label__name hot wings
+__label__description 8 adet acılı kanat ve patates kızartması ile
+__label__name füme sosis patates
+__label__description 2 adet sosis, bbq sos, chili sos, ballı hardal ile
+__label__name nachos sade
+__label__description guacamole, salsa, sour cream sos ile
+__label__name nacos dana etli
+__label__description nacho cipsi, sour cream, salsa, jalapeno biberi, domates, renkli biber, dana bonfile, kaşar peyniri, cheddar peyniri, dilim zeytin, tane mısır
+__label__name nachos tavuklu
+__label__name nachos peynirli
+__label__name hellim stick
+__label__description 8 adet bausta stick, bbq sos, chili sos, ballı hardal ile
+__label__name meatballs
+__label__description misket köfte, patates ve bbq sos, chili sos, ballı hardal ile
+__label__name fish and chips
+__label__description patates kızartması ve tartar sos ile
+__label__name tempura karides
+__label__description 8 adet karider, tartar sos ve chili sos ile
+__label__name karides güveç
+__label__name füme somon
+__label__name kuru et
+__label__description 100 gr kuru et, ceviz, kuru kayısı, kuru i̇ncir ile
+__label__name dana bonfile hellim stick
+__label__name çıtır mantı
+__label__name avakado fries
+__label__name börek tabağı
+__label__description patates kızartması, bbq sos, chili sos, ballı hardal ile
+__label__name patates kızartması
+__label__name elma dilim patates
+__label__name cheddar soslu patates kızartması
+__label__name meksika soslu patates kızartması
+__label__description meksika fasulyesi, jalapeno biber, kaşar peyniri, cheddar peyniri, krema, maydonoz
+__label__name peynir tabağı
+__label__description rokfor, gouda, edam, kars gravyer, parmesan, i̇sli peynir, eski kaşar
+__label__name meyve tabağı
+__label__name çöp şiş
+__label__category ana yemek beyaz et
+__label__description (200 gr tavuk, yanında pilav, sote baby patates ve sebze ile)
+__label__name schnitzel
+__label__description sote patates ve salata ile
+__label__name kremalı mantarlı schnitzel
+__label__description krema, kaşar peyniri, mantar
+__label__name napolitan soslu schnitzel
+__label__description mantar, napolitan sos, kaşar peyniri
+__label__name izgara tavuk bonfile
+__label__name mushroom chicken
+__label__description izgara tavuk bonfile, krema, mantar, kaşar
+__label__name köri soslu tavuk
+__label__description jülyen tavuk, köri sos, mantar, krema
+__label__name bbq soslu tavuk
+__label__description jülyen tavuk, soğan, mantar, çörek otu, maydanoz
+__label__name i̇talyan soslu tavuk
+__label__description jülyen tavuk, soğan, mantar, çörek otu, maydanoz
+__label__name meksika soslu tavuk
+__label__description jülyen tavuk, renkli biberler, jalapeno, meksika fasülyesi, domates sos
+__label__name pesto soslu tavuk
+__label__description jülyen tavuk, renkli biberler, taze fesleğen
+__label__name mantar soslu tavuk
+__label__description jülyen tavuk, mantar, taze fesleğen, kaşar peyniri
+__label__name beğendili tavuk
+__label__description beğendi, renkli biber, cherry domates, kekik, domates sos
+__label__name cheddar soslu tavuk
+__label__description jülyen tavuk, chedar sos
+__label__name güveçte tavuk sote
+__label__description domates sos, mantar, renkli biberler, kaşar peyniri
+__label__name çin usulü tavuk
+__label__description soya sos, mantar, renkli biber, brokoli, karnabahar, soya filizi
+__label__category kokteyller
+__label__name long island ice tea
+__label__description smirnoff vodka, captain morgan white rum, tekila, gordon's gin, cointreau, sweet & sour, cola
+__label__name lynchburg lemonade
+__label__description jack daniels, cointreau, sweet & sour, sprite
+__label__name mojito
+__label__description caprain morgan white rum, lime, esmer şeker, soda , nane (çilek, elma seçeneği ile)
+__label__name jager mojito
+__label__description jagermeister,lime, esmer şeker, nane, soda
+__label__name jagerboom
+__label__description jagermeister, redbull
+__label__name margarita
+__label__description tekila, cointreau, limon suyu
+__label__name mai tai
+__label__description captain morgan white rum, dark rum, cointreau, esmer şeker, lime suyu, ananas suyu, acıbadem likörü
+__label__name espresso martini
+__label__description smirnoff vodka, kahlua, vanilya özü, espresso, krema
+__label__name sangria
+__label__description captain morgan white rum, esmer şeker, kırmızı şarap, çilek, yeşil elma, portakal
+__label__name pina colado
+__label__description captain morgan white rum, malibu, bati de coco, ananas suyu, süt
+__label__name cosmopolitan
+__label__description smirnoff vodka, cointreau, vişne suyu, limon suyu
+__label__name apple martini
+__label__description smirnoff vodka, martini extra dry, sour apple likör, elma suyu, limon suyu
+__label__name dry martini
+__label__description gordon's gin, limon suyu, pudra şekeri, soda
+__label__name gin fizz
+__label__description gordon's gin, limon suyu, pudra şekeri, soda
+__label__name black russian
+__label__description smirnoff vodka, kahlua
+__label__name white russian
+__label__description smirnoff vodka, kahlua
+__label__name aperol spritz
+__label__description aperol, şampanya, soda
+__label__name old fashioned
+__label__description bulleit bourbon, angostura bitter, esmer şeker, su
+__label__name negroni
+__label__description gordon's gin, campari, martini rosso
+__label__name viski sour
+__label__description bulleit bourbon, sweet sour
+__label__name gin bull
+__label__description goron's gin, red bull yellow edition, limon suyu, lime, nane

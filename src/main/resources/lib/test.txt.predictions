@@ -1,0 +1,645 @@
+__label__category kahvalti
+Predictions   = name (0.999373)
+
+__label__name şipşak kahvaltı
+Predictions   = category (0.987364)
+
+__label__description dilediğiniz yumurta, beyaz peynir, tulum peyniri, kaşar peyniri, burgu peyniri, domates, salatalık, zeytin, reçel, bal, tereyağ, simir, 2 çay ile
+Predictions   = description (0.999804)
+
+__label__name serpme kahvaltı(kişi başı)
+Predictions   = name (0.999231)
+
+__label__description dilediğiniz yumurta, beyaz peynir, tulum peyniri, kaşar peyniri, dil peyniri, burgu  peyniri, kuru et, füme dil, füme kaburga, sucuk, domates, salatalık, reçel, nutella, tereyağ, bal, kaymak, zeytin, gözleme, patates kızartması, sınırsız çay ile
+Predictions   = description (0.994232)
+
+__label__category yumurta & omlet & menemen
+Predictions   = name (0.997915)
+
+__label__name sade
+Predictions   = name (0.999962)
+
+__label__name kavurmalı
+Predictions   = 
+
+__label__name sucuklu
+Predictions   = name (0.562589)
+
+__label__name peynirli
+Predictions   = name (0.999947)
+
+__label__description (beyaz peynir, kaşar peyniri)
+Predictions   = description (0.969491)
+
+__label__name karışık
+Predictions   = name (0.999987)
+
+__label__description (sucuk, sosis, mantar)
+Predictions   = description (0.996860)
+
+__label__name günün çorbası
+Predictions   = name (0.999949)
+
+__label__name soğan çorbası
+Predictions   = name (0.999900)
+
+__label__category kare tost & tortilla
+Predictions   = category (0.942111)
+
+__label__description (domates, salatalık ve patates kızartması ile)
+Predictions   = description (0.999438)
+
+__label__name çift kaşarlı
+Predictions   = name (0.999319)
+
+__label__name akdeniz
+Predictions   = name (0.936812)
+
+__label__description (domates, zeytin, kekik, ezine)
+Predictions   = name (0.989686)
+
+__label__name sucuk & kaşarlı
+Predictions   = name (0.999983)
+
+__label__name hindi füme & kaşarlı
+Predictions   = name (0.999777)
+
+__label__name dana jambon kaşarlı
+Predictions   = name (0.997577)
+
+__label__name kavurma kaşarlı
+Predictions   = name (0.999995)
+
+__label__category kahveler
+Predictions   = category (0.999980)
+
+__label__category soğuk
+Predictions   = category (0.868929)
+
+__label__name ice americano
+Predictions   = name (0.999923)
+
+__label__name ice latte
+Predictions   = name (0.999999)
+
+__label__name ice mocha
+Predictions   = name (0.999970)
+
+__label__description white & dark chocolate, caramel
+Predictions   = description (0.976648)
+
+__label__name ice chai tea latte
+Predictions   = name (0.999989)
+
+__label__name cold brew
+Predictions   = name (0.997159)
+
+__label__name cocomon
+Predictions   = name (0.997870)
+
+__label__description tek shot espresso, hindistan cevizi, toz tarçın ve özü
+Predictions   = description (0.999814)
+
+__label__name ice matcha latte
+Predictions   = name (0.999910)
+
+__label__description tek shot espresso, matcha çayı, süt, vanilya özütü
+Predictions   = description (0.993754)
+
+__label__name ice maple latte
+Predictions   = name (0.999964)
+
+__label__description espresso, akçaağaç şurubu, süt, vanilya özütü
+Predictions   = description (0.997181)
+
+__label__name cherry fredo
+Predictions   = name (0.994043)
+
+__label__description cold brew marashino kirazı, vanilyalı dondurma, süt
+Predictions   = description (0.983055)
+
+__label__name lavender coco
+Predictions   = name (0.996649)
+
+__label__description tek shot espresso, lavanta özü, hindistan cevizi, süt
+Predictions   = description (0.999736)
+
+__label__name mint chocolate
+Predictions   = name (0.998769)
+
+__label__description tek shot espresso, nane, çikolata sos, süt
+Predictions   = description (0.999971)
+
+__label__name pamuk prenses
+Predictions   = name (0.995238)
+
+__label__description cold brew, nutella, vanilya özütü, süt, krem şanti, çikolata parçacıkları
+Predictions   = description (0.991577)
+
+__label__category alkollü kahveler
+Predictions   = category (0.999701)
+
+__label__category soğuk
+Predictions   = category (0.868929)
+
+__label__name ice maria
+Predictions   = name (0.999776)
+
+__label__description baleys, tia maria, hindistan cevizi, espresso, süt
+Predictions   = description (0.999518)
+
+__label__name mexico
+Predictions   = name (0.997859)
+
+__label__description tekila, agave, spice blend, filtre kahve, krema
+Predictions   = description (0.996336)
+
+__label__name stronger
+Predictions   = name (0.997876)
+
+__label__description gordon's gin, tia maria, espresso, esmer şeker, süt, yaban mersini özütü
+Predictions   = description (0.998879)
+
+__label__name violetta
+Predictions   = name (0.997880)
+
+__label__description creme de cassis, kırmızı şarap, cold brew, esmer şeker, kambuça mint love
+Predictions   = description (0.991366)
+
+__label__name olivia
+Predictions   = name (0.997905)
+
+__label__description gordon's gin, chambord, cold brew, böğürtlen, şeker şurubu, greyfurt, kambuça cherry love
+Predictions   = description (0.994978)
+
+__label__name bonita
+Predictions   = name (0.997860)
+
+__label__description captain morgan white rum, amarula, krema, filtre kahve, çikolata özütü
+Predictions   = description (0.995420)
+
+__label__category kahveler
+Predictions   = category (0.999980)
+
+__label__category sicak
+Predictions   = category (0.999226)
+
+__label__name türk kahvesi
+Predictions   = name (0.998711)
+
+__label__name double türk kahvesi
+Predictions   = name (0.990960)
+
+__label__name single espresso
+Predictions   = name (0.999318)
+
+__label__name double espresso
+Predictions   = name (0.998764)
+
+__label__name single espresso macchiato
+Predictions   = name (0.999750)
+
+__label__name double espresso macchiato
+Predictions   = name (0.999745)
+
+__label__name mocha
+Predictions   = name (0.999956)
+
+__label__description white, dark chocolate, caramel
+Predictions   = description (0.999664)
+
+__label__name filtre kahve colombia
+Predictions   = name (0.994147)
+
+__label__name latte
+Predictions   = name (1.000000)
+
+__label__name americano
+Predictions   = name (0.999710)
+
+__label__name cappuccino
+Predictions   = name (0.999157)
+
+__label__name sıcak karamel
+Predictions   = name (0.997879)
+
+__label__name sıcak çikolata
+Predictions   = name (0.998392)
+
+__label__name chai tea latte
+Predictions   = name (0.999991)
+
+__label__name sahlep
+Predictions   = name (0.999082)
+
+__label__name strawberry lace
+Predictions   = name (0.996001)
+
+__label__description beyaz çikolata, çilek, filtre kahve, süt
+Predictions   = description (0.998456)
+
+__label__name kopi jahe (güney amerika usulü)(baharatlı filtre kahve)
+Predictions   = name (0.817741)
+
+__label__description yaş zencefil, tarçın özü, karanfil özü, filtre kahve
+Predictions   = description (0.985370)
+
+__label__name walnut maple
+Predictions   = name (0.994539)
+
+__label__description akçaağaç, ceviz özütü, tek shot espresso, süt
+Predictions   = description (0.996229)
+
+__label__name almond fig latte
+Predictions   = name (0.997949)
+
+__label__description badem, i̇ncir özütü, tek shot espresso, süt
+Predictions   = description (0.998808)
+
+__label__name matcha latte
+Predictions   = name (0.999806)
+
+__label__description espresso, matcha tea, süt, vanilya özü
+Predictions   = description (0.996668)
+
+__label__category alkollü kahveler
+Predictions   = category (0.999701)
+
+__label__category sicak
+Predictions   = category (0.999226)
+
+__label__name coffee baileys
+Predictions   = name (0.999374)
+
+__label__description baileys, tek shot espresso, süt
+Predictions   = description (0.999963)
+
+__label__name irish coffee
+Predictions   = name (0.998368)
+
+__label__description jameson, filtre kahve, esmer şeker, süt kreması
+Predictions   = description (0.999807)
+
+__label__name la pienta
+Predictions   = name (0.995294)
+
+__label__description captain morgan white rum, amarula, filtre kahve, bal, ceviz özütü, süt
+Predictions   = description (0.990774)
+
+__label__name deja brew
+Predictions   = name (0.998553)
+
+__label__description cold brew, kahlua, green chatreuse, spice blend, portakal özütü, süt
+Predictions   = description (0.996666)
+
+__label__name valerio
+Predictions   = name (0.997871)
+
+__label__description martel konyak, baileys, filtre kahve, akçaağaç, vanilya özütü, süt
+Predictions   = description (0.999033)
+
+__label__category atiştirmaliklar/alkolün yaninda
+Predictions   = category (0.994009)
+
+__label__name mix tabağı
+Predictions   = name (0.999961)
+
+__label__description 150 gr çıtır tavuk, 4 adet stick, 4 parça füme sosis, 4 adet soğan halkası, patates kızartması, bbq sos, chili sos, ballı hardal ile
+Predictions   = description (0.996675)
+
+__label__name chicken shots / fingers (250 gr)
+Predictions   = name (0.982184)
+
+__label__description patates kızartması, bbq sos, chili sos, ballı hardal ile
+Predictions   = description (0.999979)
+
+__label__name hot wings
+Predictions   = name (0.997291)
+
+__label__description 8 adet acılı kanat ve patates kızartması ile
+Predictions   = description (0.999731)
+
+__label__name füme sosis patates
+Predictions   = name (0.999898)
+
+__label__description 2 adet sosis, bbq sos, chili sos, ballı hardal ile
+Predictions   = description (0.999986)
+
+__label__name nachos sade
+Predictions   = name (0.995914)
+
+__label__description guacamole, salsa, sour cream sos ile
+Predictions   = description (0.990355)
+
+__label__name nacos dana etli
+Predictions   = description (0.849252)
+
+__label__description nacho cipsi, sour cream, salsa, jalapeno biberi, domates, renkli biber, dana bonfile, kaşar peyniri, cheddar peyniri, dilim zeytin, tane mısır
+Predictions   = description (0.999747)
+
+__label__name nachos tavuklu
+Predictions   = name (0.994528)
+
+__label__name nachos peynirli
+Predictions   = name (0.991492)
+
+__label__name hellim stick
+Predictions   = name (0.998010)
+
+__label__description 8 adet bausta stick, bbq sos, chili sos, ballı hardal ile
+Predictions   = description (0.999839)
+
+__label__name meatballs
+Predictions   = name (0.997953)
+
+__label__description misket köfte, patates ve bbq sos, chili sos, ballı hardal ile
+Predictions   = description (0.999997)
+
+__label__name fish and chips
+Predictions   = name (0.899020)
+
+__label__description patates kızartması ve tartar sos ile
+Predictions   = description (0.999764)
+
+__label__name tempura karides
+Predictions   = name (0.999917)
+
+__label__description 8 adet karider, tartar sos ve chili sos ile
+Predictions   = description (0.999986)
+
+__label__name karides güveç
+Predictions   = name (0.999898)
+
+__label__name füme somon
+Predictions   = name (0.997747)
+
+__label__name kuru et
+Predictions   = name (0.989381)
+
+__label__description 100 gr kuru et, ceviz, kuru kayısı, kuru i̇ncir ile
+Predictions   = description (0.990519)
+
+__label__name dana bonfile hellim stick
+Predictions   = name (0.995108)
+
+__label__name çıtır mantı
+Predictions   = name (0.999071)
+
+__label__name avakado fries
+Predictions   = name (0.987886)
+
+__label__name börek tabağı
+Predictions   = name (0.999710)
+
+__label__description patates kızartması, bbq sos, chili sos, ballı hardal ile
+Predictions   = description (0.999979)
+
+__label__name patates kızartması
+Predictions   = name (0.998042)
+
+__label__name elma dilim patates
+Predictions   = name (0.990632)
+
+__label__name cheddar soslu patates kızartması
+Predictions   = name (0.997398)
+
+__label__name meksika soslu patates kızartması
+Predictions   = name (0.999630)
+
+__label__description meksika fasulyesi, jalapeno biber, kaşar peyniri, cheddar peyniri, krema, maydonoz
+Predictions   = description (0.999951)
+
+__label__name peynir tabağı
+Predictions   = name (0.999993)
+
+__label__description rokfor, gouda, edam, kars gravyer, parmesan, i̇sli peynir, eski kaşar
+Predictions   = description (0.986039)
+
+__label__name meyve tabağı
+Predictions   = name (0.999657)
+
+__label__name çöp şiş
+Predictions   = name (0.999496)
+
+__label__category ana yemek beyaz et
+Predictions   = category (0.986449)
+
+__label__description (200 gr tavuk, yanında pilav, sote baby patates ve sebze ile)
+Predictions   = description (0.999778)
+
+__label__name schnitzel
+Predictions   = name (0.999857)
+
+__label__description sote patates ve salata ile
+Predictions   = description (0.994314)
+
+__label__name kremalı mantarlı schnitzel
+Predictions   = name (0.999673)
+
+__label__description krema, kaşar peyniri, mantar
+Predictions   = description (0.999924)
+
+__label__name napolitan soslu schnitzel
+Predictions   = name (0.999938)
+
+__label__description mantar, napolitan sos, kaşar peyniri
+Predictions   = description (0.956110)
+
+__label__name izgara tavuk bonfile
+Predictions   = name (0.990704)
+
+__label__name mushroom chicken
+Predictions   = name (0.999951)
+
+__label__description izgara tavuk bonfile, krema, mantar, kaşar
+Predictions   = description (0.982273)
+
+__label__name köri soslu tavuk
+Predictions   = name (0.999039)
+
+__label__description jülyen tavuk, köri sos, mantar, krema
+Predictions   = description (0.997381)
+
+__label__name bbq soslu tavuk
+Predictions   = name (0.999980)
+
+__label__description jülyen tavuk, soğan, mantar, çörek otu, maydanoz
+Predictions   = description (0.978952)
+
+__label__name i̇talyan soslu tavuk
+Predictions   = name (0.999297)
+
+__label__description jülyen tavuk, soğan, mantar, çörek otu, maydanoz
+Predictions   = description (0.978952)
+
+__label__name meksika soslu tavuk
+Predictions   = name (0.999833)
+
+__label__description jülyen tavuk, renkli biberler, jalapeno, meksika fasülyesi, domates sos
+Predictions   = description (0.904967)
+
+__label__name pesto soslu tavuk
+Predictions   = name (0.999449)
+
+__label__description jülyen tavuk, renkli biberler, taze fesleğen
+Predictions   = description (0.712588)
+
+__label__name mantar soslu tavuk
+Predictions   = name (0.999875)
+
+__label__description jülyen tavuk, mantar, taze fesleğen, kaşar peyniri
+Predictions   = name (0.894670)
+
+__label__name beğendili tavuk
+Predictions   = name (0.999213)
+
+__label__description beğendi, renkli biber, cherry domates, kekik, domates sos
+Predictions   = description (0.999910)
+
+__label__name cheddar soslu tavuk
+Predictions   = name (0.999628)
+
+__label__description jülyen tavuk, chedar sos
+Predictions   = description (0.935301)
+
+__label__name güveçte tavuk sote
+Predictions   = name (0.998030)
+
+__label__description domates sos, mantar, renkli biberler, kaşar peyniri
+Predictions   = description (0.992434)
+
+__label__name çin usulü tavuk
+Predictions   = name (0.987160)
+
+__label__description soya sos, mantar, renkli biber, brokoli, karnabahar, soya filizi
+Predictions   = description (0.999776)
+
+__label__category kokteyller
+Predictions   = category (0.998951)
+
+__label__name long island ice tea
+Predictions   = name (0.999909)
+
+__label__description smirnoff vodka, captain morgan white rum, tekila, gordon's gin, cointreau, sweet & sour, cola
+Predictions   = description (0.999533)
+
+__label__name lynchburg lemonade
+Predictions   = name (0.998515)
+
+__label__description jack daniels, cointreau, sweet & sour, sprite
+Predictions   = description (0.989825)
+
+__label__name mojito
+Predictions   = name (0.999707)
+
+__label__description caprain morgan white rum, lime, esmer şeker, soda , nane (çilek, elma seçeneği ile)
+Predictions   = description (0.999289)
+
+__label__name jager mojito
+Predictions   = name (0.996362)
+
+__label__description jagermeister,lime, esmer şeker, nane, soda
+Predictions   = description (0.999745)
+
+__label__name jagerboom
+Predictions   = name (0.998133)
+
+__label__description jagermeister, redbull
+Predictions   = description (0.994953)
+
+__label__name margarita
+Predictions   = name (0.999997)
+
+__label__description tekila, cointreau, limon suyu
+Predictions   = description (0.999179)
+
+__label__name mai tai
+Predictions   = name (0.995399)
+
+__label__description captain morgan white rum, dark rum, cointreau, esmer şeker, lime suyu, ananas suyu, acıbadem likörü
+Predictions   = description (0.999946)
+
+__label__name espresso martini
+Predictions   = name (0.999993)
+
+__label__description smirnoff vodka, kahlua, vanilya özü, espresso, krema
+Predictions   = description (0.999934)
+
+__label__name sangria
+Predictions   = name (0.999630)
+
+__label__description captain morgan white rum, esmer şeker, kırmızı şarap, çilek, yeşil elma, portakal
+Predictions   = description (0.991984)
+
+__label__name pina colado
+Predictions   = name (0.996762)
+
+__label__description captain morgan white rum, malibu, bati de coco, ananas suyu, süt
+Predictions   = description (0.996757)
+
+__label__name cosmopolitan
+Predictions   = name (0.999997)
+
+__label__description smirnoff vodka, cointreau, vişne suyu, limon suyu
+Predictions   = description (0.999978)
+
+__label__name apple martini
+Predictions   = name (0.998674)
+
+__label__description smirnoff vodka, martini extra dry, sour apple likör, elma suyu, limon suyu
+Predictions   = description (0.970597)
+
+__label__name dry martini
+Predictions   = name (0.999688)
+
+__label__description gordon's gin, limon suyu, pudra şekeri, soda
+Predictions   = description (0.999972)
+
+__label__name gin fizz
+Predictions   = name (0.999375)
+
+__label__description gordon's gin, limon suyu, pudra şekeri, soda
+Predictions   = description (0.999972)
+
+__label__name black russian
+Predictions   = name (0.998449)
+
+__label__description smirnoff vodka, kahlua
+Predictions   = description (0.997516)
+
+__label__name white russian
+Predictions   = name (0.998909)
+
+__label__description smirnoff vodka, kahlua
+Predictions   = description (0.997516)
+
+__label__name aperol spritz
+Predictions   = name (0.995395)
+
+__label__description aperol, şampanya, soda
+Predictions   = description (0.992769)
+
+__label__name old fashioned
+Predictions   = name (0.995410)
+
+__label__description bulleit bourbon, angostura bitter, esmer şeker, su
+Predictions   = description (0.994087)
+
+__label__name negroni
+Predictions   = name (0.998130)
+
+__label__description gordon's gin, campari, martini rosso
+Predictions   = description (0.995421)
+
+__label__name viski sour
+Predictions   = name (0.998021)
+
+__label__description bulleit bourbon, sweet sour
+Predictions   = description (0.995836)
+
+__label__name gin bull
+Predictions   = name (0.999621)
+
+__label__description goron's gin, red bull yellow edition, limon suyu, lime, nane
+Predictions   = description (0.999393)
+

@@ -1,0 +1,553 @@
+**************************************************Chicken Shots / Fingers(250gr) 
+40 
+
+505 
+Patates Kizartmas. Bbg Sos. Chilli Ball Hardal ie 
+Wings 
+Adet Acl Kanat 
+
+Kizartmasr i 
+40 
+
+9 
+Fume Sosis Patates 
+Sosis Bbg Sos, Chill Sos, Ball Hard ile 
+50 
+
+Nachos Sade 
+Salsa. Sour Cream Sos ile 
+30 
+
+Nachos Dana Etli 
+Cipsi Sour Cream, Salsa. Jalapeno Bberi. Domates, Renkl Bber, 
+Bonkle. Kosar Peyniri Cheddar Peyniri, Dlim Zeytin Tane Misr 
+45 
+
+Nachos Tavukdu 
+Nachos Tavukdu 
+40 
+
+Nachos Peynirli 
+40 
+
+Hellim Stick 
+Adet Bausta Stick Bog Sos, Chili Sos, Ball Hardal ie 
+35 
+
+Meatballs 
+Kolte, Patates 
+
+Sos, Chill Sos. Bal Hard ile 
+45 
+
+Fish and Chips 
+Kizartmase 
+
+Sos ile 
+45 
+
+Tempura Karides 
+Adet Karides, Tartar 
+ve 
+Sos ile 
+55 
+
+Karides Giivec 
+55 
+
+Fume Somon 
+55 
+
+Kuru Et 
+45 
+
+100 
+9 
+Kuru Et Ceviz Kuru Kayisy Kuru Incir ile 
+Dana Bonfile Hellim Stick 
+65 
+
+Citr Mantr 
+45 
+
+Avokado Fries 
+30 
+
+Boreke Tabagi 
+Kizartmas. Bbg Sos Chill Sos Ball Hardal ile 
+40 
+
+Patates Kizartmase 
+25 
+
+Elma Dilim Patates 
+25 
+
+Cheddar Soslu Patates Kizartmasr 
+35 
+
+Meksika Soslu Patates Kizartmasi 
+35 
+
+Meksika Fasulyesi, Jalapeno Bberi, Kasar Peyniri Cheddar Peyniri Krema Maydonoz 
+Peynir Tabag 
+Gouda Edam, Kars Gravyer, Parmesan, bhi Peynit Eski Kagar 
+55 
+
+Meyve Tabagr 
+40 
+
+Cop Sis 
+50 
+
+KAHVELER 
+SICAK 
+Turk Kahvesi / Double Turk Kahvesi 
+12 
+20 
+
+Single Espresso / Double Espresso 
+10 
+14 
+
+Single Espresso Macchiato / Double Espresso Macchiato 
+12 
+16 
+
+Mocha 
+22 
+
+W/hite Dark Chocolate, Carame 
+Filtre Kahve Colombia 
+16 
+
+Latte 
+18 
+
+Americano 
+18 
+
+Cappuccino 
+18 
+
+Sicak Karamel 
+Sicak Karamel 
+18 
+
+Sicak Gikolata 
+Sicak Gikolata 
+18 
+
+Chai Tea Latte 
+18 
+
+Sahlep 
+18 
+
+Strawberry Lace 
+Ckolata, Clek, Filtre Kahve Su 
+25 
+
+Kopi Jahe (Guiney Amerika Usuli) (Baharath Filtre Kahve) 
+Zencehil, Torpn Ozi, Karanfil Ozii, Filtre Kahve 
+27 
+
+Walnut Maple 
+Ceviz Onitii. Tek Shot Espresso, Sut 
+28 
+
+Almond Fig Latte 
+Incir Oziitil, Tek Shot Espresso. Sut 
+28 
+
+Matche Latte 
+Mactha Tea Sot Vanilye Or 
+26 
+
+ALKOLLU KAHVELER 
+ALKOLLU KAHVELER 
+SICAK 
+Coffee Baileys 
+Tek Shot Espresso, Sut 
+40 
+
+Irish Coffee 
+Fltre Kahve Esmer Seker, Sut Kremas 
+50 
+
+La Pienta 
+Morgan White Rum Amarula Filtre Kahve Bal. 
+Ozitu, Sit 
+45 
+
+Deja Brew 
+Brew, Kghlud Green Chartreuse Spice Blend, 
+50 
+
+Portakal Oriiti Sut 
+Valerio 
+50 
+
+Marte Konyak, Baileys, Filtre Kahve Akpaagag 
+Oziitu, Sut 
+MENU 
+
+dishes-without-category
+	Chicken Shots / Fingers(250gr) 
+		null
+			40 
+	
+		Patates Kizartmas. Bbg Sos. Chilli Ball Hardal ie 
+			505 
+	Wings 
+		Adet Acl Kanat 
+			null
+	
+		null
+			null
+	Kizartmasr i 
+		null
+			40 
+	
+		null
+			9 
+	Fume Sosis Patates 
+		Sosis Bbg Sos, Chill Sos, Ball Hard ile 
+			50 
+	
+		null
+			null
+	Nachos Sade 
+		null
+			null
+	Salsa. Sour Cream Sos ile 
+		null
+			30 
+	
+		null
+			null
+	Nachos Dana Etli 
+		null
+			null
+	Cipsi Sour Cream, Salsa. Jalapeno Bberi. Domates, Renkl Bber, 
+		Bonkle. Kosar Peyniri Cheddar Peyniri, Dlim Zeytin Tane Misr 
+			45 
+	
+		null
+			40 
+Nachos Tavukdu 
+Nachos Tavukdu 
+	
+		null
+			null
+	Nachos Peynirli 
+		null
+			40 
+	
+		null
+			null
+	Hellim Stick 
+		Adet Bausta Stick Bog Sos, Chili Sos, Ball Hardal ie 
+			35 
+	
+		null
+			null
+	Meatballs 
+		null
+			null
+	Kolte, Patates 
+		null
+			null
+	
+		Sos, Chill Sos. Bal Hard ile 
+			45 
+	
+		null
+			null
+	Fish and Chips 
+		null
+			null
+	Kizartmase 
+		null
+			null
+	
+		Sos ile 
+			45 
+	
+		null
+			null
+	Tempura Karides 
+		null
+			null
+	Adet Karides, Tartar 
+		Sos ile 
+			55 
+	
+		null
+			null
+	Karides Giivec 
+		null
+			55 
+	
+		null
+			null
+	Fume Somon 
+		null
+			55 
+	
+		null
+			null
+	Kuru Et 
+		null
+			45 
+	
+		null
+			9 
+	Kuru Et Ceviz Kuru Kayisy Kuru Incir ile 
+		null
+			null
+	Dana Bonfile Hellim Stick 
+		null
+			65 
+	
+		null
+			null
+	Citr Mantr 
+		null
+			45 
+	
+		null
+			null
+	Avokado Fries 
+		null
+			30 
+	
+		null
+			null
+	Boreke Tabagi 
+		Kizartmas. Bbg Sos Chill Sos Ball Hardal ile 
+			40 
+	
+		null
+			null
+	Patates Kizartmase 
+		null
+			25 
+	
+		null
+			null
+	Elma Dilim Patates 
+		null
+			25 
+	
+		null
+			null
+	Cheddar Soslu Patates Kizartmasr 
+		null
+			35 
+	
+		null
+			null
+	Meksika Soslu Patates Kizartmasi 
+		null
+			35 
+	
+		Meksika Fasulyesi, Jalapeno Bberi, Kasar Peyniri Cheddar Peyniri Krema Maydonoz 
+			null
+	Peynir Tabag 
+		Gouda Edam, Kars Gravyer, Parmesan, bhi Peynit Eski Kagar 
+			55 
+	
+		null
+			null
+	Meyve Tabagr 
+		null
+			40 
+	
+		null
+			null
+	Cop Sis 
+		null
+			50 
+	
+		null
+			null
+KAHVELER 
+	SICAK 
+		null
+			null
+	Turk Kahvesi / Double Turk Kahvesi 
+		null
+			20 
+	
+		null
+			null
+	Single Espresso / Double Espresso 
+		null
+			14 
+	
+		null
+			null
+	Single Espresso Macchiato / Double Espresso Macchiato 
+		null
+			16 
+	
+		null
+			null
+	Mocha 
+		null
+			22 
+	
+		null
+			null
+	W/hite Dark Chocolate, Carame 
+		null
+			null
+	Filtre Kahve Colombia 
+		null
+			16 
+	
+		null
+			null
+	Latte 
+		null
+			18 
+	
+		null
+			null
+	Americano 
+		null
+			18 
+	
+		null
+			null
+	Cappuccino 
+		null
+			18 
+	
+		null
+			18 
+Sicak Karamel 
+Sicak Karamel 
+	
+		null
+			18 
+Sicak Gikolata 
+Sicak Gikolata 
+	
+		null
+			null
+	Chai Tea Latte 
+		null
+			18 
+	
+		null
+			null
+	Sahlep 
+		null
+			18 
+	
+		null
+			null
+	Strawberry Lace 
+		null
+			null
+	Ckolata, Clek, Filtre Kahve Su 
+		null
+			25 
+	
+		null
+			null
+	Kopi Jahe (Guiney Amerika Usuli) (Baharath Filtre Kahve) 
+		null
+			null
+	Zencehil, Torpn Ozi, Karanfil Ozii, Filtre Kahve 
+		null
+			27 
+	
+		null
+			null
+	Walnut Maple 
+		null
+			null
+	Ceviz Onitii. Tek Shot Espresso, Sut 
+		null
+			28 
+	
+		null
+			null
+	Almond Fig Latte 
+		null
+			null
+	Incir Oziitil, Tek Shot Espresso. Sut 
+		null
+			28 
+	
+		null
+			null
+	Matche Latte 
+		null
+			null
+	Mactha Tea Sot Vanilye Or 
+		null
+			26 
+	
+		null
+			null
+ALKOLLU KAHVELER 
+ALKOLLU KAHVELER 
+	SICAK 
+		null
+			null
+	Coffee Baileys 
+		null
+			null
+	Tek Shot Espresso, Sut 
+		null
+			40 
+	
+		null
+			null
+	Irish Coffee 
+		null
+			50 
+Fltre Kahve Esmer Seker, Sut Kremas 
+	
+		null
+			null
+	La Pienta 
+		null
+			null
+	Morgan White Rum Amarula Filtre Kahve Bal. 
+		null
+			null
+	Ozitu, Sit 
+		null
+			45 
+	
+		null
+			null
+	Deja Brew 
+		null
+			null
+	Brew, Kghlud Green Chartreuse Spice Blend, 
+		null
+			50 
+	
+		null
+			null
+	Portakal Oriiti Sut 
+		null
+			null
+	Valerio 
+		null
+			50 
+	
+		null
+			null
+	Marte Konyak, Baileys, Filtre Kahve Akpaagag 
+		null
+			null
+	Oziitu, Sut 
+		null
+			null
