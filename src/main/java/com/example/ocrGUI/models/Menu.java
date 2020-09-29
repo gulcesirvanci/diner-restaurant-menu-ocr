@@ -75,8 +75,10 @@ public class Menu {
                 previousLabel = "description";
             }
             else{
-                if(currentDish != null)
-                    currentDish.setPrice(entry.getOcrText());
+                if(currentDish != null) {
+                    String price = entry.getOcrText().replaceAll("[^,\\d]", "");
+                    currentDish.setPrice(price);
+                }
                 previousLabel = "price";
             }
         }

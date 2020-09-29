@@ -1,4 +1,6 @@
 package com.example.ocrGUI.controllers;
+import com.amazonaws.AmazonWebServiceClient;
+import com.amazonaws.auth.AWS3Signer;
 import com.amazonaws.services.textract.AmazonTextract;
 import com.amazonaws.services.textract.AmazonTextractClientBuilder;
 import com.amazonaws.services.textract.model.*;
@@ -31,14 +33,14 @@ public class MenuController {
     private static double smallestBoundingBoxHeight = Double.POSITIVE_INFINITY;
     private static double largestBoundingBoxHeight = 0;
 
-    public Menu implementOcrAndClassify(String restaurantName, ArrayList<String> menuPages) {
+    public Menu implementOcrAndClassifyMod2(String restaurantName, ArrayList<String> menuPages) {
         Classifier classifier = new Classifier();
         Menu menu = new Menu(restaurantName);
 
         try{
             for(String filename : menuPages) {
 
-                List<Block> blocks = runOcr(filename);
+                List<Block> blocks = runOcrMod2(filename);
 
                 List<Block> cells = new ArrayList<>();
                 List<Block> tables = new ArrayList<>();
@@ -102,7 +104,45 @@ public class MenuController {
         }
         return menu;
     }
-    public List<Block> runOcr(String filename){
+    public Menu implementOcrAndClassifyMod1(String restaurantName, ArrayList<String> menuPages) throws Exception{
+
+        Classifier classifier = new Classifier();
+        Menu menu = new Menu(restaurantName);
+
+        List<Block> lines = new ArrayList<>();
+        List<LabeledEntry> labeledMenuEntries = new ArrayList<>();
+        for(String filename : menuPages){
+            List<Block> blocks = runOcrMod1(filename);
+            for(Block block : blocks){
+                if(block.getBlockType().equals("LINE"))
+                    lines.add(block);
+            }
+        }
+
+        for(Block line : lines){
+            String label = classifier.classify(line.getText());
+            labeledMenuEntries.add(new LabeledEntry(line.getText(), label));
+        }
+
+        menu.createMenuFromLabeledEntries(labeledMenuEntries);
+        return menu;
+    }
+    public List<Block> runOcrMod1(String filename) throws Exception{
+        ByteBuffer imageBytes;
+        InputStream inputStream = new FileInputStream(new File("./src/main/resources/images/"+filename));
+            imageBytes = ByteBuffer.wrap(IOUtils.toByteArray(inputStream));
+            AmazonTextract client = AmazonTextractClientBuilder.defaultClient();
+            DetectDocumentTextRequest request = new DetectDocumentTextRequest()
+                    .withDocument(new Document().withBytes(imageBytes));
+            DetectDocumentTextResult result = client.detectDocumentText(request);
+
+            BufferedWriter writer = new BufferedWriter(new FileWriter("resultingjson.txt"));
+            writer.append(result.toString());
+            writer.close();
+            return result.getBlocks();
+
+    }
+    public List<Block> runOcrMod2(String filename){
         ByteBuffer imageBytes;
         try (InputStream inputStream = new FileInputStream(new File("./src/main/resources/images/"+filename))) {
             imageBytes = ByteBuffer.wrap(IOUtils.toByteArray(inputStream));
@@ -117,7 +157,6 @@ public class MenuController {
             writer.close();
             return result.getBlocks();
         }catch (Exception e){
-            e.printStackTrace();
             return new ArrayList<Block>();
         }
     }

@@ -24,6 +24,9 @@ public class Classifier {
         String processed = String.join(" ", TurkishTokenizer.DEFAULT.tokenizeToStrings(s));
         processed = processed.toLowerCase(Turkish.LOCALE);
 
+        if(processed.matches("\\d+(,\\d{1,2})?(.*)?"))
+            return "price";
+
         List<ScoredItem<String>> res = classifier.predict(processed, 1);
 
         return findLabel(processed, res);

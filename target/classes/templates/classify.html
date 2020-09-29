@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Getting Started: Serving Web Content</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<div th:if="${not #lists.isEmpty(entries)}">
+    <h2>Entries</h2>
+    <table class="table table-striped">
+        <tr>
+            <th>Ocr Text</th>
+            <th>Label</th>
+        </tr>
+        <tr th:each="entry : ${entries}">
+            <td th:text="${entry.ocrText}"></td>
+            <td th:text="${entry.label}"></td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>

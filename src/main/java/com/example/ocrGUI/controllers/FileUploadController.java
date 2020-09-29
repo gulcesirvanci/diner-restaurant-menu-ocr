@@ -25,7 +25,8 @@ public class FileUploadController {
     public static String uploadDirectory = "./src/main/resources/images";
 
     @RequestMapping(value= "/upload", method = RequestMethod.POST)
-    public String upload(Model model, @RequestParam("restaurantName") String restaurantName, @RequestParam("files") MultipartFile[] files) {
+    public String upload(Model model, @RequestParam("restaurantName") String restaurantName, @RequestParam("files") MultipartFile[] files,
+                         @RequestParam("mod") String mod) {
         try{
 
             Resource r = new ClassPathResource("applicationContext.xml");
@@ -43,7 +44,11 @@ public class FileUploadController {
 
             MenuDao menuDao = (MenuDao) factory.getBean("mdao");
             MenuController ocr = new MenuController();
-            Menu menu = ocr.implementOcrAndClassify(restaurantName, fileNames);
+            Menu menu = new Menu(restaurantName);
+            if(mod.equals("mod2"))
+                menu = ocr.implementOcrAndClassifyMod2(restaurantName, fileNames);
+            else
+                menu = ocr.implementOcrAndClassifyMod1(restaurantName, fileNames);
             menuDao.insertMenu(menu);
             model.addAttribute("menu", menu);
             model.addAttribute("menuId", menu.getMenuID());
