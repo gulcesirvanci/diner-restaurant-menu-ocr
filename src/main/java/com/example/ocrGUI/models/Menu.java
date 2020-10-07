@@ -91,9 +91,12 @@ public class Menu {
         for(Category category : menuCategories){
             menu += category.getName()+"\n";
             for(Dish dish : category.getDishes()){
-                menu += "\t"+dish.getName()+"\n";
-                menu += "\t\t"+dish.getDescription()+"\n";
-                menu += "\t\t\t"+dish.getPrice()+"\n";
+                if(dish.getName() != null)
+                    menu += dish.getName()+"\n";
+                if(dish.getDescription() != null)
+                    menu += dish.getDescription()+"\n";
+                if(dish.getPrice() != null)
+                    menu += dish.getPrice()+"\n";
             }
         }
         return menu;

@@ -5,16 +5,16 @@ public class WordGroup{
     private int colIndex;
     private double leftCoordinate;
     private double topCoordinate;
-    private double boundingBoxWidth;
+    private double rightCoordinate;
     private double boundingBoxHeight;
     private String content = "";
     private boolean isPrice = false;
     private boolean isCategory = false;
 
-    public WordGroup(double leftCoordinate, double topCoordinate, double boundingBoxWidth, double boundingBoxHeight, int rowIndex, int colIndex){
+    public WordGroup(double leftCoordinate, double topCoordinate, double rightCoordinate, double boundingBoxHeight, int rowIndex, int colIndex){
         this.leftCoordinate = leftCoordinate;
         this.topCoordinate = topCoordinate;
-        this.boundingBoxWidth = boundingBoxWidth;
+        this.rightCoordinate = rightCoordinate;
         this.boundingBoxHeight = boundingBoxHeight;
         this.rowIndex = rowIndex;
         this.colIndex = colIndex;
@@ -65,12 +65,12 @@ public class WordGroup{
     public void setTopCoordinate(double topCoordinate) {
         this.topCoordinate = topCoordinate;
     }
-    public double getBoundingBoxWidth() {
-        return boundingBoxWidth;
+    public double getRightCoordinate() {
+        return rightCoordinate;
     }
 
-    public void setBoundingBoxWidth(double boundingBoxWidth) {
-        this.boundingBoxWidth = boundingBoxWidth;
+    public void setRightCoordinate(double rightCoordinate) {
+        this.rightCoordinate = rightCoordinate;
     }
     public double getBoundingBoxHeight() {
         return boundingBoxHeight;

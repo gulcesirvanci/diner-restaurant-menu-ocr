@@ -52,6 +52,7 @@ public class FileUploadController {
             menuDao.insertMenu(menu);
             model.addAttribute("menu", menu);
             model.addAttribute("menuId", menu.getMenuID());
+            model.addAttribute("filenames", fileNames);
 
             return "categoriesUpdatePage";
 

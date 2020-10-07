@@ -1,0 +1,70 @@
+dishes-without-category
+MEZELER/APPETIZERS 
+Atom 
+Yoghurt with Pepper   
+20,00 
+Portakall Enginar 
+Artichoke with Orange   
+2000 
+Rokali Biberli Haydari 
+ 
+Haydan Peppery Arugula 
+ 
+18,00 
+Isirganotlu Acili Ezme 
+Pepper Puree with Stinging Nettle   
+20,00 
+Kunu Domatesli Zeytin Salatasi 
+Olive Salad with Dried Tomatoes   
+2400 
+Koz Pathican Salatasi 
+Roasted Eggplant Salad   
+20,00 
+Fistikli Peynir Ezme 
+ 
+Crushing Cheese and Peanut 
+ 
+28,00 
+Fava 
+ 
+Fava 
+ 
+20,00 
+isli Uskumru 
+ 
+Smoked Mackerel 
+ 
+35,00 
+Levrek Marine 
+Marine Sea Bass   
+45,00 
+Yerli Karides Sogus 
+Loca Shrimp Cold Cuts   
+35,00 
+Lakerda 
+ 
+Pickled Tunny 
+ 
+5000 
+Levrek Dolma 
+Stuffed Sea Bass   
+45,00 
+isli Sardalya 
+ 
+Smoked Sardine 
+Balik Pastirmasi   
+30,00 
+Fish Bacon 
+ 
+50,00 
+Kayakorugu Otu 
+ 
+Rock Air Spring Vegetable 
+ 
+20,00 
+Borulce 
+Sea Cowpea   
+20,00 
+Topik 
+ 
+30,00 

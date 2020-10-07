@@ -1,5 +1,6 @@
 package com.example.ocrGUI.util;
 
+import com.amazonaws.services.textract.model.BoundingBox;
 import org.opencv.core.*;
 import org.opencv.core.Point;
 import org.opencv.imgproc.Imgproc;
@@ -23,14 +24,32 @@ public class BoundingBoxDrawer {
             Mat output = image.clone();
             for(List<WordGroup> wordGroupList : wordGroupsPerCell){
                 for(WordGroup group : wordGroupList){
-                    double width = group.getBoundingBoxWidth() * image.width();
+                    double right= group.getRightCoordinate() * image.width();
                     double height = group.getBoundingBoxHeight() * image.height();
                     double left = group.getLeftCoordinate() * image.width();
                     double top = group.getTopCoordinate() * image.height();
-                    Imgproc.rectangle(output, new Point(left,top), new Point(left+width,top+height), new Scalar(0, 200, 200), 2);
+                    Imgproc.rectangle(output, new Point(left,top), new Point(right,top+height), new Scalar(0, 200, 200), 2);
                 }
             }
-            Imgcodecs.imwrite("./src/main/resources/imagesWithBoundingBoxes/"+filename, output);
+            Imgcodecs.imwrite("/imagesWithBoundingBoxes/"+filename, output);
+        } catch (Exception e){
+            e.printStackTrace();
+        }
+    }
+    public void drawBoundingBoxesForMod1(String filename, List<BoundingBox> boundingBoxes){
+        try {
+            nu.pattern.OpenCV.loadShared();
+            //System.loadLibrary(org.opencv.core.Core.NATIVE_LIBRARY_NAME);
+            Mat image = Imgcodecs.imread("./src/main/resources/images/"+filename, 1);
+            Mat output = image.clone();
+            for(BoundingBox box : boundingBoxes){
+                    double right= (box.getWidth()+box.getLeft()) * image.width();
+                    double height = box.getHeight() * image.height();
+                    double left = box.getLeft() * image.width();
+                    double top = box.getTop() * image.height();
+                    Imgproc.rectangle(output, new Point(left,top), new Point(right,top+height), new Scalar(0, 200, 200), 2);
+            }
+            Imgcodecs.imwrite("/imagesWithBoundingBoxes/"+filename, output);
         } catch (Exception e){
             e.printStackTrace();
         }

@@ -36,7 +36,7 @@ public class MenuController {
     public Menu implementOcrAndClassifyMod2(String restaurantName, ArrayList<String> menuPages) {
         Classifier classifier = new Classifier();
         Menu menu = new Menu(restaurantName);
-
+        List<LabeledEntry> entries = new ArrayList<>();
         try{
             for(String filename : menuPages) {
 
@@ -95,28 +95,34 @@ public class MenuController {
                 BoundingBoxDrawer drawer = new BoundingBoxDrawer();
                 drawer.drawBoundingBoxes(filename, wordGroupsPerCell);
 
-                List<LabeledEntry> entries = getLabeledEntries(wordGroupsPerCell);
-                menu.createMenuFromLabeledEntries(entries);
+                entries.addAll(getLabeledEntries(wordGroupsPerCell));
+
 
             }
         } catch (Exception e){
             e.printStackTrace();
         }
+        menu.createMenuFromLabeledEntries(entries);
         return menu;
     }
     public Menu implementOcrAndClassifyMod1(String restaurantName, ArrayList<String> menuPages) throws Exception{
 
         Classifier classifier = new Classifier();
         Menu menu = new Menu(restaurantName);
-
+        List<BoundingBox> boundingBoxes = new ArrayList<>();
         List<Block> lines = new ArrayList<>();
         List<LabeledEntry> labeledMenuEntries = new ArrayList<>();
         for(String filename : menuPages){
             List<Block> blocks = runOcrMod1(filename);
             for(Block block : blocks){
-                if(block.getBlockType().equals("LINE"))
+                if(block.getBlockType().equals("LINE")){
                     lines.add(block);
+                    boundingBoxes.add(block.getGeometry().getBoundingBox());
+                }
+
             }
+            BoundingBoxDrawer drawer = new BoundingBoxDrawer();
+            drawer.drawBoundingBoxesForMod1(filename, boundingBoxes);
         }
 
         for(Block line : lines){
@@ -222,7 +228,7 @@ public class MenuController {
         List<WordGroup> wordGroups = new ArrayList<>();
         Block currentWord = words.get(0);
         BoundingBox boundingBox = currentWord.getGeometry().getBoundingBox();
-        WordGroup group = new WordGroup(boundingBox.getLeft(), boundingBox.getTop(), boundingBox.getWidth(), boundingBox.getHeight(), rowIndex, columnIndex);
+        WordGroup group = new WordGroup(boundingBox.getLeft(), boundingBox.getTop(), boundingBox.getLeft()+boundingBox.getWidth(), boundingBox.getHeight(), rowIndex, columnIndex);
 
         for(Block word : words){
 
@@ -235,7 +241,7 @@ public class MenuController {
 
             if(ocrText.matches("\\d+(,\\d{1,2})?(.*)?")){
                 String price = word.getText().replaceAll("[^,\\d]", "");
-                WordGroup priceGroup = new WordGroup(boundingBoxOfWord.getLeft(), boundingBoxOfWord.getTop(), boundingBoxOfWord.getWidth(), boundingBoxOfWord.getHeight(), rowIndex, columnIndex);
+                WordGroup priceGroup = new WordGroup(boundingBoxOfWord.getLeft(), boundingBoxOfWord.getTop(), boundingBoxOfWord.getLeft()+boundingBoxOfWord.getWidth(), boundingBoxOfWord.getHeight(), rowIndex, columnIndex);
                 priceGroup.markAsPrice();
                 priceGroup.addContent(price);
                 wordGroups.add(priceGroup);
@@ -252,7 +258,7 @@ public class MenuController {
                     wordGroups.add(group);
                 }
                 currentWord = word;
-                group = new WordGroup(boundingBoxOfWord.getLeft(), boundingBoxOfWord.getTop(), boundingBoxOfWord.getWidth(), boundingBoxOfWord.getHeight(), rowIndex, columnIndex);
+                group = new WordGroup(boundingBoxOfWord.getLeft(), boundingBoxOfWord.getTop(), boundingBoxOfWord.getWidth() + boundingBoxOfWord.getLeft(), boundingBoxOfWord.getHeight(), rowIndex, columnIndex);
                 group.addContent(currentWord.getText());
             }
         }
@@ -266,8 +272,8 @@ public class MenuController {
             group.setLeftCoordinate(newGroupBoundingBox.getLeft());
         if(group.getTopCoordinate() > newGroupBoundingBox.getTop())
             group.setTopCoordinate(newGroupBoundingBox.getTop());
-        if(group.getBoundingBoxWidth() < newGroupBoundingBox.getWidth())
-            group.setBoundingBoxWidth(newGroupBoundingBox.getWidth() + group.getBoundingBoxWidth());
+        if(group.getRightCoordinate() < newGroupBoundingBox.getLeft() + newGroupBoundingBox.getWidth());
+            group.setRightCoordinate(newGroupBoundingBox.getLeft() + newGroupBoundingBox.getWidth());
         if(group.getBoundingBoxHeight() < newGroupBoundingBox.getHeight())
             group.setBoundingBoxHeight(newGroupBoundingBox.getHeight());
         return group;
@@ -380,11 +386,11 @@ public class MenuController {
             Pair<Integer, Integer> indices = findClosestBlock(category, wordGroupsPerCell);
             if(indices.getFirst() == -1){
                 List<WordGroup> newGroupList = new ArrayList<>();
-                WordGroup group = new WordGroup(categoryBoundingBox.getLeft(), categoryBoundingBox.getTop(), categoryBoundingBox.getWidth(), categoryBoundingBox.getHeight(), 0, 0);
+                WordGroup group = new WordGroup(categoryBoundingBox.getLeft(), categoryBoundingBox.getTop(), categoryBoundingBox.getLeft()+categoryBoundingBox.getWidth(), categoryBoundingBox.getHeight(), 0, 0);
                 newGroupList.add(group);
                 wordGroupsPerCell.add(newGroupList);
             }else {
-                WordGroup wordGroup = new WordGroup(categoryBoundingBox.getLeft(), categoryBoundingBox.getTop(), categoryBoundingBox.getWidth(), categoryBoundingBox.getHeight(), 0, 0);
+                WordGroup wordGroup = new WordGroup(categoryBoundingBox.getLeft(), categoryBoundingBox.getTop(), categoryBoundingBox.getLeft() + categoryBoundingBox.getWidth(), categoryBoundingBox.getHeight(), 0, 0);
                 wordGroup.addContent(category.getText());
                 wordGroup.markAsCategory();
                 if (indices.getSecond() != -1)

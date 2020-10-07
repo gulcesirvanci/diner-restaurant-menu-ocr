@@ -6,6 +6,7 @@ import com.example.ocrGUI.daos.MenuDao;
 import com.example.ocrGUI.models.Category;
 import com.example.ocrGUI.models.Dish;
 import com.example.ocrGUI.models.Menu;
+import com.example.ocrGUI.util.FilenamesCollection;
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.beans.factory.xml.XmlBeanFactory;
 import org.springframework.core.io.ClassPathResource;
@@ -15,11 +16,13 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
+import java.util.List;
+
 @Controller
 public class DishController {
 
     @RequestMapping("/list-menu-items")
-    public String listMenuItems(Model model, @RequestParam("menuId") int menuId){
+    public String listMenuItems(Model model, @RequestParam("menuId") int menuId, @RequestParam("filenames") String filenames){
         Resource r=new ClassPathResource("applicationContext.xml");
         BeanFactory factory=new XmlBeanFactory(r);
         MenuDao menuDao = (MenuDao) factory.getBean("mdao");
@@ -27,6 +30,8 @@ public class DishController {
         Menu menu = menuDao.selectMenu(menuId).get(0);
         model.addAttribute("menuId", menuId);
         model.addAttribute("menu", menu);
+        String[] filenameList = processFilenames(filenames);
+        model.addAttribute("filenames", filenameList);
 
         return "menuItemsUpdatePage";
     }
@@ -37,7 +42,8 @@ public class DishController {
                                                @RequestParam("name") String name,
                                                @RequestParam("category") String category,
                                                @RequestParam("description") String description,
-                                               @RequestParam("price") String price){
+                                               @RequestParam("price") String price,
+                                                @RequestParam("filenames") String filenames){
 
         Resource r=new ClassPathResource("applicationContext.xml");
         BeanFactory factory=new XmlBeanFactory(r);
@@ -50,7 +56,7 @@ public class DishController {
         oldCategoryID = item.getCategoryID();
         item.setCategoryID(Integer.parseInt(category));
         item.setName(name);
-        item.addToDescription(description);
+        item.setDescription(description);
         item.setPrice(price);
         dishDao.updateDish(item);
 
@@ -66,7 +72,8 @@ public class DishController {
         Menu currentMenu = menuDao.selectMenu(menuId).get(0);
         model.addAttribute("menu", currentMenu);
         model.addAttribute("menuId", menuId);
-
+        String[] filenameList = processFilenames(filenames);
+        model.addAttribute("filenames", filenameList);
         return "menuItemsUpdatePage";
 
     }
@@ -76,7 +83,8 @@ public class DishController {
                                             @RequestParam("name") String name,
                                             @RequestParam("category") int category,
                                             @RequestParam("description") String description,
-                                            @RequestParam("price") String price){
+                                            @RequestParam("price") String price,
+                                            @RequestParam("filenames") String filenames){
 
         Resource r=new ClassPathResource("applicationContext.xml");
         BeanFactory factory=new XmlBeanFactory(r);
@@ -95,12 +103,13 @@ public class DishController {
         Menu menu = menuDao.selectMenu(menuId).get(0);
         model.addAttribute("menuId", menuId);
         model.addAttribute("menu", menu);
-
+        String[] filenameList = processFilenames(filenames);
+        model.addAttribute("filenames", filenameList);
         return "menuItemsUpdatePage";
     }
 
     @RequestMapping("/delete-menu-item")
-    public String deleteMenuItem(Model model, @RequestParam("dishId") int dishId, @RequestParam("menuId") int menuId){
+    public String deleteMenuItem(Model model, @RequestParam("dishId") int dishId, @RequestParam("menuId") int menuId, @RequestParam("filenames") String filenames){
         Resource r=new ClassPathResource("applicationContext.xml");
         BeanFactory factory=new XmlBeanFactory(r);
         DishDao dishDao = (DishDao) factory.getBean("ddao");
@@ -117,7 +126,17 @@ public class DishController {
         Menu menu = menuDao.selectMenu(menuId).get(0);
         model.addAttribute("menuId", menuId);
         model.addAttribute("menu", menu);
+        String[] filenameList = processFilenames(filenames);
+        model.addAttribute("filenames", filenameList);
 
         return "menuItemsUpdatePage";
+    }
+
+    private String[] processFilenames(String filenames){
+        filenames = filenames.substring(1, filenames.length()-1);
+        String[] filenameList = filenames.split(",");
+        for(int i = 0; i < filenameList.length; i++)
+            filenameList[i] = filenameList[i].trim();
+        return filenameList;
     }
 }

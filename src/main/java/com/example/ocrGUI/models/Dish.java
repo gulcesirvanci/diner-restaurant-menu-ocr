@@ -33,6 +33,7 @@ public class Dish {
     public void setPrice(String price){ this.price = price; }
 
     public String getDescription(){ return this.description; }
+    public void setDescription(String description){ this.description = description; }
     public void addToDescription(String description){ this.description += description + " "; }
 
     public int getCategoryID(){ return this.categoryID; }

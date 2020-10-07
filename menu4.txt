@@ -1,0 +1,60 @@
+dishes-without-category
+SALATALAR 
+SALATALAR 
+Salata 
+ 
+Tavuk Bonfile, Marul, Tane Misir, Kroton, Sezar Sos, 
+Peyniri   
+35 
+Akdeniz Salata 
+ 
+35 
+Akdeniz Yesillikleri, Beyaz Peynir, Tulum Peyniri, 
+Domates, Zeytin, Havuc, Al Biber   
+Roka Salata 
+ 
+Salatalik, Beyaz Peynir, Tulum Peyniri, 
+ 
+Sogan, Al Biber Zeytin 
+ 
+35 
+Citir Tavuk Salata 
+ 
+Yesillikleri, Kajun Baharatiyla panelenmis Julyen Tavuk, 
+Salatalik, Misir Havuc, Kasar Peyniri Balll Harda Sos   
+35 
+Tahil Salata 
+ 
+35 
+Bugday Mas Fasulyesi Yesi Mercimek, Nohut, Maydonoz, 
+ 
+Bulguru Al Biber, Nar Eksis 
+ 
+Sicak Sebze Salata 
+Sicak Sebze Salata 
+Karnabahar, Kabak Havuc, Bugday, Zeytin, Misir 
+Domates Yogurt, Rende Kasar   
+30 
+Sicak Tavuklu Sebze Salata 
+ 
+Karnabahar, Kabak Havuc, Bugday Zeytin, Misir, 
+Domates, Yogurt, Rende Kasar   
+35 
+Sicak Bonfile Sebze Salata 
+ 
+Karnabahar, Kabak, Havuc, Bugday Zeytin, Misir 
+Domates, Yogurt, Rende Kasar   
+55 
+Ton Balikli Salata 
+Domates, Salatalik, Al Biber, Zeytin, Misir,   
+Sogan, Sezar Sos, Capari 
+ 
+45 
+Tiftik Tavuk Salata 
+ 
+Beybi Ispanak, Haslanmis Tavuk Gogsu, Kibrit Patates, 
+Dereotu, KirmIZ| Sogan, Maydanoz   
+35 
+Izgara Bonfile Salata 
+Yesillikleri, Domates, Salatalik, Havuc, Misir   
+55 
