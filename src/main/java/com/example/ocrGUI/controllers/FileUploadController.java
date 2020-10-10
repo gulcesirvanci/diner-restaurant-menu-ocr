@@ -22,7 +22,7 @@ import java.util.ArrayList;
 @Controller
 public class FileUploadController {
 
-    public static String uploadDirectory = "./src/main/resources/images";
+    public static String uploadDirectory = "/images";
 
     @RequestMapping(value= "/upload", method = RequestMethod.POST)
     public String upload(Model model, @RequestParam("restaurantName") String restaurantName, @RequestParam("files") MultipartFile[] files,

@@ -31,8 +31,11 @@ public class BoundingBoxDrawer {
                     Imgproc.rectangle(output, new Point(left,top), new Point(right,top+height), new Scalar(0, 200, 200), 2);
                 }
             }
-            Imgcodecs.imwrite("/imagesWithBoundingBoxes/"+filename, output);
+            String newName = filename.substring(0, filename.indexOf("."));
+            newName += ".bmp";
+            Imgcodecs.imwrite("./src/main/resources/static/images/"+newName, output);
         } catch (Exception e){
+            System.out.println("HERE");
             e.printStackTrace();
         }
     }
@@ -40,7 +43,7 @@ public class BoundingBoxDrawer {
         try {
             nu.pattern.OpenCV.loadShared();
             //System.loadLibrary(org.opencv.core.Core.NATIVE_LIBRARY_NAME);
-            Mat image = Imgcodecs.imread("./src/main/resources/images/"+filename, 1);
+            Mat image = Imgcodecs.imread("./src/main/resources/static/images/"+filename, 1);
             Mat output = image.clone();
             for(BoundingBox box : boundingBoxes){
                     double right= (box.getWidth()+box.getLeft()) * image.width();
@@ -49,7 +52,7 @@ public class BoundingBoxDrawer {
                     double top = box.getTop() * image.height();
                     Imgproc.rectangle(output, new Point(left,top), new Point(right,top+height), new Scalar(0, 200, 200), 2);
             }
-            Imgcodecs.imwrite("/imagesWithBoundingBoxes/"+filename, output);
+            Imgcodecs.imwrite("./src/main/resources/static/images/"+filename, output);
         } catch (Exception e){
             e.printStackTrace();
         }

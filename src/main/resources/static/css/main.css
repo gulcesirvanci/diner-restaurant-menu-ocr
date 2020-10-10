@@ -1,5 +1,9 @@
+.add-new: hover{
+    color: green;
+    border-color: green;
+}
 .example-parent {
-    border: 2px solid #DFA612;
+    border: 2px solid #4285f4;
     color: black;
     display: flex;
     font-family: sans-serif;
@@ -13,11 +17,13 @@
   }
   
   .example-draggable {
-    background-color: #4AAE9B;
     font-weight: normal;
     margin-bottom: 10px;
     margin-top: 10px;
     padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #4285f4;
+    border-style: dashed;
   }
   
   .example-dropzone {
@@ -115,4 +121,12 @@
      transform: translate(0%, -50%);
    }
 
-   .add:hover {background: #bbb;}
+.add:hover {background: #bbb;}
+
+.table-bordered td, .table-bordered th {
+    border: 1px solid #4285f4;
+}
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #4285f4;
+}

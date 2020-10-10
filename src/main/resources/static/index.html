@@ -37,37 +37,39 @@
 <!-- Navbar -->
   <form style="margin-top:500px" method="post" action="/upload" enctype="multipart/form-data">
       <center>
-              <legend>Mod: </legend>
-          <input type="radio" id="mod1" name="mod" value="mod1">
-          <label for="mod1">Mod 1</label><br>
-          <input type="radio" id="mod2" name="mod" value="mod2">
-          <label for="mod2">Mod 2</label><br>
-          </fieldset>
-      </center>
-      <center>
-      <div class="col-lg-12 col-md-12 col-sm-12">
-
-         <div class="input-group">
-          <div class="input-group-prepend">
-            <input type="submit" class="input-group-text" value="Upload Files"></input>
-          </div>
-          <div class="custom-file">
-            <input name="files" type="file" class="custom-file-input" id="inputGroupFile01"
-              aria-describedby="inputGroupFileAddon01" multiple>
-            <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
-          </div>
-        </div>
-      </div>
-    </center>
-      <center>
-          <div class="col-lg-6 col-md-6 col-sm-12">
-              <div class="md-form">
-                  <input name="restaurantName" type="text" id="inputPlaceholderEx" class="form-control">
-                  <label for="inputPlaceholderEx">Restaurant Name</label>
+          <div style="top: 75%;" class="input-group">
+              <div style="width: 50%;" class="input-group-prepend">
+                  <div class="input-group-text">
+                      <input name="mod" type="radio" id="mod1" value="mod1" aria-label="Radio button for following text input">
+                  </div>
+                  <label for="mod1">Mod 1</label><br>
+              </div>
+              <div class="input-group-prepend">
+                  <div style="width: 50%;" class="input-group-text">
+                      <input name="mod" type="radio" id="mod2" value="mod2" aria-label="Radio button for following text input">
+                  </div>
+                  <label for="mod2">Mod 2</label><br>
               </div>
           </div>
       </center>
-
+      <center>
+          <div class="input-group mb-3">
+                  <div class="input-group-prepend">
+                      <input type="submit" class="input-group-text" value="Upload Files"></input>
+                  </div>
+                  <div class="custom-file">
+                      <input name="files" type="file" class="custom-file-input" id="inputGroupFile01"
+                             aria-describedby="inputGroupFileAddon01" multiple>
+                      <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
+                  </div>
+          </div>
+          <div style="top: 35%;" class="input-group mb-3">
+              <div class="input-group-prepend">
+                  <span class="input-group-text" >Restaurant Name</span>
+              </div>
+              <input name="restaurantName" type="text" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default">
+          </div>
+      </center>
 
 </form>
 
