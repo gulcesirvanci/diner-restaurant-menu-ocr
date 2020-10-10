@@ -117,7 +117,11 @@ button:hover{
 </div>
 <form action="/list-menu-items" method="post" enctype="multipart/form-data">
     <input name = "menuId" type="text" th:value="${menuId}" style="display: none;" \>
-    <input name = "filenames" type="text" th:value="${filenames}" style="display: none;" \>
+    <div th:if="${filenames}">
+        <th:block th:each="filename : ${filenames}">
+            <input name = "filename" type="text" th:value="${filename}" style="display: none;" \>
+        </th:block>
+    </div>
     <button type="submit" class="btn btn-secondary btn-lg btn-block btn-outline-dark">Contınue</button>
 </form>
 <!--

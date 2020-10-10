@@ -107,3 +107,12 @@
     animation-duration: 1.5s;
     animation-fill-mode: forwards;
   }
+   .add {
+     float: none !important;
+     cursor: pointer;
+     position: relative;
+     padding: 12px 16px;
+     transform: translate(0%, -50%);
+   }
+
+   .add:hover {background: #bbb;}

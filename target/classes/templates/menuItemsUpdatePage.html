@@ -46,6 +46,9 @@
     -->
 </div>
 <div class="column">
+    <div class="example-parent">
+        <button type="button" style="width: 100%;" data-toggle="modal" data-target="#addNewDishModal" class="btn btn-outline-primary waves-effect">Add New</button>
+    </div>
 <div th:if="${menu}">
 
     <th:block th:each="category : ${menu.menuCategories}">
@@ -53,6 +56,7 @@
             <div class="example-parent">
                 <div
                         class="example-origin"
+                        th:id="${'example-origin-category-' + dish.dishID}"
                 >
                     Category
                     <div
@@ -77,7 +81,7 @@
                         ondragover="onDragOver(event);"
                         ondrop="onDrop(event);"
                 >
-                    Name
+                    Name<span th:data-id="${dish.dishID+'name'}" class="add">+</span>
                     <div
                             class="example-draggable"
                             draggable="true"
@@ -97,7 +101,7 @@
                         ondragover="onDragOver(event);"
                         ondrop="onDrop(event);"
                 >
-                    Description
+                    Description<span th:data-id="${dish.dishID + 'description'}" class="add">+</span>
                     <div
                             class="example-draggable"
                             draggable="true"
@@ -115,7 +119,7 @@
                         ondragover="onDragOver(event);"
                         ondrop="onDrop(event);"
                 >
-                    Price
+                    Price<span th:data-id="${dish.dishID + 'price'}" class="add">+</span>
                     <div
                             class="example-draggable"
                             draggable="true"
@@ -136,6 +140,9 @@
                             <button class="btn btn-warning" th:data-dish-id="${dish.dishID}" th:data-menu-id="${menuId}" th:data-category-object="${dish.dishID + 'category'}" th:data-name-object="${dish.dishID+'name'}" th:data-description-object="${dish.dishID + 'description'}" th:data-price-object="${dish.dishID + 'price'}"  onclick="fillTheForm(this)">Update</button>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6">
+                            <button class="btn btn-warning" ondragover="onDragOver(event);" ondrop="onDropTrash(event);" data-dish-id="1" data-menu-id="1" data-category-object="category1" data-name-object="name1" data-description-object="description1" data-price-object="price1"  onclick="fillTheForm(this)"><i class="fas fa-trash"></i></i></button>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6">
                             <button class="btn btn-danger" th:data-dish-id="${dish.dishID}" th:data-menu-id="${menuId}" onclick="removeItem(this)">Remove</button>
                         </div>
                     </div>
@@ -146,6 +153,51 @@
     </th:block>
 </div>
 </div>
+<div class="modal fade" id="addNewDishModal" role="dialog">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Add New Menu Item</h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <form action="/add-menu-item" method="post" enctype="multipart/form-data">
+                        <input name="menuId" type="text" style="display:none;" th:value="${menuId}" \>
+                        <div class="form-group">
+                            <label>Category</label>
+                            <select name="category" class="form-control">
+                                <th:block th:each="category : ${menu.menuCategories}">
+                                    <option th:value="${category.categoryID}" th:text="${category.name}"></option>
+                                </th:block>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Name</label>
+                            <input name="name" class="form-control" type = "text"></input>
+                        </div>
+                        <div class="form-group">
+                            <label>Description</label>
+                            <input name="description" class="form-control" type = "text"></input>
+                        </div>
+                        <div class="form-group">
+                            <label>Price</label>
+                            <input name="price" class="form-control" type = "text"></input>
+                        </div>
+                        <div th:if="${filenames}">
+                            <th:block th:each="filename : ${filenames}">
+                                <input name = "filename" type="text" th:value="${filename}" style="display: none;" \>
+                            </th:block>
+                        </div>
+                        <button class="btn btn-info" type="submit">Save</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <form id="updateForm" action="/edit-menu-item" method="post" enctype="multipart/form-data">
     <input name="menuId" type="text" id="menuId" style="display:none;" th:value="${menuId}" \>
     <input name = "dishId" type="text" id="id" style="display: none;" \>
@@ -153,13 +205,50 @@
     <input name = "name" type="text" id="item-name" style="display: none;" \>
     <input name = "description" type="text" id="item-description" style="display: none;" \>
     <input name = "price" type="text" id="item-price" style="display: none;" \>
-    <input name = "filenames" type="text" th:value="${filenames}" \>
+    <div th:if="${filenames}">
+        <th:block th:each="filename : ${filenames}">
+            <input name = "filename" type="text" th:value="${filename}" style="display: none;" \>
+        </th:block>
+    </div>
 </form>
 <form id="deleteForm" action="/delete-menu-item" style="display: none;" method="post" enctype="multipart/form-data">
     <input name = "dishId" id="deletedDishId" type="text" style="display: none;" \>
     <input name="menuId" type="text" style="display:none;" th:value="${menuId}" \>
-    <input name = "filenames" type="text" th:value="${filenames}" \>
+    <div th:if="${filenames}">
+        <th:block th:each="filename : ${filenames}">
+            <input name = "filename" type="text" th:value="${filename}" style="display: none;" \>
+        </th:block>
+    </div>
 </form>
+<script>
+        var closebtns = document.getElementsByClassName("add");
+        var i;
+
+        for (i = 0; i < closebtns.length; i++) {
+          closebtns[i].addEventListener("click", function() {
+            id = this.getAttribute("data-id");
+            var para = document.createElement("div");
+            para.className = "example-draggable";
+            para.setAttribute("contentEditable", "true");
+            para.setAttribute("draggable", "true");
+            para.setAttribute("ondragstart", "onDragStart(event)");
+            para.setAttribute("id", count());
+            var element = document.getElementById(id);
+            element.appendChild(para);
+          });
+        }
+
+        </script>
+<script>
+      function count() {
+
+          if( typeof count.counter == 'undefined' ) {
+              count.counter = 0;
+          }
+          count.counter++;
+          return count.counter;
+          }
+    </script>
 <script>
      var slideIndex = 1;
     showSlides(slideIndex);

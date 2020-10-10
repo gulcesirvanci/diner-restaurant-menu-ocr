@@ -77,4 +77,15 @@ function removeItem(button){
     document.getElementById("deleteForm").submit();
 }
 
+function onDropTrash(event){
+    const id = event
+    .dataTransfer
+    .getData('text/plain');
 
+    const draggableElement = document.getElementById(id);
+    draggableElement.remove();
+    draggableElement.parentNode.removeChild(draggableElement);
+    event
+    .dataTransfer
+    .clearData();
+}
