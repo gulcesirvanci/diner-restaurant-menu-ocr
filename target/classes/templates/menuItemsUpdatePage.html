@@ -23,13 +23,13 @@
     </div>
 
 </nav>
-<div class="column">
+<div style="width: 40%;" class="column">
     <div th:if="${filenames}">
         <div class="slideshow-container">
 
             <th:block th:each="filename : ${filenames}">
                 <div class="mySlides fade">
-                    <img th:src="${'/imagesWithBoundingBoxes/' + filename}" style="width:100%">
+                    <img th:src="${'/images/' + filename}" style="width:100%">
                 </div>
 
                 <!-- Next and previous buttons -->
@@ -45,7 +45,7 @@
     <img style="width: 100%;" th:src="${'/imagesWithBoundingBoxes/' + filename}"></img>
     -->
 </div>
-<div class="column">
+<div style="width: 60%;" class="column">
     <div class="example-parent">
         <button type="button" style="width: 100%;" data-toggle="modal" data-target="#addNewDishModal" class="btn btn-outline-primary waves-effect">Add New</button>
     </div>
@@ -137,7 +137,7 @@
                     Actions<br>
                     <div class="container">
                         <div class="col-lg-6 col-md-6 col-sm-6">
-                            <button class="btn btn-warning" th:data-dish-id="${dish.dishID}" th:data-menu-id="${menuId}" th:data-category-object="${dish.dishID + 'category'}" th:data-name-object="${dish.dishID+'name'}" th:data-description-object="${dish.dishID + 'description'}" th:data-price-object="${dish.dishID + 'price'}"  onclick="fillTheForm(this)">Update</button>
+                            <button class="btn btn-success" th:data-dish-id="${dish.dishID}" th:data-menu-id="${menuId}" th:data-category-object="${dish.dishID + 'category'}" th:data-name-object="${dish.dishID+'name'}" th:data-description-object="${dish.dishID + 'description'}" th:data-price-object="${dish.dishID + 'price'}"  onclick="fillTheForm(this)">Update</button>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6">
                             <button class="btn btn-warning" ondragover="onDragOver(event);" ondrop="onDropTrash(event);" data-dish-id="1" data-menu-id="1" data-category-object="category1" data-name-object="name1" data-description-object="description1" data-price-object="price1"  onclick="fillTheForm(this)"><i class="fas fa-trash"></i></i></button>
@@ -191,7 +191,7 @@
                                 <input name = "filename" type="text" th:value="${filename}" style="display: none;" \>
                             </th:block>
                         </div>
-                        <button class="btn btn-info" type="submit">Save</button>
+                        <button class="btn btn-outline-primary waves-effect" type="submit">Save</button>
                     </form>
                 </div>
             </div>
@@ -219,6 +219,14 @@
             <input name = "filename" type="text" th:value="${filename}" style="display: none;" \>
         </th:block>
     </div>
+</form>
+<form action="/destroy-photos" method="post" enctype="multipart/form-data">
+    <div th:if="${filenames}">
+        <th:block th:each="filename : ${filenames}">
+            <input name = "filename" type="text" th:value="${filename}" style="display: none;" \>
+        </th:block>
+    </div>
+    <button type="submit" class="btn btn-secondary btn-lg btn-block btn-outline-dark">Done</button>
 </form>
 <script>
         var closebtns = document.getElementsByClassName("add");

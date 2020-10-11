@@ -24,8 +24,8 @@ function onDrop(event){
 
     draggableElement
     .style
-    .backgroundColor = '#4AAE9B';
-    
+    .backgroundColor = 'white';
+
     event
     .dataTransfer
     .clearData();

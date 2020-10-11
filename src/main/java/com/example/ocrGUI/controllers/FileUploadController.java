@@ -13,16 +13,18 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.ui.Model;
 import org.springframework.web.multipart.MultipartFile;
 
+import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.List;
 
 @Controller
 public class FileUploadController {
 
-    public static String uploadDirectory = "/images";
+    public static String uploadDirectory = "./src/main/resources/static/images";
 
     @RequestMapping(value= "/upload", method = RequestMethod.POST)
     public String upload(Model model, @RequestParam("restaurantName") String restaurantName, @RequestParam("files") MultipartFile[] files,
@@ -63,4 +65,12 @@ public class FileUploadController {
 
 
         }
+    @RequestMapping(value= "/destroy-photos", method = RequestMethod.POST)
+    public String destroyPhotos(@RequestParam("filename") List<String> filenames) {
+        for(String filename : filenames){
+            File file = new File("./src/main/resources/static/images/" + filename);
+            file.delete();
+        }
+        return "redirect:/";
+    }
 }

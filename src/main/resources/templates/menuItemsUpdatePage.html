@@ -29,7 +29,7 @@
 
             <th:block th:each="filename : ${filenames}">
                 <div class="mySlides fade">
-                    <img th:src="${'./images/' + filename}" style="width:100%">
+                    <img th:src="${'/images/' + filename}" style="width:100%">
                 </div>
 
                 <!-- Next and previous buttons -->
@@ -219,6 +219,14 @@
             <input name = "filename" type="text" th:value="${filename}" style="display: none;" \>
         </th:block>
     </div>
+</form>
+<form action="/destroy-photos" method="post" enctype="multipart/form-data">
+    <div th:if="${filenames}">
+        <th:block th:each="filename : ${filenames}">
+            <input name = "filename" type="text" th:value="${filename}" style="display: none;" \>
+        </th:block>
+    </div>
+    <button type="submit" class="btn btn-secondary btn-lg btn-block btn-outline-dark">Done</button>
 </form>
 <script>
         var closebtns = document.getElementsByClassName("add");

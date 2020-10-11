@@ -31,9 +31,7 @@ public class BoundingBoxDrawer {
                     Imgproc.rectangle(output, new Point(left,top), new Point(right,top+height), new Scalar(0, 200, 200), 2);
                 }
             }
-            String newName = filename.substring(0, filename.indexOf("."));
-            newName += ".bmp";
-            Imgcodecs.imwrite("./src/main/resources/static/images/"+newName, output);
+            Imgcodecs.imwrite("./src/main/resources/static/images/"+filename, output);
         } catch (Exception e){
             System.out.println("HERE");
             e.printStackTrace();
