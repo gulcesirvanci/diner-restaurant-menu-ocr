@@ -135,7 +135,7 @@ public class MenuController {
     }
     public List<Block> runOcrMod1(String filename) throws Exception{
         ByteBuffer imageBytes;
-        InputStream inputStream = new FileInputStream(new File("/images/"+filename));
+        InputStream inputStream = new FileInputStream(new File("./src/main/resources/static/images/"+filename));
             imageBytes = ByteBuffer.wrap(IOUtils.toByteArray(inputStream));
             AmazonTextract client = AmazonTextractClientBuilder.defaultClient();
             DetectDocumentTextRequest request = new DetectDocumentTextRequest()
@@ -150,7 +150,7 @@ public class MenuController {
     }
     public List<Block> runOcrMod2(String filename){
         ByteBuffer imageBytes;
-        try (InputStream inputStream = new FileInputStream(new File("/images/"+filename))) {
+        try (InputStream inputStream = new FileInputStream(new File("./src/main/resources/static/images/"+filename))) {
             imageBytes = ByteBuffer.wrap(IOUtils.toByteArray(inputStream));
             AmazonTextract client = AmazonTextractClientBuilder.defaultClient();
             AnalyzeDocumentRequest request = new AnalyzeDocumentRequest()
