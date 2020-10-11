@@ -34,7 +34,7 @@ public class DishController {
         String[] filenameArray = new String[filenames.size()];
         filenames.toArray(filenameArray);
         model.addAttribute("filenames", filenameArray);
-
+        model.addAttribute("absolutePath", System.getProperty("user.dir"));
         return "menuItemsUpdatePage";
     }
 
@@ -77,9 +77,8 @@ public class DishController {
         String[] filenameArray = new String[filenames.size()];
         filenames.toArray(filenameArray);
         model.addAttribute("filenames", filenameArray);
-        for(int i = 0; i<filenameArray.length; i++){
-            System.out.println(filenameArray[i]);
-        }
+        model.addAttribute("absolutePath", System.getProperty("user.dir"));
+
         return "menuItemsUpdatePage";
 
     }
@@ -112,6 +111,7 @@ public class DishController {
         String[] filenameArray = new String[filenames.size()];
         filenames.toArray(filenameArray);
         model.addAttribute("filenames", filenameArray);
+        model.addAttribute("absolutePath", System.getProperty("user.dir"));
         return "menuItemsUpdatePage";
     }
 
@@ -136,6 +136,7 @@ public class DishController {
         String[] filenameArray = new String[filenames.size()];
         filenames.toArray(filenameArray);
         model.addAttribute("filenames", filenameArray);
+        model.addAttribute("absolutePath", System.getProperty("user.dir"));
 
         return "menuItemsUpdatePage";
     }

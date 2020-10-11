@@ -18,17 +18,17 @@ http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
     </bean>
 
     <bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
-
-                        <property name="driverClassName" value="org.postgresql.Driver" />
-                        <property name="url" value="jdbc:postgresql://ec2-54-247-118-139.eu-west-1.compute.amazonaws.com:5432/dbpoe48hue3trr?password=699ad9d3246ad77a34a072ff83da8c1b405215b746c8602d6e3d1d34730575ce&amp;sslmode=require&amp;user=xjwcikuqbdwzya" />
-                        <property name="username" value="xjwcikuqbdwzya" />
-                        <property name="password" value="699ad9d3246ad77a34a072ff83da8c1b405215b74e3d1d34730575ce" />
         <!--
-                            <property name="driverClassName" value="org.postgresql.Driver" />
-                            <property name="url" value="jdbc:postgresql://localhost:5432/restaurant_menu_ocr" />
-                            <property name="username" value="postgres" />
-                            <property name="password" value="12345678" />
-   -->
+                               <property name="driverClassName" value="org.postgresql.Driver" />
+                               <property name="url" value="jdbc:postgresql://ec2-54-247-118-139.eu-west-1.compute.amazonaws.com:5432/dbpoe48hue3trr?password=699ad9d3246ad77a34a072ff83da8c1b405215b746c8602d6e3d1d34730575ce&amp;sslmode=require&amp;user=xjwcikuqbdwzya" />
+                               <property name="username" value="xjwcikuqbdwzya" />
+                               <property name="password" value="699ad9d3246ad77a34a072ff83da8c1b405215b74e3d1d34730575ce" />
+               -->
+                                   <property name="driverClassName" value="org.postgresql.Driver" />
+                                   <property name="url" value="jdbc:postgresql://localhost:5432/restaurant_menu_ocr" />
+                                   <property name="username" value="postgres" />
+                                   <property name="password" value="12345678" />
+
     </bean>
 
 

@@ -68,7 +68,7 @@ public class FileUploadController {
     @RequestMapping(value= "/destroy-photos", method = RequestMethod.POST)
     public String destroyPhotos(@RequestParam("filename") List<String> filenames) {
         for(String filename : filenames){
-            File file = new File("./src/main/resources/static/images/" + filename);
+            File file = new File(uploadDirectory + filename);
             file.delete();
         }
         return "redirect:/";

@@ -20,7 +20,7 @@ public class BoundingBoxDrawer {
         try {
             nu.pattern.OpenCV.loadShared();
             //System.loadLibrary(org.opencv.core.Core.NATIVE_LIBRARY_NAME);
-            Mat image = Imgcodecs.imread("./src/main/resources/images/"+filename, 1);
+            Mat image = Imgcodecs.imread("./src/main/static/images/"+filename, 1);
             Mat output = image.clone();
             for(List<WordGroup> wordGroupList : wordGroupsPerCell){
                 for(WordGroup group : wordGroupList){
