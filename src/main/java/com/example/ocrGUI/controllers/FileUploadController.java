@@ -24,7 +24,7 @@ import java.util.List;
 @Controller
 public class FileUploadController {
 
-    public static String uploadDirectory = "./src/main/resources/static/images";
+    public static String uploadDirectory = "/images";
 
     @RequestMapping(value= "/upload", method = RequestMethod.POST)
     public String upload(Model model, @RequestParam("restaurantName") String restaurantName, @RequestParam("files") MultipartFile[] files,
@@ -68,7 +68,7 @@ public class FileUploadController {
     @RequestMapping(value= "/destroy-photos", method = RequestMethod.POST)
     public String destroyPhotos(@RequestParam("filename") List<String> filenames) {
         for(String filename : filenames){
-            File file = new File("./src/main/resources/static/images/" + filename);
+            File file = new File("/images/" + filename);
             file.delete();
         }
         return "redirect:/";
