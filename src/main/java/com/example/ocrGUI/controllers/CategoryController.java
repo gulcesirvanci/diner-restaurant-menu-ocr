@@ -19,7 +19,7 @@ import java.util.List;
 public class CategoryController {
 
     @RequestMapping("/update-category")
-    public String updateCategory(Model model, @RequestParam("ocrText") String ocrText, @RequestParam("categoryId") int categoryId, @RequestParam("menuId") int menuId ){
+    public String updateCategory(Model model, @RequestParam("ocrText") String ocrText, @RequestParam("categoryId") int categoryId, @RequestParam("menuId") int menuId, @RequestParam("filename") List<String> filenames ){
         Resource r=new ClassPathResource("applicationContext.xml");
         BeanFactory factory=new XmlBeanFactory(r);
         CategoryDao categoryDao = (CategoryDao) factory.getBean("cdao");
@@ -33,12 +33,15 @@ public class CategoryController {
         Menu menu = menuDao.selectMenu(menuId).get(0);
         model.addAttribute("menuId", menuId);
         model.addAttribute("menu", menu);
-        return "categoriesUpdate";
+        String[] filenameArray = new String[filenames.size()];
+        filenames.toArray(filenameArray);
+        model.addAttribute("filenames", filenameArray);
+        return "categoriesUpdatePage";
 
     }
 
     @RequestMapping("add-new-category")
-    public String addNewCategory(Model model, @RequestParam("menuId") int menuId, @RequestParam("categoryName") String categoryName){
+    public String addNewCategory(Model model, @RequestParam("menuId") int menuId, @RequestParam("categoryName") String categoryName, @RequestParam("filename") List<String> filenames){
 
         Resource r=new ClassPathResource("applicationContext.xml");
         BeanFactory factory=new XmlBeanFactory(r);
@@ -54,8 +57,11 @@ public class CategoryController {
         currentMenu = menuDao.selectMenu(menuId).get(0);
         model.addAttribute("menuId", menuId);
         model.addAttribute("menu", currentMenu);
+        String[] filenameArray = new String[filenames.size()];
+        filenames.toArray(filenameArray);
+        model.addAttribute("filenames", filenameArray);
 
-        return "categoriesUpdate";
+        return "categoriesUpdatePage";
 
     }
 }

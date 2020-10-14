@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
-    <title></title>
+    <title>Categories</title>
+    <link rel="stylesheet" href="/css/main.css" />
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
     <!-- Google Fonts -->
@@ -81,40 +82,55 @@ button:hover{
 
 </nav>
 <!-- Navbar -->
-<div class="card">
-    <h3 class="card-header text-center font-weight-bold text-uppercase py-4">Editable table</h3>
-    <div class="card-body">
-        <div id="table" class="table-editable">
-      <span class="table-add float-right mb-3 mr-2"><a data-toggle="modal" data-target="#addNewCategoryModal" class="text-success"><i style="color: #4285f4;" class="fas fa-plus fa-2x" aria-hidden="true"></i></a></span>
-            <table class="table table-bordered table-responsive-md table-striped text-center">
-                <thead>
-                <tr>
-                    <th class="text-center">Category</th>
-                    <th class="text-center">Actions</th>
-                </tr>
-                </thead>
-                <tbody>
-                <div th:if="${menu}">
+<div style="width: 40%;" class="column">
+    <div th:if="${filenames}">
+        <div class="slideshow-container">
 
-                    <th:block th:each="category : ${menu.menuCategories}">
-
-                            <tr>
-                                <td class="pt-3-half" th:text="${category.name}" th:value="${category.name}"></td>
-                                <td>
-                                    <span><button type="button" class="btn btn-outline-primary waves-effect" data-toggle="modal" data-target="#editModal" th:data-id="${category.categoryID}" th:data-text="${category.name}" onclick="loadValues(this)">Edit</button></span>
-                                </td>
-
-
-                            </tr>
-                        <!-- This is our clonable table line -->
-                    </th:block>
+            <th:block th:each="filename : ${filenames}">
+                <div class="mySlides fade">
+                    <img th:src="${'/upload/static/images/' + filename}" style="width:100%">
                 </div>
 
-                </tbody>
-            </table>
+                <!-- Next and previous buttons -->
+                <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+            </th:block>
         </div>
     </div>
 </div>
+    <div style="width: 60%;" class="column">
+        <div class="example-parent">
+            <button type="button" style="width: 100%;" data-toggle="modal" data-target="#addNewCategoryModal" class="btn btn-outline-primary waves-effect">Add New</button>
+        </div>
+                <div th:if="${menu}">
+
+                    <th:block th:each="category : ${menu.menuCategories}">
+                        <div class="example-parent">
+                            <div class="example-origin">
+                                Category Name
+                                <div
+                                        class="example-draggable"
+                                        th:text="${category.name}" th:value="${category.name}"
+                                >
+                                </div>
+                            </div>
+
+                            <div
+                                    class="example-origin"
+                            >
+                                Actions<br>
+                                <div class="container">
+                                    <div class="col-lg-6 col-md-6 col-sm-6">
+                                        <button type="button" class="btn btn-outline-primary waves-effect" data-toggle="modal" data-target="#editModal" th:data-id="${category.categoryID}" th:data-text="${category.name}" onclick="loadValues(this)">Edit</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </th:block>
+                </div>
+    </div>
 <form action="/list-menu-items" method="post" enctype="multipart/form-data">
     <input name = "menuId" type="text" th:value="${menuId}" style="display: none;" \>
     <div th:if="${filenames}">
@@ -161,6 +177,11 @@ button:hover{
                             <label>Ocr Text</label>
                             <input name="ocrText" id="ocrText" class="form-control" type = "text"></input>
                         </div>
+                        <div th:if="${filenames}">
+                            <th:block th:each="filename : ${filenames}">
+                                <input name = "filename" type="text" th:value="${filename}" style="display: none;" \>
+                            </th:block>
+                        </div>
                         <button class="btn btn-outline-primary waves-effect" id = "save" type="submit">Save</button>
                     </form>
                 </div>
@@ -185,6 +206,11 @@ button:hover{
                         <div class="form-group">
                             <label>Category Name</label>
                             <input name="categoryName" id="categoryName" class="form-control" type = "text"></input>
+                        </div>
+                        <div th:if="${filenames}">
+                            <th:block th:each="filename : ${filenames}">
+                                <input name = "filename" type="text" th:value="${filename}" style="display: none;" \>
+                            </th:block>
                         </div>
                         <button class="btn btn-info" id = "add" type="submit">Add</button>
                     </form>
