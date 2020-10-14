@@ -20,7 +20,7 @@ public class BoundingBoxDrawer {
         try {
             nu.pattern.OpenCV.loadShared();
             //System.loadLibrary(org.opencv.core.Core.NATIVE_LIBRARY_NAME);
-            Mat image = Imgcodecs.imread("./src/main/static/images/"+filename, 1);
+            Mat image = Imgcodecs.imread("./src/main/upload/static/images/"+filename, 1);
             Mat output = image.clone();
             for(List<WordGroup> wordGroupList : wordGroupsPerCell){
                 for(WordGroup group : wordGroupList){
@@ -31,7 +31,7 @@ public class BoundingBoxDrawer {
                     Imgproc.rectangle(output, new Point(left,top), new Point(right,top+height), new Scalar(0, 200, 200), 2);
                 }
             }
-            Imgcodecs.imwrite("./src/main/resources/static/images/"+filename, output);
+            Imgcodecs.imwrite("./src/main/upload/static/images/"+filename, output);
         } catch (Exception e){
             System.out.println("HERE");
             e.printStackTrace();
@@ -41,7 +41,7 @@ public class BoundingBoxDrawer {
         try {
             nu.pattern.OpenCV.loadShared();
             //System.loadLibrary(org.opencv.core.Core.NATIVE_LIBRARY_NAME);
-            Mat image = Imgcodecs.imread("./src/main/resources/static/images/"+filename, 1);
+            Mat image = Imgcodecs.imread("./src/main/upload/static/images/"+filename, 1);
             Mat output = image.clone();
             for(BoundingBox box : boundingBoxes){
                     double right= (box.getWidth()+box.getLeft()) * image.width();
@@ -50,7 +50,7 @@ public class BoundingBoxDrawer {
                     double top = box.getTop() * image.height();
                     Imgproc.rectangle(output, new Point(left,top), new Point(right,top+height), new Scalar(0, 200, 200), 2);
             }
-            Imgcodecs.imwrite("./src/main/resources/static/images/"+filename, output);
+            Imgcodecs.imwrite("./src/main/upload/static/images/"+filename, output);
         } catch (Exception e){
             e.printStackTrace();
         }

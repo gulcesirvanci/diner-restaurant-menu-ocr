@@ -24,7 +24,7 @@ import java.util.List;
 @Controller
 public class FileUploadController {
 
-    public static String uploadDirectory = "./src/main/resources/static/images";
+    public static String uploadDirectory = "./src/main/upload/static/images/";
 
     @RequestMapping(value= "/upload", method = RequestMethod.POST)
     public String upload(Model model, @RequestParam("restaurantName") String restaurantName, @RequestParam("files") MultipartFile[] files,
