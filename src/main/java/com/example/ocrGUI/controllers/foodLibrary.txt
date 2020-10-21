@@ -1,0 +1,112 @@
+Tavuklu Pastırmalı : Tavuk, beyaz lahana, havuç, kırmızı biber, yeşilbiber, noodle, soya sosu Tabağı
+Sebzeli Noodle: Beyaz lahana, havuç, kırmızıbiber, yeşil biber, noodle, soya sosu
+Etli Noodle: Et, beyaz lahana, havuç, kırmızıbiber, yeşilbiber, noodle, soya sosu
+Seçilmiş Menü (Tavuklu Noodle): Tavuklu Noodle + Coca-Cola (33 cl.) peynir zeytin
+California Roll (8 Pcs.): Salatalık, mayonez, avokado, yengeç, dışı balık yumurta kaplı
+Grand Fouper Burger Menü: Grand Fouper Burger (Foupe özel large brioche, 160 gr. Foupe burger köftesi, Clothbound Cheddar peyniri, dana bacon, karamelize soğan, iceberg marul, domates, turşu, Fouper Exquisite sos) + Patates Kızartması + Kutu İçecek
+Fouper Burger Menü: Fouper Burger (Foupe özel Brioche, 100 gr. Foupe burger köftesi, Clothbound Cheddar peyniri, dana bacon, karamelize soğan, marul, domates, turşu, Fouper Exquisite sos) + Patates Kızartması + Kutu İçecek
+Enjoy Burger Menü: Enjoy Burger (Foupe özel Brioche, 100 gr. Foupe burger, cheddar peyniri, iceberg marul, soğan, domates, turşu, Foupe Enjoy tatlı sos) + Patates Kızartması + Kutu İçecek
+Grand Enjoy Burger Menü: Grand Enjoy Burger (Foupe özel large brioche, 160 gr. Foupe burger, cheddar peyniri, iceberg marul, soğan, domates, turşu, Foupe Enjoy tatlı sos) + Patates Kızartması + Kutu İçecek
+Grand Smoked Coffee Burger Menü: Grand Smoked Coffee Burger (Foupe özel large brioche, 160 gr. Foupe burger köftesi, Smoked Provolone peyniri, dana bacon, iceberg marul, domates, soğan, turşu, Foupe Foupe Coffee BBQ sos) + Patates Kızartması + Kutu İçecek
+Antep Lahmacun: Yeşillik, limon ile
+Adana Dürüm: Domates, maydanoz, isteğe göre soğan
+Urfa Dürüm: Domates, maydanoz, isteğe göre soğan
+Süzme Mercimek Çorbası:
+Tavuk Şiş: Terbiyeli tavuk göğüs, bulgur pilavı, soğan, közlenmiş biber, közlenmiş domates, ezme salata, tırnak pide ile
+Lahmacun: Göbek marul, maydanoz, domates, limon ile
+Nar Ekşili Cevizli Lahmacun: Göbek marul, maydanoz, domates, limon ile
+Tereyağlı Süzme Mercimek Çorbası: Tırnaklı pide, limon ile
+Kaşarlı Lahmacun: Göbek marul, maydanoz, domates, limon ile
+Sarımsaklı Antep Lahmacun: Göbek marul, maydanoz, domates, limon ile
+Seçilmiş Menü (Muzlu Çilekli Cup): Muzlu Çilekli Cup + Coca-Cola (33 cl.)
+Mançiz Cup: Nutella, muz, çilek, Cicibebe bisküvisi, anne pudingi
+Banoffee (Cam Kavanozda): Banoffee kreması, muz, tereyağlı bisküvi, süt karameli, yer fıstığı, ceviz
+Muzlu Çilekli Cup: Çilek, muz, Cicibebe bisküvisi, anne pudingi
+Cicibebe Cup:
+Atom Cup: Cicibebe bisküvi, muz, kivi, Nutella, çilek
+Oreolu Çilekli Nutellalı Cup: Oreo, çilek, Nutella, özel krema
+Çilekli Cup: Çilek, Cicibebe, anne pudingi
+Muzlu Çilekli Cup: Çilek, muz, Cicibebe, anne pudingi
+Atom Cup: Kivi, muz, çilek, Nutella, Cicibebe, özel krema
+Mançiz Cup: Nutella, muz, çilek, Cicibebe, anne pudingi
+Atom Cup: Kivi, muz, çilek, Nutella, Cicibebe, özel krema
+Oreolu Çilekli Nutellalı Cup: Oreo, çilek, Nutella, özel krema
+Nutella Profiterol: Profiterol topu, Nutella, çikolata sosu, çikolata parçaları, ceviz
+Muzlu Çilekli Cup: Çilek, muz, Cicibebe bisküvisi, anne pudingi
+Çilekli Cup: Çilek, Cicibebe bisküvisi, anne pudingi
+Vodafone Menüsü (Köri Soslu Tavuk): Köri Soslu Tavuk + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+Seçilmiş Menü (Fettuccine Alfredo): Fettuccine Alfredo + Coca-Cola (33 cl.)
+Tavuklu Wrap: Jülyen tavuk, mix biber, kaşar peyniri. Patates kızartması, sos ile
+Köri Soslu Tavuk: Yeşillik, patates kızartması ile
+Karışık Pizza: Salam, sosis, mısır, domates, zeytin, mozzarella peyniri, sos
+Lahmacun:
+Et Döner Dürüm: Yeşillik, domates, turşu, patates kızartması
+Özel Tereyağlı İskender (Et Dönerden):
+Pide Arası Et Döner: Yeşillik, domates, turşu, patates kızartması
+Mercimek Çorbası:
+Köz Domates Çorbası: İsteğe göre kaşar peynir ile
+Avokadolu & Nohut Köfteli Salata: Yarım avokado, nohut köftesi (fırında falafel mücveri), koyu cacık, domates, salatalık, karışık yeşillik, fesleğenli light sos
+Falafelli Tattaze Salata: 2'li falafel mücveri (fırında nohut köftesi), koyu cacık, salatalık, siyah zeytin, kuru domates, maskolin yeşillik, light yeşil sos
+Köfteli Kinoa Salatası: 3 adet anne köftesi, kinoadan domatesli kısır, salatalık, karışık yeşillik, nar ekşili sos
+Klasik Köfte Tabağı: Çeşnili pilav, günün mezesi ile
+Waffle: Seçeceğiniz malzemeler ile
+Karışık Kumpir: Seçeceğiniz malzemeler ile
+Bebek Waffle: Nutella, beyaz çikolata, muz, çilek, kivi, oreo, yer fıstığı, brownie
+Duble Kaşar Peynirli Kumpir: Seçeceğiniz malzemeler ile
+Nutella Aşkı Waffle: Nutella, muz, çilek, Oreo, yer fıstığı
+114. Etli Erişte / Beef Noodle: Havuç, soya filizi, lahana, taze soğan / Carrot, soybean sprouts, cabbage, fresh onion
+113. Tavuklu Erişte / Chicken Noodle: Havuç, soya filizi, lahana, taze soğan / Carrot, soybean sprouts, cabbage, fresh onion
+115. Karidesli Erişte / Shrimp Noodle: Havuç, soya filizi, lahana, taze soğan / Carrot, soybean sprouts, cabbage, fresh onion
+112. Sebzeli Erişte / Vegetables Noodle: Havuç, soya filizi, lahana, taze soğan / Carrot, soybean sprouts, cabbage, fresh onion
+40. General Tso Tavuk: Taze soğan, susam, acı sos, tatlı ekşi sos
+kırmızı soğan
+yeşillikleri
+yeşil
+mısır
+Haşlanmış
+salatalık
+buğday
+Baharatıyla
+pastırmalı
+börek
+böreği
+tereyağ
+tereyağlı
+panelenmiş
+kokoreç
+acı
+Tabağı
+Kahvaltı
+kaşarlı
+karışık
+Söğüş
+Pastırmalı
+Börek
+Böreği
+Tereyağ
+Tereyağlı
+peynir
+hazır
+içecek
+sıkma
+türk
+kahve
+kahvesi
+çay
+süt
+meşrubatlar
+çiçeği
+şerbet
+şerbeti
+göğsü
+köz
+kızartması
+çıtır
+kaşarlı
+turşu
+köfteli
+bal
+ballı
+peynir
+zeytin
+of

@@ -18,7 +18,7 @@ public class BoundingBoxDrawer {
 
     public void drawBoundingBoxes(String filename, List<List<WordGroup>> wordGroupsPerCell){
         try {
-            nu.pattern.OpenCV.loadShared();
+            nu.pattern.OpenCV.loadLocally();
             //System.loadLibrary(org.opencv.core.Core.NATIVE_LIBRARY_NAME);
             Mat image = Imgcodecs.imread("./src/main/upload/static/images/"+filename, 1);
             Mat output = image.clone();
@@ -39,7 +39,7 @@ public class BoundingBoxDrawer {
     }
     public void drawBoundingBoxesForMod1(String filename, List<BoundingBox> boundingBoxes){
         try {
-            nu.pattern.OpenCV.loadShared();
+            nu.pattern.OpenCV.loadLocally();
             //System.loadLibrary(org.opencv.core.Core.NATIVE_LIBRARY_NAME);
             Mat image = Imgcodecs.imread("./src/main/upload/static/images/"+filename, 1);
             Mat output = image.clone();

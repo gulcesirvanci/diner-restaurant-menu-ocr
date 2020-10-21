@@ -22,8 +22,10 @@ import static org.bytedeco.leptonica.global.lept.*;
 import static org.bytedeco.tesseract.global.tesseract.*;
 
 import java.io.*;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.nio.ByteBuffer;
+import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -126,8 +128,9 @@ public class MenuController {
         }
 
         for(Block line : lines){
-            String label = classifier.classify(line.getText());
-            labeledMenuEntries.add(new LabeledEntry(line.getText(), label));
+            String label = classifier.classify(editContent(line.getText()));
+            System.out.println(editContent(line.getText()));
+            labeledMenuEntries.add(new LabeledEntry(editContent(line.getText()), label));
         }
 
         menu.createMenuFromLabeledEntries(labeledMenuEntries);
@@ -136,16 +139,16 @@ public class MenuController {
     public List<Block> runOcrMod1(String filename) throws Exception{
         ByteBuffer imageBytes;
         InputStream inputStream = new FileInputStream(new File("./src/main/upload/static/images/"+filename));
-            imageBytes = ByteBuffer.wrap(IOUtils.toByteArray(inputStream));
-            AmazonTextract client = AmazonTextractClientBuilder.defaultClient();
-            DetectDocumentTextRequest request = new DetectDocumentTextRequest()
-                    .withDocument(new Document().withBytes(imageBytes));
-            DetectDocumentTextResult result = client.detectDocumentText(request);
+        imageBytes = ByteBuffer.wrap(IOUtils.toByteArray(inputStream));
+        AmazonTextract client = AmazonTextractClientBuilder.defaultClient();
+        DetectDocumentTextRequest request = new DetectDocumentTextRequest()
+                .withDocument(new Document().withBytes(imageBytes));
+        DetectDocumentTextResult result = client.detectDocumentText(request);
 
-            BufferedWriter writer = new BufferedWriter(new FileWriter("resultingjson.txt"));
-            writer.append(result.toString());
-            writer.close();
-            return result.getBlocks();
+        BufferedWriter writer = new BufferedWriter(new FileWriter("resulting.json"));
+        writer.append(result.toString());
+        writer.close();
+        return result.getBlocks();
 
     }
     public List<Block> runOcrMod2(String filename){
@@ -158,7 +161,7 @@ public class MenuController {
                     .withDocument(new Document().withBytes(imageBytes));
             AnalyzeDocumentResult result = client.analyzeDocument(request);
 
-            BufferedWriter writer = new BufferedWriter(new FileWriter("resultingjson.txt"));
+            BufferedWriter writer = new BufferedWriter(new FileWriter("resulting.json"));
             writer.append(result.toString());
             writer.close();
             return result.getBlocks();
@@ -273,7 +276,7 @@ public class MenuController {
         if(group.getTopCoordinate() > newGroupBoundingBox.getTop())
             group.setTopCoordinate(newGroupBoundingBox.getTop());
         if(group.getRightCoordinate() < newGroupBoundingBox.getLeft() + newGroupBoundingBox.getWidth());
-            group.setRightCoordinate(newGroupBoundingBox.getLeft() + newGroupBoundingBox.getWidth());
+        group.setRightCoordinate(newGroupBoundingBox.getLeft() + newGroupBoundingBox.getWidth());
         if(group.getBoundingBoxHeight() < newGroupBoundingBox.getHeight())
             group.setBoundingBoxHeight(newGroupBoundingBox.getHeight());
         return group;
@@ -289,8 +292,8 @@ public class MenuController {
                 for(Block line : lines){
                     List<Relationship> relationships = line.getRelationships();
                     List<String> wordIds = extractIdsOfRelatedBlocks(relationships);
-                        if(wordIds.contains(word.getId())){
-                            ids.add(line.getId());
+                    if(wordIds.contains(word.getId())){
+                        ids.add(line.getId());
                     }
 
                 }
@@ -352,27 +355,27 @@ public class MenuController {
         return existingCategories;
     }
 
-    public static List<LabeledEntry> getLabeledEntries(List<List<WordGroup>> wordGroupsPerCell){
+    public static List<LabeledEntry> getLabeledEntries(List<List<WordGroup>> wordGroupsPerCell) throws IOException {
         Classifier classifier = new Classifier();
         List<LabeledEntry> entries = new ArrayList<>();
 
         for(List<WordGroup> wordGroups : wordGroupsPerCell){
             for(WordGroup wordGroup : wordGroups){
-                String entryText = wordGroup.getContent();
+                String entryText = editContent(wordGroup.getContent());
                 if(entryText.matches("\\s+") || entryText.equals(""))
                     continue;
                 if(wordGroup.isPrice()){
-                    LabeledEntry entry = new LabeledEntry(wordGroup.getContent(), "price");
+                    LabeledEntry entry = new LabeledEntry(entryText, "price");
                     entries.add(entry);
                 }
                 else if(wordGroup.isCategory()){
-                    LabeledEntry entry = new LabeledEntry(wordGroup.getContent(), "category");
+                    LabeledEntry entry = new LabeledEntry(entryText, "category");
                     entries.add(entry);
                 }
                 else{
-                    System.out.println("Entry text: " + entryText + "content: " + wordGroup.getContent());
+                    System.out.println("Entry text: " + entryText + "content: " + entryText);
                     String label = classifier.classify(entryText);
-                    LabeledEntry entry = new LabeledEntry(wordGroup.getContent(), label);
+                    LabeledEntry entry = new LabeledEntry(entryText, label);
                     entries.add(entry);
                 }
             }
@@ -430,4 +433,74 @@ public class MenuController {
         }
         return indices;
     }
+
+    public static String editContent(String str) throws IOException {
+        String[] words;
+        String out = "";
+        words=str.split(" ");
+        for (String word : words) {
+            if(word.equals("t"))
+                out += " ";
+            else
+                out += compareLibrary(word) + " ";
+        }
+        return out;
+    }
+
+    public static String compareLibrary(String str) throws IOException {
+        String[] words;
+        FileReader fr = new FileReader("src/main/java/com/example/ocrGUI/controllers/foodLibrary.txt");
+        BufferedReader br = new BufferedReader(fr);
+        String s;
+        while((s=br.readLine())!=null)   //Reading Content from the file
+        {
+            words=s.split(" ");  //Split the word using space
+            for (String word : words)
+            {
+
+                String tempLib = word.toLowerCase().replace("c", "c").replace("ç", "c").replace("g", "g").replace("ğ", "g").replace("ı", "i").replace("i", "i").replace("o", "o").replace("ö", "o").replace("s", "s").replace("ş", "s").replace("u", "u").replace("ü", "u").replace(",", "");
+                String tempStr = str.toLowerCase().replace("c", "c").replace("ç", "c").replace("g", "g").replace("ğ", "g").replace("ı", "i").replace("i", "i").replace("o", "o").replace("ö", "o").replace("s", "s").replace("ş", "s").replace("u", "u").replace("ü", "u").replace(",", "");
+                String check = str.toLowerCase().replace("c", "").replace("ç", "").replace("g", "").replace("ğ", "").replace("ı", "").replace("i", "").replace("o", "").replace("ö", "").replace("s", "").replace("ş", "").replace("u", "").replace("ü", "").replace(",", "");
+                if (tempLib.equals(tempStr) && tempStr.length() >= 3 && word.length() == str.length())   //Search for the given word
+                {
+                    //System.out.println("matches: "+ word + " - " + str);
+                    return capitalize(word);
+                }
+                else if (tempLib.contains(tempStr) && tempStr.length() >= 3 && word.length() >= str.length())   //Search for the given word
+                {
+                    //System.out.println("matches: "+ word + " - " + str);
+                    return capitalize(word);
+                }else if(tempStr.length() <= 1 && check.length() >= 3){
+                    return exceptWord(str);
+                }
+
+            }
+        }
+        return capitalize(str);
+    }
+
+    public static String exceptWord(String str) throws IOException {
+        String[] words;
+        FileReader fr = new FileReader("src/main/java/com/example/ocrGUI/controllers/exceptLibrary.txt");
+        BufferedReader br = new BufferedReader(fr);
+        String s;
+        while((s=br.readLine())!=null)   //Reading Content from the file
+        {
+            words=s.split(" ");  //Split the word using space
+            for (String word : words)
+            {
+                if (word.toLowerCase().equals(str.toLowerCase().replace(",","")))   //Search for the given word
+                {
+                    //System.out.println("---- " + str);
+                    return capitalize(word);
+                }
+            }
+        }
+        return capitalize(str) + "(?)";
+    }
+
+    public static String capitalize(String word) {
+        return word.substring(0,1).toUpperCase() + word.substring(1).toLowerCase();
+    }
+
 }

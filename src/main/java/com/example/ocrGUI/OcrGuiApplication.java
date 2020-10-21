@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages={"com.example.ocrGUI"})
+//@ComponentScan(basePackages={"com.example.ocrGUI"})
 public class OcrGuiApplication {
 
 	public static void main(String[] args) {
