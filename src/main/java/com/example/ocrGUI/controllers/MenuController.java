@@ -448,6 +448,7 @@ public class MenuController {
     }
 
     public static String compareLibrary(String str) throws IOException {
+        //TODO: when editing word at ui, can be added at food library
         String[] words;
         FileReader fr = new FileReader("src/main/java/com/example/ocrGUI/controllers/foodLibrary.txt");
         BufferedReader br = new BufferedReader(fr);

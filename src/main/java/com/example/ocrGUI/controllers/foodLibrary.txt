@@ -110,3 +110,2033 @@ ballı
 peynir
 zeytin
 of
+Kaşarlı Tavuk Dürüm: Özel sos ile marine edilmiş tavuk biftek, domates, yeşillik, kızartılmış kaşar peyniri, lavaş
+Tavuklu Pilav Menü: Tavuklu Pilav + Salatalık Turşusu + Cin Biberi + Pul Biber + Karabiber + Ekmek + Salata + İçecek
+Mercimek Çorbası: Ekmek, limon, biber turşusu, salatalık turşusu ile
+Izgara Köfte: Ev yapımı köfte, mevsim salata, pilav, süs biber, turşu, ekmek, lavaş
+Tavuklu Pilav: Tavuklu pilav, salatalık turşusu, cin biberi, pul biber, karabiber, ekmek
+Pirinç Pilavı:
+Domates Soslu Köfte:
+Kemalpaşa Tatlısı:
+Izgara Tavuk:
+Çıtır Tavuk: Patates kızartması ile
+Adana Kebap: Mevsim salata, ezme, soğan söğüş, turşu biberi, günün Eker tatlısı ile
+Beyti Kebap (Açık): Yoğurtlu, soslu, kaşar peyniri, tereyağı. Mevsim salata, ezme, soğan söğüş, turşu biberi, günün Eker tatlısı ile
+Tavuk Pirzola: Mevsim salata, ezme, soğan söğüş, turşu biberi, günün Eker tatlısı ile
+Tavuk Kanat: Izgara tavuk kanat sos, tuz. Mevsim salata, ezme, soğan söğüş, turşu biberi, günün Eker tatlısı ile
+Et Sac Kavurma: Domates, soğan, biber, sos, baharat, tereyağı. Mevsim salata, ezme, soğan söğüş, turşu biberi, günün Eker tatlısı ile
+Lahmacun: Mevsim salata, acılı ezme, közlenmiş biber ile
+2'li Lahmacun Menü 2: 2 Adet Lahmacun + Mevsim Salata + Acılı Ezme + Ayran (20 cl.)
+Kıymalı Pide: Mevsim salata, acılı ezme, közlenmiş biber ile
+Kuşbaşılı Kaşarlı Pide: Mevsim salata, acılı ezme, közlenmiş biber ile
+Seçilmiş Menü (Lahmacun): 3 Adet Lahmacun + Coca-Cola (20 cl.)
+Tam Ekmek Arası Atom Tost: Tam ekmek arasına; yumurta, sucuk, salam, kaşar peyniri, sosis, domates, ketçap, mayonez, pul biber, kekik
+Vodafone Menüsü (Tam Ekmek Arası Atom Tost): Tam Ekmek Arası Atom Tost + Taze Sıkma Portakal Suyu (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız.)
+Karışık Ayvalık Tostu: Kaşar peyniri, sucuk, salam, domates, Rus salatası, turşu, ketçap, mayonez
+Süper Karışık Ayvalık Tostu: Çift kat ayvalık ekmeğine; kaşar peyniri, sucuk, salam, sosis, Rus salatası, domates, turşu, ketçap, mayonez
+Yarım Ekmek Arası Cheddar Peynirli Pastırmalı Tost: Dana sucuk, pastırma, kaşar peyniri, cheddar peyniri, turşu, salça sos, kekik
+Hatay Usulü Tavuk Döner Dürüm: Patates kızartması, Hatay sos, mayonez
+Ekmek Arası Tavuk Döner Menü 1: Ekmek Arası Tavuk Döner (125 gr.) + Ayran (20 cl.)
+Tavuk Döner Menü 1: Tavuk Döner (100 gr.) + Ayran (20 cl.)
+Ekmek Arası Köfte Menü: Ekmek Arası Köfte + Ayran (20 cl.)
+Kazandibi:
+Antakya Usulü Tavuk Döner Dürüm: Cin biberi, çiğ köfte, günün tatlısı ile
+Antakya Usulü Kaşarlı Tavuk Döner Dürüm: Cin biberi, çiğ köfte, günün tatlısı ile
+Antakya Usulü Kaşarlı Körili Tavuk Döner Dürüm: Cin biberi, çiğ köfte, günün tatlısı ile
+Mercimek Çorbası: Ekmek ve turşu ile
+İskender (Tavuk Dönerden): Cin biberi, çiğ köfte, günün tatlısı ile
+Lahmacun: Turşu, biber, salata, ezme, soğan, söğüş, Eker tatlı ile
+Kıymalı Pide: Turşu, biber, salata, ezme, soğan, söğüş, Eker tatlı ile
+Kuşbaşılı Kaşarlı Pide: Turşu, biber, salata, ezme, soğan, söğüş, Eker tatlı ile
+Beyti Kebap: Turşu, biber, salata, ezme, soğan, söğüş, Eker tatlı ile
+Adana Kebap: Turşu, biber, salata, ezme, soğan, söğüş, Eker tatlı ile
+Özel Satır Köfte Menü: Özel Satır Köfte + İç Pilav + Salata + Acılı Ezme + Turşu + Soğan + Ayran (27 cl.)
+Kuzu Ciğer Şiş Menü: Kuzu Ciğer Şiş + İç Pilav + Salata + Acılı Ezme + Turşu + Soğan + Ayran (27 cl.)
+Marine Tavuk Şiş Menü: Marine Tavuk Şiş + İç Pilav + Salata + Acılı Ezme + Turşu + Soğan + Ayran (27 cl.)
+Kuzu But Şiş Menü: Kuzu But Şiş + İç Pilav + Salata + Acılı Ezme + Turşu + Soğan + Ayran (27 cl.)
+Kuzu Tandır Menü: Kuzu Tandır + İç Pilav + Salata + Acılı Ezme + Turşu + Soğan + Ayran (27 cl.)
+: İnegöl Köft + İç Pilav + Salata + Acılı Ezme + Turşu + Soğan + Ayran (27 cl.)
+Cheeseburger: Özel burger ekmeği arasına; 120 gr. baharatlı burger köftesi, bol cheddar sos, kıvırcık marul, burger sos
+Cheeseburger Menü: Cheeseburger + Patates Kızartması + Kutu İçecek
+Vegan Burger: Özel burger ekmeği arasına; 120 gr. vegan köftesi, burger sos, karamelize soğan, mantar, cheddar sos, kıvırcık marul, turşu
+Juicy Lucy Burger: Özel burger ekmeği arasına; 160 gr. kaşar ve cheddar peynirli baharatlı burger köftesi, burger sos, karamelize soğan, kıvırcık marul, turşu
+Dana Bacon Burger Menü: Dana Bacon Burger + Patates Kızartması + Kutu İçecek
+Adana Dürüm: Yeşillik, domates, özel sos, isteğe göre soğan
+Tavuk Şiş Dürüm: Yeşillik, domates, özel sos, isteğe göre soğan
+Adana Kebap: Pilav, salata, közlenmiş domates, közlenmiş biber, salatalık turşusu, biber turşusu, soğan
+Tavuk Kanat: Pilav, salata, közlenmiş domates, közlenmiş biber, salatalık turşusu, biber turşusu, soğan
+Tavuk Şiş: Pilav, salata, közlenmiş domates, közlenmiş biber, salatalık turşusu, biber turşusu, soğan
+Şefin Burgeri: 120 gr. dana burger köftesi, kaşar peyniri, cheddar peyniri, dana kuşbaşı, karamelize soğan, domates, kıvırcık marul, şefin özel sosu. Patates kızartması ve soğan halkası ile
+Klasik Burger: 120 gr. dana burger köftesi, domates, salatalık turşusu, kıvırcık marul, soğan, şefin özel sosu. Patates kızartması ve soğan halkası ile
+Karamelize Burger: 120 gr. dana burger köftesi, karamelize soğan, karamelize mantar, cheddar peyniri, kıvırcık marul, domates, şefin özel sosu. Patates kızartması ve soğan halkası ile
+Beğendi Burger: 120 gr. dana burger köftesi, közlenmiş patlıcan, beğendi sos, kaşar peyniri, salatalık turşusu, şefin özel sosu. Patates kızartması ve soğan halkası ile
+Cheeseburger: 120 gr. dana burger köftesi, cheddar peyniri, dana kuşbaşı, kıvırcık marul, karamelize soğan, şefin özel sosu. Patates kızartması ve soğan halkası ile
+Antakya Usulü Tavuk Döner Dürüm Menü: Antakya Usulü Tavuk Döner Dürüm + Kutu İçecek
+Soslu Tavuk Döner Dürüm (47 cm.): Turşu, patates kızartması, mayonez
+Antakya Usulü Tavuk Döner Dürüm: Turşu, patates kızartması, mayonez
+3'lü Antakya Dürüm Menü: 3 Adet Antakya Usulü Tavuk Döner Dürüm
+Künefe: Ev yapımı
+Big Baker Burger: 185 gr. Hamburger köftesi, cheddar peyniri, Baker sos, karamelize soğan, közlenmiş biber, turşu, yeşillik. Patates kızartması ile
+Seçilmiş Menü (Big Baker Burger): Big Baker Burger + Coca-Cola (33 cl.)
+Vodafone Menüsü (Cheeseburger): Cheeseburger + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+BBQ Burger: Hamburger köftesi, barbekü sos, cheddar peyniri, jalapeno biberi, soğan, turşu, yeşillik. Patates kızartması ile
+Cheeseburger: Hamburger köftesi, Baker sos, cheddar peyniri, domates, turşu, yeşillik. Patates kızartması ile
+Soslu Tavuk Döner Dürüm: Yeşillik, domates, patates kızartması, turşu, isteğe göre soğan
+Menü 3: Soslu Tavuk Döner Dürüm (70 gr.) + Patates Kızartması veya Tatlı + İçecek
+Et Döner Dürüm: Yeşillik, domates, patates kızartması, isteğe göre soğan
+Tombik Ekmek Arası Tavuk Döner: Yeşillik, domates, patates kızartması, turşu, isteğe göre soğan
+Tombik Ekmek Arası Et Döner: Yeşillik, domates, patates kızartması, isteğe göre soğan
+Ekmek Arası Tavuk Döner Menü: Ekmek Arası Tavuk Döner (Yeşillik, turşu) + İçecek
+Izgara Köfte (500 gr.) Menü: Izgara Köfte (500 gr.) (Közlenmiş domates, biber ile) (Pişirilmiş) + Mevsim Salata + 2 Adet Ayran (33 cl.) (Belirtilen gramaj bilgisi ürünün çiğ halinin gramajıdır.)
+Ekmek Arası Izgara Köfte Menü: Ekmek Arası Izgara Köfte (Közlenmiş domates, biber) + Ayran (33 cl.)
+Ekmek Arası Et Döner Menü: Ekmek Arası Et Döner (Yeşillik, turşu) + İçecek
+Pilav Üstü Et Döner (150 gr.): Patates kızartması, turşu, mevsim yeşillikleri ile
+Seçilmiş Menü (Kıymalı Kaşarlı Pide): Kıymalı Kaşarlı Pide + Coca-Cola (33 cl.)
+Lahmacun Menü 1: 5 Adet Lahmacun (Acı durumunu sipariş notunda belirtiniz.) + Salata + Ayran (1 L.)
+Mercimek Çorbası:
+Ezogelin Çorbası:
+Adana Dürüm Menü: Adana Dürüm + Salata + Ayran (30 cl.)
+2'li Orta Menü: Seçeceğiniz 2 Adet Orta Boy Pizza + İçecek (1 L.)
+Bonus Gurme Maxi Burger: 120 gr. burger köftesi, cheddar peyniri, karamelize soğan, karamelize mantar, domates, turşu, marul. Patates kızartması ile
+Tekli Menü: Seçeceğiniz Orta Boy Pizza + Kutu İçecek
+Büyük Menü: Seçeceğiniz Büyük Boy Pizza + Kutu İçecek
+2'li Büyük Menü: Seçeceğiniz 2 Adet Büyük Boy Pizza + İçecek (1 L.)
+Ekonomik Menü: Seçeceğiniz Pizza + Kutu İçecek (33 cl.)
+2'li Pizza Menü: Seçeceğiniz 2 Adet Pizza + İçecek (1 L.)
+Cheeseburger: Burger köftesi, cheddar peyniri, karamelize soğan, kıvırcık marul, mayonez, domates. Patates kızartması, ketçap, mayonez ile
+Klasik Burger: Burger köftesi, karamelize soğan, kıvırcık marul, mayonez, domates. Patates kızartması, ketçap, mayonez ile
+Çıtır Tavuk Burger: Panelenmiş çıtır tavuk, karamelize soğan, kıvırcık marul, mayonez, domates. Patates kızartması, ketçap, mayonez ile
+Limited Burger: Siyah burger ekmeğine; burger köftesi, dana jambon, cheddar peyniri, karamelize soğan, kıvırcık marul, kaşar peyniri, mayonez, domates. Patates kızartması, ketçap, mayonez ile
+Füme Burger: Burger köftesi, isli füme kaburga, kıvırcık marul, cheddar peyniri, karamelize soğan, mayonez, domates. Patates kızartması, ketçap, mayonez ile
+Frambuazlı Pasta (Dilim):
+Çilekli Mag:
+Maxi-Karışık Rossi Pizza (Orta): İnce hamur, pizza sosu, mozzarella peyniri, salam, sucuk, mantar, biber, siyah zeytin, mısır
+Maxi-Karışık Rossi Pizza (Büyük): İnce hamur, pizza sosu, mozzarella peyniri, salam, sucuk, mantar, biber, siyah zeytin, mısır
+Füme Antrikotlu Pizza (Orta): Capello pizza sos, mantar, füme antrikot, mozzarella peyniri
+Rossi Karışık Pizza (Orta): İnce hamur, pizza sosu, salam, sucuk, mantar, biber, mozzarella peyniri
+4 Peynirli Del Piero Pizza (Orta): İnce hamur, pizza sosu, keçi peyniri, mozzarella peyniri, beyaz peynir, rokfor peyniri
+Midye Dolma (Adet):
+Tam Ekmek Arası Kokoreç: 155 gr. ekmek, kimyon, kekik, pul biber, jalapeno biberi ile
+Tam Ekmek Arası Sebzeli Kokoreç: 155 gr. ekmek, kimyon, kekik, pul biber, domates, jalapeno biberi ile
+Ekmek Arası Sucuk: Başyazıcı et sucuk, 155 gr. ekmek, sumaklı soğan, közlenmiş domates
+Adana Kebap: 160 gr. Adana kebap, bulgur pilavı, közlenmiş domates, biber, salata, lavaş, sumaklı soğan, sarımsaklı tarator
+İzmir Kumru Sandviç: Salam, sucuk, sosis, kaşar peyniri, turşu, ketçap, mayonez
+İzmir Kumru Sandviç Menü: İzmir Kumru Sandviç + Patates Kızartması + İçecek
+Ayvalık Tostu Menü: Ayvalık Tostu + Patates Kızartması + İçecek
+Atom Sandviç: Sucuk, salam, sosis, pastırma, kavurma, kaşar peyniri, yumurta, turşu, ketçap, mayonez
+Ayvalık Tostu: Sucuk, salam, kaşar peyniri, turşu, Rus salatası, ketçap, mayonez
+Hatay Usulü Tavuk Döner Dürüm Menü: Hatay Usulü Tavuk Döner Dürüm (120 gr. tavuk döner, patates kızartması, salatalık turşusu, yeşillik, özel sos) + Ayran (20 cl.)
+Zurna Dürüm Menü (42 cm.): Zurna Dürüm (160 gr. tavuk döner, patates kızartması, salatalık turşusu, mayonez, özel sos) + Ayran (20 cl.)
+Hatay Usulü Mega Tavuk Döner Dürüm Menü: Hatay Usulü Mega Tavuk Döner Dürüm (120 gr. tavuk döner, patates kızartması, salatalık turşusu, cin biber, yeşillik, özel sos) + Patates Kızartması + Coca-Cola (33 cl.)
+Künefe: Pişirilme süresi 15 dakikadır.
+3'lü Hatay Usulü Mega Tavuk Döner Dürüm Menü: 3 Adet Hatay Usulü Mega Tavuk Döner Dürüm (120 gr. tavuk döner, patates kızartması, salatalık turşusu, yeşillik, özel sos) + 3 Adet Patates Kızartması + Coca-Cola (1 L.) veya 3 Adet Ayran (20 cl.)
+Karidesli Erişte: Brokoli, yeşilsoğan, havuç, beyaz lahana
+Tavuklu Sebzeli Erişte: Brokoli, yeşilsoğan, havuç, beyaz lahana
+Dana Etli Sebzeli Erişte: Brokoli, yeşilsoğan, havuç, beyaz lahana
+Philadelphia Roll (8 Pcs.): Somon, salatalık, kıvırcık marul, krem peynir, dışı susam
+Sushi Queen 2 (30 Pcs.): Sake Maki (6 Pcs.) + California Roll (8 Pcs.) + Philadelphia Roll (8 Pcs.) + Kani Maki (6 Pcs.) + Kani Nigiri (1 Pcs.) + Sake Nigiri (1 Pcs.)
+Ekmek Arası Tavuk Tantuni: Domates, maydanoz, soğan, nane, kekik
+Tavuk Tantuni Dürüm: Domates, maydanoz, soğan, nane, kekik
+Ekmek Arası Et Tantuni: Domates, maydanoz, soğan, nane, kekik
+Et Tantuni Dürüm: Domates, maydanoz, soğan, nane, kekik
+Çiğ Köfte (250 gr.): Marul, limon, nar ekşisi, acı sos, 2 adet lavaş ekmeği ile
+:
+:
+:
+:
+: Vanilya krema dolgulu
+: Çikolata krema dolgulu
+: Karamel krema dolgulu
+: Yaban mersini parçacıklı krema dolgulu
+: Çilek krema dolgulu.
+: Limon krema dolgulu
+:
+: Muz krema dolgulu
+: Vişne krema dolgulu
+Zurna Tavuk Döner Dürüm: Patates kızartması, göbek marul, mayonez, özel sos
+Tavuk Döner Dürüm: Patates kızartması, göbek marul, mayonez, özel sos
+Süper İkili Menü: 2 Adet Zurna Tavuk Döner Dürüm + 2 Adet Ayran (17 cl.)
+Cheddarlı Zurna Tavuk Döner Dürüm: Patates kızartması, cheddar peyniri, mayonez, özel sos
+Menü 5: Zurna Tavuk Döner Dürüm + Patates Kızartması + Ayran (25 cl.)
+Adana Kebap: 180 gr. kuzu zırh kıyma. Közlenmiş domates, közlenmiş biber, pirinç pilavı, mevsim salata, günün mezeleri ile
+Tavuk Şiş: 220 gr. tavuk but şiş. Közlenmiş domates, közlenmiş biber, pirinç pilavı, mevsim salata, günün mezeleri ile
+Adana Dürüm: 110 gr. kuzu zırh kıyma. Tablacı salatası, günün mezeleri ile
+Seçilmiş Menü (Tavuk Şiş): Tavuk Şiş + Coca-Cola (33 cl.)
+Tavuk Kanat: 7 adet gezen tavuk kanat. Közlenmiş domates, közlenmiş biber, pirinç pilavı, mevsim salata, günün mezeleri ile
+Et Döner (100 gr.): İsteğe göre soğan, domates ile
+Ekmek Arası Et Döner (75 - 80 gr.): Yaprak et döner, isteğe göre soğan, domates
+Et Döner (150 gr.): İsteğe göre soğan, domates ile
+İskender (Et Dönerden): Sos, yoğurt
+Et Döner (200 gr.): İsteğe göre soğan, domates ile
+Adana Dürüm: Domates, isteğe göre sumaklı soğan, biber turşusu
+Tavuk Şiş Dürüm: Domates, isteğe göre sumaklı soğan, biber turşusu
+Adana Dürüm (Tavuktan) Menü: Adana Dürüm (Tavuktan) (Domates, yeşillik, biber turşusu) + Ayran (30 cl.)
+Mercimek Çorbası:
+Ciğer Şiş Dürüm: Domates, isteğe göre sumaklı soğan, biber turşusu
+Farm Burger Menü: Farm Burger (110 gr.) + Patates Kızartması + İçecek
+Cheeseburger Menü: Cheeseburger (110 gr.) + Patates Kızartması + İçecek
+Farm Burger: Hamburger köftesi, cheddar peyniri, füme et, karamelize soğan, turşu, yeşillik. Patates kızartması ile
+Cheeseburger: Hamburger köftesi, cheddar peyniri, turşu, yeşillik, karamelize soğan, ketçap. Patates kızartması ile
+Final Burger Menü: 2 Adet Cheeseburger (110 gr.) + Patates Kızartması + İçecek (1 L.)
+2'li Çiğ Börek:
+Seçilmiş Menü (Kayseri Mantısı): Kayseri Mantısı + Coca-Cola (33 cl.)
+Zeytinyağlı Yaprak Sarma:
+Kayseri Mantısı: El açması
+Pastırmalı Kaşarlı Gözleme: El açması yufka
+Kayseri Mantısı: El açması
+2'li Çiğ Börek:
+Zeytinyağlı Yaprak Sarma:
+Patatesli İçli Köfte (Adet):
+Pastırmalı Kaşarlı Gözleme: El açması yufka
+Karışık Dürüm: Çift lavaşa çiğ köfte, tavuk schnitzel, marul, turşu, domates, nar ekşisi, ketçap, mayonez
+Çiğ Köfte Dürüm: 100 gr. çiğ köfte, marul, limon, nar ekşisi, turşu, domates
+Tavuk Schnitzel Dürüm: Çift lavaşa tavuk schnitzel, marul, turşu, domates, ketçap, mayonez
+Double Çiğ Köfte Dürüm: Çift lavaşa 120 gr. çiğ köfte, marul, limon, nar ekşisi, turşu, domates
+Çiğ Köfte (500 gr.): 6 adet lavaş, marul, 4 adet nar ekşisi, limon
+Hatay Usulü Soslu Tavuk Döner Dürüm: Patates kızartması, soğan, marul, domates, turşu, sos
+Yarım Ekmek Arası Tavuk Döner: Patates kızartması, marul, domates, soğan, turşu
+Tam Ekmek Arası Tavuk Döner: Patates kızartması, marul, domates, soğan, turşu
+Seçilmiş Menü (Tam Ekmek Arası Tavuk Döner ): Tam Ekmek Arası Tavuk Döner + Coca-Cola (20 cl.)
+Tereyağlı Simit:
+Profiterol:
+Mercimek Çorbası: Kruton ekmek ile
+Bitter Çikolatalı Soğuk Baklava:
+Hamburger: Hamburger köftesi, marul, domates
+Hatay Soslu Tavuk Döner Dürüm: Göbek marul, domates, soğan, turşu, sos, mayonez
+Zurna Tavuk Döner Dürüm: Göbek marul, domates, soğan, turşu
+Menü 1: Hatay Soslu Tavuk Döner Dürüm + Seçeceğiniz Yan Ürün + Ayran (20 cl.)
+İskender (Et Dönerden): Yoğurt, mevsim salata, pirinç pilavı ile
+Yarım Ekmek Arası Tavuk Döner: Göbek marul, domates, soğan, turşu
+Yeni Nesil Cajun Soslu Tavuk (250 gr.) & Ranch Sos: Yanında Akdeniz sos, patates kızartması, lavaş, ketçap, mayonez ile
+Yeni Nesil Cajun Soslu Tavuk (250 gr.) & Acılı Ekşili Sos: Yanında acılı ekşili sos, patates kızartması, lavaş, ketçap, mayonez ile
+Yeni Nesil Cajun Soslu Tavuk (250 gr.) & Ballı Hardal Sos: Yanında ballı hardal sos, patates kızartması, lavaş, ketçap, mayonez ile
+Yeni Nesil Cajun Soslu Tavuk (250 gr.) & Haydari Sos: Yanında haydari sos, patates kızartması, lavaş, ketçap, mayonez ile
+Yeni Nesil Cajun Soslu Tavuk (250 gr.) & Tatlı Ekşili Sos: Yanında acılı ekşili sos, patates kızartması, lavaş, ketçap, mayonez ile
+Lahmacun (2 Adet):
+Adana Kebap: Bulgur pilavı, közlenmiş domates, sumaklı soğan, közlenmiş biber, tırnak pide, salata, ezme ile
+Kıymalı Pide: Salata, ezme ile
+Beyti Kebap: Yoğurtlu, soslu, açık. Bulgur pilavı, közlenmiş domates, sumaklı soğan, közlenmiş biber, salata, ezme ile
+Tavuk Şiş: Bulgur pilavı, közlenmiş domates, sumaklı soğan, közlenmiş biber, tırnak pide, salata, ezme ile
+İzmir Bomba (Adet):
+Profiterol: Cam kasede
+Alman Pastası:
+Ekler (250 gr.):
+Supangle: Cam kasede
+Pizza Margarita (27 cm.): 70 gr. pizza sosu, 100 gr. mozzarella peyniri
+Pizza Alaturka (27 cm.): 70 gr. pizza sosu, 100 gr. mozzarella peyniri, 50 gr. sucuk, 50 gr. sosis, 60 gr. mix biber, 40 gr. mantar, 15 gr. mısır, 15 gr. zeytin
+BBQ Chicken Pizza (27 cm.): Pizza sosu, mozzarella peyniri, bonfile tavuk parçaları, mısır, köy biberi, barbekü sosu
+İtalyan Kafası Special (27 cm.): Dana bacon, kapari, mısır, kırmızı kapya biber, mozzarella peyniri, fesleğen
+Deniz Mahsullü Pizza (27 cm.): 110 gr. karides, 100 gr. kalamar, 70 gr. ton balığı, 50 gr. mix biber, 15 gr. mısır, isteğe göre midye
+Lahmacun: Dana kaburga kıyma, domates, biber, maydanoz, soğan, kırmızıbiber
+Kıymalı Pide: Dana kaburga kıyma, domates, soğan, köy biberi, maydanoz
+Sarma Beyti Kebap: Yoğurt, sos. Pilav, salata, ezme, közlenmiş domates, közlenmiş biber
+Adana Kebap: Pilav, salata, ezme, közlenmiş domates, közlenmiş biber
+Süzme Mercimek Çorbası:
+Hamsi Tava (1 kg.):
+Hamsi Tava (1 Kişilik): Roka, limon, soğan ile
+Izgara Palamut: Roka, limon, soğan ile
+Roka Salatası (Küçük):
+Çoban Salata (Küçük):
+Lahmacun: Mevsim salata, acılı ezme, çiğ köfte ile
+Kıymalı Pide: Mevsim salata, acılı ezme, çiğ köfte ile
+Adana Kebap: Bulgur pilavı, piyaz, soğan, közlenmiş domates, közlenmiş biber, mevsim salata, acılı ezme, çiğ köfte ile
+Künefe:
+Beyti Kebap: Bulgur pilavı, piyaz, soğan, közlenmiş domates, közlenmiş biber, mevsim salata, acılı ezme, çiğ köfte ile
+Lahmacun: Ezme, tarator veya salata ile
+Sarma Beyti: Lavaşa sarılı, yoğurtlu. Bulgur pilavı, közlenmiş domates, közlenmiş biber, ezme, tarator veya salata ile
+Mercimek Çorbası: Salata, çiğ köfte, lavaş ile
+İşkembe Çorbası: Salata, çiğ köfte, lavaş ile
+Seçilmiş Menü (Adana Kebap): Adana Kebap + Coca-Cola (33 cl.)
+Kıymalı Kaşarlı Gözleme: Domates & salatalık söğüş ile
+Karışık Bazlama Tost: Sucuk, kaşar peyniri, domates. Patates kızartması, domates & salatalık söğüş ile
+Sucuklu Kaşarlı Gözleme: Domates & salatalık söğüş ile
+Mercimek Çorbası:
+Ekmek Arası Arnavut Ciğeri Menü: Ekmek Arası Arnavut Ciğeri (Patates kızartması, soğan, domates, biber) + Ayran (20 cl.)
+İskender (Et Dönerden): Bulgur pilavı, közlenmiş domates, biber, lavaş, turşu ile
+Et Döner:
+Beyti Kebap: Bulgur pilavı, közlenmiş domates, biber, lavaş, turşu ile
+Alinazik İskender (Et Dönerden): Çıtır pide üzerine közlenmiş patlıcan, özel hazırlanmış et döner, özel acılı sos, özel tereyağı ile
+Adana Kebap: Bulgur pilavı, közlenmiş domates, biber, lavaş, turşu ile
+İskender (Et Dönerden): Bulgur pilavı, közlenmiş domates, biber, lavaş, turşu ile
+Beyti Kebap: Yoğurtlu soslu açık beyti kebap. Bulgur pilavı, közlenmiş domates, biber, lavaş, turşu ile
+Fırın Sütlaç:
+Adana Kebap: Bulgur pilavı, közlenmiş domates, biber, lavaş, turşu ile
+İskender (Alinazik): Çıtır pide üzerine közlenmiş patlıcan, özel hazırlanmış et döner, özel sosu ve tereyağı ile
+Tam Ekmek Arası İzmir Usulü Kokoreç: İri kıyım, isteğe göre acı
+Yarım Ekmek Arası Kokoreç:
+Ekmek Arası Izgara Köfte: Domates, biber, soğan
+Tavuk Dürüm: Domates, soğan, köz biber
+Mercimek Çorbası: Tereyağı sos
+Pilav Üstü Tavuk:
+Kokoreç Dürüm: Kimyon, kekik, pul biber, tuz
+Yarım Ekmek Arası Izgara Köfte: Domates, soğan, köz biber
+Açma:
+Simit:
+Poğaça:
+Hamur İşi Menü: Ev Yapımı Açma (2 Adet) + Sade Lelek (2 Adet) + Ev Yapımı Peynirli Üçgen Poğaça (2 Adet) + Ev Yapımı Patatesli Kol Böreği (2 Adet)
+Patatesli Kol Böreği (200 gr.):
+Adana Kebap: Izgara mantar, mevsim salata, ezme salatası, soğan salatası, cacık, közlenmiş domates, közlenmiş biber, limon, turşu ile
+Tavuk Şiş: Izgara mantar, mevsim salata, ezme salatası, soğan salatası, cacık, közlenmiş domates, közlenmiş biber, limon, turşu ile
+Kuzu Şiş: Izgara mantar, mevsim salata, ezme salatası, soğan salatası, cacık, közlenmiş domates, közlenmiş biber, limon, turşu ile
+Karışık Kebap (2 Kişilik): Adana kebap, kuzu şiş, tavuk kanat, patlıcanlı kebap, ızgara mantar, mevsim salata, ezme, soğan salata, cacık, turşu, limon ile
+Adana Dürüm: Mantar, limon, turşu
+Hatay Usulü Tavuk Döner Dürüm: Salatalık turşusu, göbek marul, patates kızartması, özel sos, mayonez
+Tavuk Döner Beyti: Lavaşa sarılı, soslu, yoğurtlu. 100 gr. tavuk döner, pirinç pilavı, salata, közlenmiş biber
+İskender (Tavuk Dönerden): 100 gr. tavuk döner, tırnak pide, pirinç pilavı, yoğurt, İskender sosu, tereyağı
+Hatay Usulü Menü: Hatay Usulü Tavuk Döner Dürüm + Eker Tatlı + Eker Ayran (20 cl.)
+Köfte Menü: Ekmek Arası Köfte + Eker Tatlı + Eker Ayran (20 cl.)
+Etli Ekmek: Kıyma. Salata, günün tatlısı, çiğ köfte ile
+Tavuk Şiş Dürüm Menü: Tavuk Şiş Dürüm (100 gr.) (Yeşillik, isteğe göre soğan) + Çiğ Köfte + Patates Kızartması + Günün Tatlısı + Ayran (17 cl.)
+2'li Lahmacun Menü: 2 Adet Lahmacun + Salata + Çiğ Köfte + Patates Kızartması + Günün Tatlısı + Kutu İçecek
+Etli Ekmek Menü: Özel Etli Ekmek + Salata + Patates Kızartması + Çiğ Köfte + Günün Tatlısı + Kutu İçecek
+Mercimek Çorbası:
+Mega Çiğ Köfte Dürüm: 200 gr. çiğ köfte, iceberg marul, turşu, cin biberi, limon, nar ekşisi, acı sos
+Çiğ Köfte Dürüm: Iceberg marul, turşu, cin biberi, limon, nar ekşisi, acı sos
+Çiğ Köfte (500 gr.): 6 adet lavaş, turşu, iceberg marul, cin biberi, limon, nar ekşisi, acı sos ile
+Çiğ Köfte (750 gr.): 8 adet lavaş, turşu, iceberg marul, cin biberi, limon, nar ekşisi, acı sos ile
+Kelle Paça Çorbası: Biber turşusu, mevsim yeşillikleri
+İşkembe Çorbası: Biber turşusu, mevsim yeşillikleri
+Tavuk Suyu Çorbası: Biber turşusu, mevsim yeşillikleri
+Mercimek Çorbası: Biber turşusu, mevsim yeşillikleri
+Ezogelin Çorbası: Biber turşusu, mevsim yeşillikleri
+Yayla Çorbası: Biber turşusu, mevsim yeşillikleri
+Domates Çorbası: Biber turşusu, mevsim yeşillikleri
+Mantar Çorbası: Biber turşusu, mevsim yeşillikleri
+Ekmek Arası Köfte Menü: Ekmek Arası Köfte + Salata + Biber Turşusu + Ayran (25 cl.)
+Izgara Köfte: Salata, biber turşusu ile
+Arnavut Ciğeri: Dana Arnavut ciğeri, sumaklı soğan, salata, közlenmiş domates, közlenmiş biber
+Ekmek Arası Kuzu Kokoreç Menü: Ekmek Arası Kuzu Kokoreç + Ayran (25 cl.)
+Kuzu Uykuluk: Kekik, kimyon, pul biber, biber turşusu ile
+Karışık Kebap: Tavuk şiş, tavuk kanat, kuzu şiş, ızgara köfte, Adana kebap, patlıcanlı kebap, bulgur pilavı, mevsim yeşillikleri, çiğ köfte, turşu, ezme, közlenmiş biber, közlenmiş domates, tandır lavaşı
+Ekmek Arası Kuzu Kokoreç:
+Kelle Paça Çorbası: Tereyağı, mevsim yeşillikleri, ekmek ile
+Adana Dürüm: Sumaklı soğan, kıvırcık marul, domates, közlenmiş biber, biber turşusu
+Sarma Beyti Kebap: Lavaşa sarılı, solu, yoğurtlu. Bulgur pilavı, mevsim yeşillikleri, çiğ köfte, turşu, ezme, közlenmiş biber, közlenmiş domates, tandır lavaşı ile
+Zeytinyağlı Biber Dolması (Adet):
+Zeytinyağlı Tabağı (5 Çeşit) (600 gr.): Günün 5 çeşit zeytinyağlısı ile
+Köfte Ekmek:
+İspanyol Cheesecake:
+Çikolatalı Anne Pastası:
+Yarım Ekmek Arası Ankara Usulü Et Döner: 100 gr. et döner, közlenmiş biber
+Pilav Üstü Et Döner: 100 gr. et döner, pilav
+Seçilmiş Menü (Yarım Ekmek Arası Ankara Usulü Et Döner): Yarım Ekmek Arası Ankara Usulü Et Döner + Coca-Cola (33 cl.)
+Ankara Usulü Et Döner (100 gr.): Salata, ekmek
+Ankara Usulü Et Döner (150 gr.): Salata, ekmek
+: Zurna Tavuk Döner Dürüm + Ayran (29,5 cl.)
+: Tavuk Döner Dürüm + Patates Kızartması + Ayran (29,5 cl.)
+Tavuk Combo Menü 1: Tavuk Döner Dürüm + Patates Kızartması + İçecek
+: Et Döner Dürüm + Patates Kızartması + İçecek
+: Zurna Et Döner Dürüm + Patates Kızartması + İçecek
+Çift Pideli Et Döner: 2 adet pide üzerine et döner, soğan, domates, cin biberi
+İskender (Tavuk Dönerden): Tereyağı, sos, salça
+Pideli Et Döner: 1,5 adet pide üzerine et döner, soğan, domates, cin biberi
+Gobit Ekmek Arası Et Döner: Soğan, domates, cin biberi
+İskender (Et Dönerden): Yoğurt, tereyağı, salata, domates, soğan
+Lahmacun (2 Adet):
+Kıymalı Pide:
+Adana Kebap: Salata, sütlü irmik helvası
+Beyti Kebap: Salata, sütlü irmik helvası
+Kuşbaşılı Kaşarlı Pide:
+Çiğ Köfte Dürüm: 80 gr. çiğ köfte, iceberg marul, nar ekşisi, nane, maydanoz, turşu
+Mega Dürüm Menü: Mega Çiğ Köfte Dürüm + Eker Ayran (30 cl.)
+Çiğ Köfte (1 kg.): 10 adet lavaş, tam göbek marul, 6 adet çiğ köfte sos ile
+Çiğ Köfte (500 gr.): Göbek marul, lavaş çiğ köfte sos ile
+Seçilmiş Menü (Mega Çiğ Köfte Dürüm): Mega Çiğ Köfte Dürüm + Coca-Cola (33 cl.)
+Karışık Izgara: Tavuk şiş, tavuk pirzola, ızgara köfte, ızgara sucuk, Adana kebap. Bulgur pilavı, közlenmiş biber, közlenmiş domates, patates kızartması ile
+Adana Kebap: Bulgur pilavı, közlenmiş biber, közlenmiş domates, patates kızartması ile
+Tavuk Kanat: Bulgur pilavı, közlenmiş biber, közlenmiş domates, patates kızartması ile
+Adana Dürüm: Domates, biber, soğan
+Kokoreç (Tam):
+Lahmacun Menü 1: 2 Adet Lahmacun + Salata + Ezme + Patlıcan Tarator + Maydanoz + Ayran (30 cl.)
+Kuşbaşılı Kaşarlı Pide: Kuşbaşı et üzerine kaşar peyniri
+Lahmacun: Dana kıyma, kuru soğan, domates, maydanoz, özel baharatlar
+Fırsat Menüsü 5: Kuşbaşılı Kaşarlı Pide + Salata + Ezme + Patlıcan Tarator + Patates Kızartması + Ayran (30 cl.)
+Kıymalı Pide: Dana kıyma, kuru soğan, domates, çarliston biberi, baharat
+Tekli Büyük Boy Pizza Menü: Seçeceğiniz Büyük Boy Pizza + İçecek (1 L.)
+Tekli Orta Boy Pizza Menü: Seçeceğiniz Orta Boy Pizza + İçecek (1 L.)
+Pizza Mista (Orta): Özel pizza sosu, küp mozzarella peyniri, sucuk, salam, sosis, yeşilbiber, kapya biberi, mantar, mısır, zeytin
+Pizza Mista (Büyük): Özel pizza sosu, küp mozzarella peyniri, sucuk, salam, sosis, yeşilbiber, kapya biberi, mantar, mısır, zeytin
+2'li Orta Boy Pizza Menü: Seçeceğiniz 2 Adet Orta Boy Pizza + İçecek (1 L.)
+Ravello Kova Tavuk (Small) Menü: Ravello Soslu Tavuk (250 gr.) + Patates Kızartması + Roll Ekmek (Adet) + Ketçap + Mayonez + 3 Adet Sos + Kutu İçecek
+Ravello Kova Tavuk (Medium) Menü: Ravello Soslu Tavuk (500 gr.) + Patates Kızartması + Roll Ekmek (2 Adet) + Ketçap + Mayonez + 3 Adet Sos + İçecek (1 L.)
+Margherita Pizza (Büyük): (Odun ateşinde pişirilmektedir.) Domates sosu, mozzarella peyniri, kurutulmuş domates, fesleğen, zeytinyağı
+Sucuklu Pizza (Büyük): (Odun ateşinde pişirilmektedir.) Domates sosu, mozzarella peyniri, dana sucuk, kurutulmuş domates, fesleğen, zeytinyağı
+4 Formaggi Pizza (Büyük): (Odun ateşinde pişirilmektedir.) Domates sosu, mozzarella peyniri, rokfor peyniri, eski kaşar peyniri, roka, fesleğen, zeytinyağı
+Künefe:
+Çikolatalı Fıstıklı Soğuk Baklava (500 gr.):
+Fıstıklı Baklava (500 gr.):
+Çikolatalı Fıstıklı Soğuk Baklava (250 gr.):
+Çikolatalı Fıstıklı Soğuk Baklava: (4 Dilim)
+Etli Menü: Seçeceğiniz Çorba + Seçeceğiniz Etli Yemek + Seçeceğiniz Yardımcı Yemek + Seçeceğiniz Yan Ürün
+Tavuklu Menü: Seçeceğiniz Çorba + Seçeceğiniz Tavuk Yemeği + Seçeceğiniz Yardımcı Yemek + Seçeceğiniz Yan Ürün
+Sebzeli Menü: Seçeceğiniz Çorba + Seçeceğiniz Sebzeli Yemek + Seçeceğiniz Yardımcı Yemek + Seçeceğiniz Yan Ürün
+Halep Dolması (4 Adet):
+Çoban Kavurma Menü: Seçeceğiniz Çorba + Çoban Kavurma (150 gr.) + Seçeceğiniz Yardımcı Yemek + Seçeceğiniz Yan Ürün
+Karışık Ayvalık Tostu: 3 katlı ayvalık ekmeğine kaşar peyniri, sucuk, salam, Rus salatası, turşu, ketçap. Mevsim yeşillikleri, patates kızartması, chili sos, garlic sos ile
+Bazlama Karışık Tost: Kaşar peyniri, sucuk, salam. Mevsim yeşillikleri, patates kızartması, chili sos, garlic sos ile
+Patatesli Kaşarlı Gözleme: Zeytin, domates, salatalık ile
+Hamburger: 90 gr. burger köftesi, kıvırcık marul, domates, isteğe göre acı soslu turşu, Rus salatası, karamelize soğan, turşu. Baharatlı patates kızartması ile
+Silence Kahvaltı: Domates, salatalık, 3 çeşit peynir, 3 çeşit tatlı, tereyağı, zeytin, salam, sigara böreği, baharatlı patates kızartması, haşlanmış yumurta
+Lahmacun:
+Seçilmiş Menü (Tas Kebabı): Tas Kebabı + Coca-Cola (33 cl.)
+Kıymalı Pide:
+Kıymalı Kır Pidesi:
+Patatesli Kır Pidesi:
+Tavuk Şiş Dürüm: 140 gr. tavuk kalça şiş, domates, sumaklı soğan. Jalapeno biber turşusu ile
+Adana Dürüm: 120 gr. kebap, domates, sumaklı soğan. Jalapeno biber turşusu ile
+Et Çöp Şiş Dürüm: 3 adet et çöp şiş, domates, sumaklı soğan. Jalapeno biber turşusu ile
+Yaprak Kanat: Soğan, domates, jalapeno biberi turşusu
+Ciğer Şiş Dürüm: 3 adet ciğer şiş, domates, sumaklı soğan. Jalapeno biber turşusu ile
+Lahmacun (2 Adet): Salata, ezme ile
+Kıymalı Pide: Salata, ezme ile
+Lahmacun (3 Adet): Salata, ezme ile
+Adana Dürüm: Soğan, domates, yeşillik
+Kuşbaşılı Kaşarlı Pide: Salata, ezme ile
+Lahmacun: Kıyma, domates, soğan, biber, maydanoz, özel baharat
+Kıymalı Pide: Kıyma, domates, soğan, biber, maydanoz
+2'li Lahmacun Menü: 2 Adet Lahmacun + Tatlı + İçecek
+Mercimek Çorbası: Mercimek, tereyağı
+İskender (Et Dönerden): Et döner, özel sos, tereyağı, pilav
+SSK Et Döner Dürüm: Salata, cacık, patates kızartması, çiğ köfte, ezme, irmik tatlısı ile
+İskender (Et Dönerden): Salata, cacık, patates kızartması, çiğ köfte, ezme, irmik tatlısı ile
+Kaşarlı Sarma Beyti Kebap: Salata, cacık, patates kızartması, çiğ köfte, ezme, irmik tatlısı ile
+Antep Gül Katmeri:
+Kuşbaşılı Kaşarlı Pide: Salata, cacık, patates kızartması, çiğ köfte, ezme, irmik tatlısı ile
+Ekmek Arası Antrikot: 160 gr. süt dana antrikot, sumaklı soğan, yeşillik, közlenmi�� biber
+Ekmek Arası Tavuk Pirzola: 160 gr. tavuk pirzola, sumaklı soğan, yeşillik, közlenmiş biber
+Ekmek Arası Izgara Köfte: 150 gr. zırh kıymasından köfte, sumaklı soğan, yeşillik, közlenmiş biber
+Ekmek Arası Tavuk Külbastı: Köz biber, domates, isteğe göre soğan söğüş
+Lahmacun: Salata, ezme ile
+İskender (Et Dönerden): Domates, közlenmiş biber, yoğurt, pilav ile
+Adana Kebap: Domates, közlenmiş biber, pilav, soğan ile
+Beyti Kebap: Domates, közlenmiş biber, pilav, soğan ile
+Kıymalı Pide: Salata, ezme ile
+Ekmek Arası Patso: Patates kızartması, sosis, ketçap, mayonez
+Yumurtalı Tost: Yumurta, kaşar peyniri, sucuk, salam, sosis, domates, turşu, salça, ketçap, mayonez, biber, pul biber
+Kendi Tostunu Kendin Yap: Kaşar peyniri, seçeceğiniz malzemeler
+Ekmek Arası Arnavut Ciğeri: Soğan, domates, turşu, maydanoz
+Duble Kendi Tostunu Kendin Yap: Kaşar peyniri, seçeceğiniz malzemeler
+Lahmacun: Salata, haydari, acılı ezme ile
+Sarma Beyti Kebap: Lavaşa sarılı, soslu, yoğurtlu. Közlenmiş biber, közlenmiş domates, maydanoz, salata, haydari, acılı ezme, pilav ile
+Künefe:
+Mercimek Çorbası: Salata, haydari, acılı ezme, tırnak ekmek ile
+Kıymalı Pide: Salata, haydari, acılı ezme ile
+Hatay Usulü Tavuk Döner Dürüm: Patates kızartması, turşu, mayonez, Hatay sos. Biber turşusu ile
+Zurna Tavuk Döner Dürüm: Domates, yeşillik, soğan. Biber turşusu ile
+Ekmek Arası Izgara Köfte: Domates, soğan. Biber turşusu ile
+Ekmek Arası Tavuk Döner: Domates, yeşillik, soğan. Biber turşusu ile
+Izgara Köfte Dürüm: Domates, soğan. Biber turşusu ile
+Közde Hatay Usulü Tavuk Şiş Dürüm: Patates kızartması, turşu, yeşillik, mayonez, Hatay sos
+Adana Dürüm: Domates, isteğe göre soğan
+Tavuk Şiş Dürüm: Domates, isteğe göre soğan
+Mega Hatay Usulü Közde Tavuk Şiş Dürüm (1,5 Lavaş): Patates kızartması, turşu, yeşillik, mayonez, Hatay sos
+Urfa Dürüm: Domates, isteğe göre soğan
+Midye Dolma (Adet):
+Mega Çiğ Köfte Dürüm: 150 gr. çiğ köfte, iceberg marul, limon, nar ekşisi, turşu, nane, jalapeno biberi, mısır
+Çiğ Köfte Dürüm: 100 gr. - 110 gr. çiğ köfte, iceberg marul, nane, maydanoz, yeşilsoğan, lahana, domates, mısır
+Çiğ Köfte (500 gr.): 5 adet lavaş, 1/2 iceberg marul, 3 adet nar ekşisi, 2 adet acı sos ile
+Tıka Basa Dürüm: Çift lavaş, 220 gr. çiğ köfte, kornişon turşu, iceberg marul
+@'li Burger: 130 gr. dana burger köftesi, 40 gr. dana kontrfile, füme, cheddar peyniri, karamelize soğan, turşu, marul, özel sos. Patates kızartması ile
+Double Burger: 260 gr. dana burger köftesi, çift cheddar peyniri, özel sos, karamelize soğan, turşu, marul. Patates kızartması ile
+Cheeseburger: 130 gr. dana burger köftesi, cheddar peyniri, karamelize soğan, turşu, marul, özel sos. Patates kızartması ile
+Kasap Burger: 130 gr. dana burger köftesi, dana füme, karamelize soğan, cheddar peyniri, özel sos, marul, turşu. Patates kızartması ile
+Steak Burger: 130 gr. dana burger köftesi, 40 gr. dana kontrfile, karamelize soğan, cheddar peyniri, marul, turşu, özel @'li Burger sos. Patates kızartması ile
+Sanayi Tostu: Yumurta, kavurma, sucuk, kaşar peyniri, salça, yeşilbiber, kekik, pul biber. Patates kızartması ile
+Seçilmiş Menü (Sanayi Tostu): Sanayi Tostu + Coca-Cola (33 cl.)
+Sucuklu Kaşarlı Tost: Patates kızartması ile
+Ayvalık Tostu: Sosis, salam, sucuk, kaşar peyniri, Rus salatası, turşu, ketçap. Patates kızartması ile
+Kumru Sandviç: Jülyen doğranmış sosis, salam, sucuk, kaşar peyniri, Rus salatası, turşu, ketçap. Patates kızartması ile
+Menü 2: Seçeceğiniz Büyük Boy Pizza + Kutu İçecek
+Menü 1: Seçeceğiniz Orta Boy Pizza + Kutu İçecek
+Çikolatalı Sufle:
+Menü 4: Seçeceğiniz 2 Adet Büyük Boy Pizza + İçecek (1 L.)
+Karışık Pizza (Orta): Pizza sos, mozzarella peyniri, sosis, sucuk, salam, mantar, mısır, zeytin, yeşilbiber
+Big Dürüm (45 cm.) Menü: Big Tavuk Dürüm (45 cm.) + Sütaş Ayran (20 cl.)
+Piliç Çevirme (Bütün): 1 adet kızarmış bütün tavuk, 2 adet taş fırın lavaş
+Vodafone Menüsü (Jumbo Tavuk Dürüm): Jumbo Tavuk Dürüm (45 cm.) + Sütaş Ayran (20 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+Pilav Üstü Tavuk: Kızarmış tavuk (ayıklanmış), 200 gr. pilav, salata tabağı
+High Protein Menü: Kızarmış Ayıklanmış Tavuk + Pilav (200 gr.) + Salata Tabağı + Sütaş Ayran (30 cl.)
+Jumbo Dürüm (45 cm.) Menü: Jumbo Tavuk Dürüm (45 cm.) + Sütaş Ayran (20 cl.)
+High Protein Menü: Kızarmış Ayıklanmış Tavuk + Pilav (200 gr.) + Salata Tabağı + Sütaş Ayran (30 cl.)
+Fırsat Menüsü: Tiftiklenmiş Tavuk (200 gr.) + Pilav (200 gr.) + Kutu İçecek
+Middle Dürüm Menü: Middle Tavuk Dürüm + Sütaş Ayran (20 cl.)
+Garnitürlü Piliç Çevirme (Yarım): 1 adet kızarmış yarım tavuk, 100 gr. pilav, salata tabağı, 1 adet taş fırın lavaş
+Jumbo Dürüm (45 cm.) Menü: Jumbo Tavuk Dürüm (45 cm.) + Sütaş Ayran (20 cl.)
+High Protein Menü: Kızarmış Ayıklanmış Tavuk + Pilav (200 gr.) + Salata Tabağı + Sütaş Ayran (30 cl.)
+Garnitürlü Piliç Çevirme (Yarım): 1 adet kızarmış yarım tavuk, 100 gr. pilav, salata tabağı, 1 adet taş fırın lavaş
+Pilav Üstü Tavuk: Kızarmış tavuk (ayıklanmış), 200 gr. pilav, salata tabağı
+Big Dürüm (45 cm.) Menü: Big Tavuk Dürüm (45 cm.) + Sütaş Ayran (20 cl.)
+Garnitürlü Piliç Çevirme (Yarım): 1 adet kızarmış yarım tavuk, 100 gr. pilav, salata tabağı, 1 adet taş fırın lavaş
+Middle Dürüm Menü: Middle Tavuk Dürüm + Sütaş Ayran (20 cl.)
+Junior Dürüm Menü: Junior Tavuk Dürüm + Sütaş Ayran (20 cl.)
+High Protein Menü: Kızarmış Ayıklanmış Tavuk + Pilav (200 gr.) + Salata Tabağı + Sütaş Ayran (30 cl.)
+High Protein Menü: Kızarmış Ayıklanmış Tavuk + Pilav (200 gr.) + Salata Tabağı + Sütaş Ayran (30 cl.)
+Pilav Üstü Tavuk: Kızarmış tavuk (ayıklanmış), 200 gr. pilav, salata tabağı
+Jumbo Dürüm (45 cm.) Menü: Jumbo Tavuk Dürüm (45 cm.) + Sütaş Ayran (20 cl.)
+Garnitürlü Piliç Çevirme (Yarım): 1 adet kızarmış yarım tavuk, 100 gr. pilav, salata tabağı, 1 adet taş fırın lavaş
+Middle Dürüm Menü: Middle Tavuk Dürüm + Sütaş Ayran (20 cl.)
+: Espresso, süt, buz
+: Beyaz çikolata sosu, espresso, süt
+: Butterscotch sosu, espresso, süt
+:
+: Espresso, su
+:
+: Espresso, süt
+Mozaik Pasta:
+:
+: Bal kabağı şurubu, espresso, süt
+Kaşarlı Tavuk Göğüs (6 Adet): Patates kızartması, özel sos ile
+Mega Çiğ Köfte Dürüm Menü 2: Mega Çiğ Köfte Dürüm (200 gr. çiğ köfte, iceberg marul, limon, nar ekşisi, acı sos, isteğe göre turşu, karalahana, havuç) + Ayran (30 cl.)
+Kaşarlı Tavuk Göğüs (10 Adet): Patates kızartması, özel sos ile
+Tam Ekmek Arası Sade Kuzu Kokoreç:
+Yarım Ekmek Arası Sade Kuzu Kokoreç:
+4'lü Lahmacun (19 - 20 cm.) Menü: 4 Adet Lahmacun (19 - 20 cm.) + İçecek
+Antep Lahmacun (19 - 20 cm.): Dana eti
+Klasik Lahmacun (19 - 20 cm.): Dana eti
+Anadolu Burger: Gobit ekmek arası köfte, turşu, özel sos, patates kızartması, mayonez
+Acılı Lahmacun (19 - 20 cm.): Dana eti
+Tavuk Tantuni Dürüm: Domates, maydanoz, isteğe göre soğan. Cin biber, limon, patates kızartması ile
+Et Tantuni Dürüm: Domates, maydanoz, isteğe göre soğan. Cin biberi, patates kızartması ile
+Ekmek Arası Tavuk Tantuni Menü: Ekmek Arası Tavuk Tantuni + Patates Kızartması + Ayran (27 cl.)
+2'li Ekmek Arası Tavuk Tantuni Menü: 2 Adet Ekmek Arası Tavuk Tantuni + Patates Kızartması + İçecek (1 L.)
+Ekmek Arası Tavuk Tantuni: Domates, maydanoz, isteğe göre soğan. Cin biber, limon, patates kızartması ile
+Dürüm Et Tantuni: Domates, soğan, yeşillik, ayçiçek yağı, özel terbiyeli biftek eti
+Somun Et Tantuni: Ekmek arasına, domates, soğan, yeşillik, ayçiçek yağı, özel terbiyeli biftek eti
+Tavuk Tantuni (Ekmek Arası):
+Tavuk Tantuni (Dürüm):
+3/4 Ekmek Et Tantuni:
+Dana Roast Beef Sandviç: Ay çekirdekli kepekli panini ekmeğine; dana roast beef, labne peyniri, kültür mantarı, renkli biber, kaşar peyniri
+Çikolatalı Fındıklı Donut:
+Latte (16 oz.): Espresso, süt
+Hindi Fümeli Sandviç: Tütsülenmiş hindi eti
+Çikolata Parçacıklı Kurabiye:
+Mozzarella Sandviç: Foccacia ekmeğine; pesto sos, mozzarella peyniri, kurutulmuş domates, domates sos
+Tavuk Filetolu Sandviç: Haşhaşlı panini ekmeğine; kaşar peyniri, baharatlı tavuk, kekik, kırmızı pul biber, tuz, karabiber, soya sos, sıvı yağ
+Kahvaltılık Sandviç: Beyaz peynir, cheddar peyniri, domates, biber
+Patatesli Kol Böreği:
+Kıymalı Serpme Börek:
+Lahmacun: Mevsim salata, acılı ezme, haydari ile
+Karışık Izgara: Kuzu eti, dana eti, ciğer, Adana kebap, tavuk kanat, tavuk, köfte. Bulgur pilavı, közlenmiş biber, közlenmiş domates, soğan, tırnak pide, mevsim salata, acılı ezme, haydari
+Beyti Sarma Kebap: Bulgur pilavı, közlenmiş biber, közlenmiş domates, soğan, tırnak pide, mevsim salata, acılı ezme, haydari
+Adana Kebap: Bulgur pilavı, közlenmiş biber, közlenmiş domates, soğan, tırnak pide, mevsim salata, acılı ezme, haydari
+Kuşbaşılı Kaşarlı Pide: Mevsim salata, acılı ezme, haydari ile
+770 Burger: 140 gr. hamburger köftesi, marine soğan, cheddar peyniri, dana bacon
+Cheeseburger: 140 gr. hamburger köftesi, cheddar peyniri, marine soğan, marul
+Niki Burger: 140 gr. hamburger köftesi, ızgara patlıcan, cheddar peyniri, karamelize soğan
+Kapı Burger: 140 gr. hamburger köftesi, guacamole, cheddar peyniri, marul
+Acı Burger: 140 gr. köfte, domates sos, nacho, tabasco, jalapeno biberi, cheddar peyniri
+Smoke House Burger: 120 gr. burger köftesi, füme et, cheddar peyniri, domates, marul, soğan, karamelize soğan, barbekü sos, Alman turşusu. Patates kızartması, seçeceğiniz 2 adet sos ile
+Cheeseburger: 120 gr. burger köftesi, çift cheddar peyniri, Alman turşusu, domates, marul, soğan, burger sos. Patates kızartması, seçeceğiniz 2 adet sos ile
+Double Smoke House Burger: 2 adet 120 gr. burger köftesi, dilim füme et, çift cheddar peyniri, domates, marul, soğan, karamelize soğan, barbekü sos, Alman turşusu. Patates kızartması, seçeceğiniz 2 adet sos ile
+2'li Smoke House Burger Menü: 2 Adet Smoke House Burger + 2 Adet Patates Kızartması + 4 Adet Seçeceğiniz Sos + 2 Adet İçecek
+BBQ Burger: 120 gr. burger köftesi, cheddar peyniri, domates, marul, soğan, karamelize soğan, barbekü sos, Alman turşusu. Patates kızartması, seçeceğiniz 2 adet sos ile
+Sucuklu Mantarlı Pizza (Orta): Pizza sosu, mozzarella peyniri, sucuk, mantar
+Güveçte Sufle:
+Acılı Tavuk Pizza (8 Dilim): Pizza sosu, mozzarella peyniri, acılı tavuk parçaları, mantar
+BBQ Sote Tavuk (Orta): Pizza sosu, mozzarella peyniri, sote tavuk, BBQ sos
+BBQ Sote Tavuk (8 Dilim): Pizza sosu, mozzarella peyniri, sote tavuk, BBQ sos
+Hatay Usulü Tavuk Döner Dürüm: Domates, soğan, kıvırcık marul, özel sos
+Ekmek Arası Tavuk Döner: Domates, soğan, kıvırcık marul, özel sos
+Pilav Üstü Tavuk Döner: Salata ile
+Büyük Ekmek Arası Tavuk Döner: Domates, soğan, kıvırcık marul, özel sos
+Tavuk Döner Dürüm: Domates, soğan, kıvırcık marul, özel sos
+No:2 Cheseburger: A'altro köfte, mozzarella peyniri, dana jambon, karamelize soğan, marul, cheddar peyniri. Patates kızartması ile
+No:3 A'altro Spesiyal Burger: A'altro köfte, cheddar peyniri, mozzarella peyniri, mantar, kapya biberi, soğan, domates, közlenmiş patlıcan, dana jambon. Patates kızartması ile
+Tavuk Schnitzel: Fırınlanmış patates püresi, tereyağı, dereotu, limon
+Çıtır Tavuk: Patates kızartması, 3 adet soğan halkası
+A'altro Karışık Pizza (Orta - 28 cm.): Mozzarella peyniri, salam, sucuk, sosis, mantar, kırmızıbiber, yeşilbiber, mısır, zeytin, soğan
+: Ab'bas Waffle (Açık) + Coca-Cola (33 cl.)
+Ab'bas Waffle (Açık): Seçeceğiniz malzemeler ile
+Ab'bas Waffle (Sandviç): Seçeceğiniz malzemeler ile
+: Ab'bas Waffle (Açık) + Ab'bas Waffle (Sandviç)
+:
+Waffle (Açık): Seçeceğiniz malzemeler ile
+: Ab'bas Waffle (Açık) + Coca-Cola (33 cl.)
+Waffle (Sandviç): Seçeceğiniz malzemeler ile
+:
+:
+Menü 1: Cajun Baharatlı Tavuk Tabağı (250 gr.) + Baharatlı Patates Kızartması + Acı Sos + Barbekü Sos + Ketçap + Mayonez + 1 Adet Lavaş + Kutu İçecek
+Menü 3: Cajun Baharatlı Tavuk Tabağı (500 gr.) + 2 Adet Baharatlı Patates Kızartması (Büyük) + Acı Sos + Barbekü Sos + Ketçap + Mayonez + 2 Adet Lavaş + İçecek (1 L.)
+Çıtır Kemiksiz Menü (1 Kişilik): 7 Adet Kemiksiz Çıtır Tavuk + 1 Adet Lavaş + Baharatlı Patates Kızartması + Acı Sos + Barbekü Sos + Ketçap + Mayonez + Kutu İçecek
+Karışık Çıtır Menü (1 Kişilik): Çıtır But + 3 Adet Çıtır Tavuk Kanat + 3 Adet Kemiksiz Çıtır Tavuk + 2 Adet Lavaş + Baharatlı Patates Kızartması + Acı Sos + Barbekü Sos + Ketçap + Mayonez + Kutu İçecek
+Füme Burger: 130 gr. burger köftesi, domates, turşu, cheddar peyniri, füme kaburga. Baharatlı patates kızartması, acı sos, barbekü sos, ketçap, mayonez ile
+Klasik Ayvalık Tostu: 3 katlı Ayvalık ekmeğine; salam, sucuk, kaşar peyniri, turşu, Rus salatası, ketçap, mayonez
+Sanayi Tostu: 3/4 ekmeğe, salçalı sos, dana sucuk, yumurta, kaşar peyniri, kavurma
+Sosisli Sandviç: Uzun sosis, Rus salatası, turşu, ketçap, mayonez
+Patso Sandviç: Patates kızartması, ketçap, mayonez
+Ayvalık Tostu Menü: Klasik Ayvalık Tostu (Domates, salatalık, zeytin, cin biberi ile) + Taze Sıkma Meyve Suyu (33 cl.)
+Damacana Su (19 L.): Damacanası olmayanlar için depozito bedeli 18 TL'dir.
+Damacana Su (Cam) (19 L.):
+Damacana Su (Cam) (19 L.) + Cam Damacana Pompası: Cam damacanası olmayanlar için depozito bedeli 103 TL'dir. Ürün fiyatına depozito ücreti dahildir.
+Damacana Su (19 L.) + Damacana Pompası: Polikarbon damacanası olmayanlar için depozito bedeli 18 TL'dir.
+Damacana Su (19 L.) + Damacana Depozito:
+Cam Damacana Su (19 L.) + Cam Damacana Depozito:
+Damacana Su (19 L.): Farklı marka damacana değişim ücreti 5 TL'dir.
+Damacana Su (19 L.) + Depozito:
+Damacana Su (19 L.) + Depozito + Su Pompası:
+Cam Damacana Su (19 L.):
+Cam Damacana Su (19 L.) + Depozito:
+Cam Damacana Su (19 L.) + Depozito + Cam Damacana Su Pompası:
+Abant Cam Damacana Su (19 L.): (Depozito bedeli 103 TL'dir.)
+Abant Damacana Su (19 L.): (Damacanası olmayanlar için damacana depozito bedeli 18 TL'dir. Farklı marka damacana için ise 5 TL değişim ücreti alınır.)
+Abant Cam Damacana Su (19 L.) + Cam Damacana Pompası: (İlk defa sipariş verecekler için cam damacana depozito bedeli ücrete dahil değildir.) (Cam damacana depozito bedeli 103 TL'dir.) (Pompa için cam boru bedeli ayrıca 25TL'dir.)
+Abant Damacana Su (19 L.) + Damacana Pompası: (Damacanası olmayanlar için damacana depozito bedeli 18 TL'dir. Farklı marka damacana için ise 5 TL değişim ücreti alınır.)
+Dağ Kekikli Tavuk Menü: Dağ Kekikli Tavuk (200 gr.) + Patates Kızartması + Mevsim Salata + Turşu + Yoğurt Tarator + İrmik Tatlısı + Kutu İçecek
+Köri Soslu Tavuk Menü: Köri Soslu Tavuk (200 gr.) + Patates Kızartması + Mevsim Salata + Turşu + Yoğurt Tarator + İrmik Tatlısı + Kutu İçecek
+Meksika Soslu Tavuk Menü: Meksika Soslu Tavuk (200 gr.) + Patates Kızartması + Mevsim Salata + Turşu + Yoğurt Tarator + İrmik Tatlısı + Kutu İçecek
+Barbekü Soslu Tavuk Menü: Barbekü Soslu Tavuk (200 gr.) + Patates Kızartması + Mevsim Salata + Turşu + Yoğurt Tarator + İrmik Tatlısı + Kutu İçecek
+Tatlı Ekşi Soslu Tavuk Menü: Tatlı Ekşi Soslu Tavuk (200 gr.) + Patates Kızartması + Mevsim Salata + Turşu + Yoğurt Tarator + İrmik Tatlısı + Kutu İçecek
+Menü 1: Lahmacun (2 Adet) + Yeşillik + Salata + Ezme + Haydari + Tatlı + Ayran (20 cl.)
+Menü 2: Kıymalı Pide + Kuşbaşılı Pide + Yeşillik + Salata + Ezme + Haydari + Tatlı + 2 Adet Ayran (20 cl.)
+Menü 3: Et Tantuni Dürüm (2 Adet) + Yeşillik + Salata + Ezme + Haydari + Tatlı + 2 Adet Ayran (20 cl.)
+Menü 4: Et Dürüm + Tavuk Dürüm + Yeşillik + Salata + Ezme + Haydari + Tatlı + 2 Adet Ayran (20 cl.)
+Menü 5: Lahmacun (2 Adet) + Kıymalı Pide + Yeşillik + Salata + Ezme + Haydari + Tatlı + 2 Adet Ayran (20 cl.)
+Menü 6: Et Dürüm + Tavuk Dürüm + Yoğurtlu Tantuni + Yeşillik + Salata + Ezme + Haydari + Tatlı
+Menü 7: Lahmacun (2 Adet) + Adana Dürüm + Ekmek Arası Izgara Köfte + Yeşillik + Salata + Ezme + Haydari + Tatlı + İçecek (1 L.)
+Menü 8: Lahmacun (10 Adet) (Lütfen, acı seçiminizi sipariş notunuz kısmında belirtiniz.) + Yeşillik + Salata + Ezme + Haydari + Tatlı + İçecek (1 L.)
+Karışık Pizza (Büyük): Pizza sosu, mozzarella peyniri, salam, sucuk, kırmızıbiber, yeşilbiber, sosis, mantar
+Karışık Pizza (Orta): Pizza sosu, mozzarella peyniri, salam, sucuk, kırmızıbiber, yeşilbiber, sosis, mantar
+Vodafone Menüsü (Margherita Pizza): Margherita Pizza (Büyük) + Patates Kızartması + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+Orta Boy Karışık Pizza Menü: Karışık Pizza (Orta) + Patates Kızartması + Kutu İçecek
+2'li Orta Boy Karışık Pizza Menü: 2 Adet Orta Boy Karışık Pizza + İçecek (1 L.)
+Antep Lahmacun: Süt dana & süt kuzu kıyma, domates, biber, maydanoz, sarımsak, kırmızıbiber. Limon, maydanoz, çubuk turşusu ile
+Urfa Lahmacun: Süt dana & süt kuzu kıyma, domates, biber, maydanoz, soğan, kırmızıbiber. Limon, maydanoz, çubuk turşusu ile
+Abdülleziz Lahmacun: Süt dana & süt kuzu kıyma, domates, biber, maydanoz, soğan, kırmızıbiber, ceviz, tarçın, sumak. Limon, maydanoz, çubuk turşusu ile
+Söğürmeli Lahmacun: Antep lahmacun arasına patlıcan söğürme
+Şambali Tatlısı (Adet):
+Cheddarlı Çıtır Tavuk: 250 gr. cheddar soslu çıtır tavuk, patates kızartması, tortilla ekmeği, özel Abella sos, ranch sos, ketçap, mayonez
+Cajun Bucket (250 gr.): 250 gr. cajun soslu tavuk, patates kızartması, tortilla ekme��i, özel Abella sos, ranch sos, ketçap, mayonez
+Acılı Cajun Bucket (250 gr.): 250 gr. cajun soslu acılı tavuk, patates kızartması, tortilla ekmeği, özel Abella sos, ranch sos, ketçap, mayonez
+Cajun Bucket (500 gr.): 500 gr. cajun soslu tavuk, patates kızartması, tortilla ekmeği, özel Abella sos, ranch sos, ketçap, mayonez
+Acılı Cajun Bucket (500 gr.): 500 gr. cajun soslu acılı tavuk, patates kızartması, tortilla ekmeği, özel Abella sos, ranch sos, ketçap, mayonez
+Lahmacun: Kaburga kıyma, domates, biber, soğan, maydanoz, isot. Salata ile
+Etli Ekmek: Kaburga kıyma, domates, biber. Salata, köz biber ile
+Konya Karışık Pide: Dana kuşbaşı, kaburga, kıyma, orta yağlı kaşar peyniri, domates, biber. Kıyma, kuşbaşı. Salata, köz biber ile
+Bıçakarası Pide: Dana eti, kuşbaşı, domates, biber. Salata, köz biber ile
+Recai Pide: Dana kuşbaşı, orta yağlı kaşar peyniri, domates, biber. Salata, köz biber ile
+Lahmacun: Yeşillik, limon ile
+Kaşarlı Lahmacun: Yeşillik, limon ile
+Cheeseburger: 120 gr. hamburger köftesi, cheddar peyniri, Ability sos, domates, turşu, karamelize soğan, karamelize mantar. Patates kızartması ile
+Miami Burger: 220 gr. hamburger köftesi, cheddar peyniri, domates, turşu, karamelize soğan, Ability sos. Patates kızartması ile
+Ability Special Burger: 120 gr. hamburger köftesi, Ability sos, cheddar peyniri, dana füme, domates, turşu, karamelize soğan, karamelize mantar. Patates kızartması ile
+Ability Burger: 120 gr. hamburger köftesi, Ability sos, domates, turşu, karamelize soğan, karamelize mantar. Patates kızartması ile
+Tavuk Burger: 120 gr. tavuk, Ability sos, turşu, domates, karamelize soğan. Patates kızartması ile
+Ev Yapımı Mantı Menü: Ev Yapımı Mantı (150 gr.) + İçecek (20 cl.)
+Günün Menüsü: Günün Çorbası + Seçeceğiniz Ana Yemek + Pilav + Yoğurt
+Günün Yemeği: Tavuk sote veya tavuk kavurma. Günün çorbası, bulgur pilavı, yoğurt ile
+Karışık Tost Menü: Karışık Tost (Kaşar peyniri, sucuk, domates, biber. Domates, salatalık, zeytin ile) + İçecek (20 cl.)
+Günün Çorbası:
+Tavuk Döner Dürüm (200 gr.): Domates, soğan, patates kızartması, ketçap, mayonez
+Tavuk Döner Menü: Tavuk Döner Dürüm veya Ekmek Arası Tavuk Döner (120 gr.) + Patates Kızartması + Kutu İçecek
+Tavuk Döner Dürüm (100 gr.): Domates, soğan, patates kızartması, ketçap, mayonez
+Baharatlı Patates Kızartması (Büyük):
+Et Döner Menü: Et Döner Dürüm veya Ekmek Arası Et Döner (120 gr.) + Patates Kızartması + Kutu İçecek
+Lahmacun: Salata, ezme, yoğurtlu mantar ile
+2'li Lahmacun Menü: 2 Adet Lahmacun + Salata + Seçeceğiniz Eker Tatlı + Ayran (20 cl.)
+Kıymalı Pide: Salata, ezme, yoğurtlu mantar ile
+Adana Kebap: Pilav, patates kızartması, soğan, közlenmiş domates, közlenmiş biber, salata, ezme, yoğurtlu mantar
+Kuşbaşılı Kaşarlı Pide: Salata, ezme, yoğurtlu mantar ile
+2'li Lahmacun Menü: 2 Adet Lahmacun + Salata + Ezme + Tarator + Tulumba Tatlısı + Ayran (20 cl.)
+4'lü Lahmacun Menü: 4 Adet Lahmacun + Tarator + İçecek (1 L.)
+Kuşbaşılı Pide Menü: Kuşbaşılı Pide + Salata + Ezme + Tarator + Tulumba Tatlısı + Ayran (20 cl.)
+2'li Kıymalı Pide Menü: 2 Adet Kıymalı Pide + Salata + Ezme + Tulumba Tatlısı + İçecek (1 L.)
+Çikolatalı Muzlu Pasta (8 - 10 Kişilik):
+2'li Tavuk Tantuni Dürüm Menü: 2 Adet Tavuk Tantuni Dürüm (Turşu, limon) + Ayran (20 cl.)
+Ekmek Arası Tavuk Tantuni: Domates, maydanoz, isteğe göre soğan
+Tavuk Tantuni Dürüm: Domates, maydanoz, isteğe göre soğan
+Yoğurtlu Tavuk Tantuni Dürüm: Domates, maydanoz, isteğe göre soğan
+Çiğ Köfte Dürüm: Göbek marul, limon, nar ekşisi, acı sos
+Piliç Çevirme (Yarım): Pilav, salata, ekmek ile
+Ezogelin Çorbası:
+Piliç Çevirme (Bütün) Menü: Piliç Çevirme (Bütün) + Salata + Çiğ Köfte + 2 Adet Ekmek + Coca-Cola (1 L.)
+Piliç Çevirme (Bütün): Pilav, salata, 2 adet ekmek ile
+Piliç Tepsi Menü 2: 2 Adet Piliç Çevirme (Bütün) + Pilav + Salata + Çiğ Köfte + 4 Adet Ekmek + Coca-Cola (2,5 L.)
+Lahmacun: Maydanoz, limon, turşu ile
+Seçilmiş Menü (2 Lahmacun): 2 Adet Lahmacun + Coca-Cola (33 cl.)
+Vodafone Menüsü (Kıymalı Pide): Kıymalı Pide + Ayran (30 cl.)
+Kuşbaşılı Kaşarlı Pide: Mevsim salata, turşu ile
+Kıymalı Pide: Mevsim salata, turşu ile
+Ayvalık Tostu: Salam, sucuk, kaşar peyniri, Rus salatası, domates, turşu, mısır, iceberg marul, ketçap, mayonez
+Kumru Sandviç: Salam, sucuk, sosis, kaşar peyniri, turşu, domates, ketçap, mayonez
+Sosisli Sandviç: Rus salatası, ketçap, mayonez
+Salçalı Asker Tostu: Bol yağlı yarım ekmek arasına, sucuklu yumurta, kaşar peyniri, Antep salçası
+Seçilmiş Menü (Ayvalık Tostu): Ayvalık Tostu + Coca-Cola (33 cl.)
+Tavuklu Wrap: Tortilla ekmeğine; marine edilmiş tavuk parçaları, yeşilbiber, kapya biberi, mantar, soğan, özel wrap sosu,. Patates kızartması ile
+Cheeseburger: 110 gr. burger köftesi, cheddar peyniri, iceberg marul, domates, turşu, burger sos, karamelize soğan, çıtır soğan
+Nomad Burger: 110 gr. burger köftesi, sucuk, pastırma, tulum peyniri, iceberg marul, domates, turşu, burger sos, karamelize soğan, çıtır soğan
+Cheeseburger Menü: Cheeseburger + İçecek
+Patso Sandviç: Yarım odun ekmeğine; Afrika ateşi sos, patates kızartması, turşu, ketçap
+
+Cheddar Soslu Tavuk Döner Dürüm Menü: Cheddar Soslu Tavuk Döner Dürüm (Tandır lavaşı, soslu cheddar peynirli 150 gr. tavuk döner, yeşillik, turşu) + Seçeceğiniz Yan Ürün + Kutu İçecek + Ranch Sos
+Hatay Soslu Tavuk Döner Dürüm: 150 gr. tavuk döner, yeşillik, domates, turşu, özel soslar, isteğe göre soğan. Seçeceğiniz yan ürün ile
+Seçilmiş Menü (Hatay Soslu Tavuk Döner Dürüm): Hatay Soslu Tavuk Döner Dürüm + Coca-Cola (33 cl.)
+Antakya Usulü Tavuk Döner Dürüm Menü: Antakya Usulü Tavuk Döner Dürüm (150 gr. tavuk döner) + Seçeceğiniz Yan Ürün + Kutu İçecek
+Tavuk Külbastı: Közlenmiş domates, közlenmiş biber, mevsim salata, pirinç pilavı veya köri soslu makarna veya demi glace soslu makarna, tortilla lavaşı
+Özel Lahmacun: Salata, ezme, haydari ile
+Kıymalı Pide: Salata, ezme, haydari ile
+Adana Kebap: Salata, ezme, haydari, köz domates, köz biber, piyaz, sumaklı soğan, bulgur pilavı ile
+Beyti Kebap: Salata, ezme, haydari, köz domates, köz biber, piyaz, sumaklı soğan, bulgur pilavı ile
+Adana Dürüm: Domates, biber, soğan
+: (Çiğ köfte beyti) 300 gr. çiğ köfte, limon, biber turşusu, turp, tere, nane, roka
+: (Sıkım çiğ köfte) Göbek marul, limon, biber turşusu, turp, tere, nane, roka, lavaş ile
+: Rulo yapılmış 160 gr. çiğ köfte, limon, biber turşusu, turp, tere, nane, roka
+: Göbek marul, limon, biber turşusu, turp, tere, nane, roka, lavaş ile
+: İçi Dışı Çiğ Köfte Dürüm + Ayran (30 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+Adana Dürüm: Domates, soğan, maydanoz, sumak
+Tavuk Şiş Dürüm: Domates, soğan, maydanoz, sumak
+Tam Ekmek Arası Kuzu Kokoreç:
+Ekmek Arası Köfte: dana köfte
+Yarım Ekmek Arası Kuzu Kokoreç:
+Rio De Janeiro Soslu Tavuk Menü: Rio De Janeiro Soslu Tavuk + Patates Kızartması veya Pirinç Pilavı + Lavaş veya Ekmek + Kutu İçecek
+Rio De Janeiro Soslu Tavuk: Özel soslu tavuk parçaları, acı sos, ekmek veya lavaş, pilav veya patates kızartması
+Rio Soslu Tavuk (Adet):
+Junior Rio De Janeiro Soslu Tavuk Menü: Junior Rio De Janeiro Soslu Tavuk + Patates Kızartması veya Pirinç Pilavı + Lavaş veya Ekmek + Ayran (30 cl.)
+Rio Çıtır Tavuk (250 gr.): Özel soslu çıtır tavuk, patates kızartması veya pirinç pilavı, seçeceğiniz sos, lavaş veya ekmek
+Rio De Janeiro Soslu Tavuk: Özel soslu 3 adet tavuk parçası, acı sos, ekmek, lavaş, patates kızartması veya pilav
+Cajun Baharatlı Tavuk Sepeti (250 gr.) Menü: Cajun Baharatlı Tavuk Sepeti (250 gr.) + Baharatlı Patates Kızartması + Acı Sos veya Garlic Sos + Lavaş + Kutu İçecek
+Rio Soslu Tavuk (Adet):
+Rio Roll Dürüm: Tandır lavaşı, Rio de Janeiro soslu tavuk, domates, turşu, peynir, acı sos
+Seçilmiş Menü (Rio De Janeiro Soslu Tavuk): Rio De Janeiro Soslu Tavuk + Patates Kızartması veya Pilav + Seçeceğiniz Tatlı + Coca-Cola (33 cl.)
+Rio Roll Dürüm: Tandır lavaşı, Rio de Janeiro soslu tavuk, domates, turşu, cheddar peyniri, patates kızartması, soğan halkası, seçeceğiniz sos
+Cajun Baharatlı Tavuk Sepeti (250 gr.) Menü: Cajun Baharatlı Tavuk Sepeti (250 gr.) + Baharatlı Patates Kızartması + Acı Sos + Garlic Sos + Sweet Chili Sos + Ketçap + Mayonez + Lavaş + Kutu İçecek
+Rio De Janeiro Soslu Tavuk: Özel soslu tavuk parçaları, acı sos, ekmek, lavaş, pilav veya patates kızartması
+Rio Karışık Menü: Rio De Jenerio Soslu Tavuk + 3 Adet Rio Şiş + 3 Adet Rio Çıtır Tavuk + Seçeceğiniz Yan Ürün + Seçeceğiniz Ekmek + Seçeceğiniz Sos
+Rio Soslu Tavuk (Adet):
+Rio De Janeiro Soslu Tavuk: Özel soslu tavuk parçaları (250 gr. - 3 adet), acı sos, ekmek, lavaş, pilav veya patates kızartması
+Rio Roll Dürüm: Tandır lavaşı, Rio de Janeiro soslu tavuk (ortalama 140 gr. - 2 adet), domates, turşu, peynir, acı sos
+Rio Soslu Tavuk (Adet): Özel Rio soslu kızarmış göğüs parçası (ortalama 70 gr.)
+Seçilmiş Menü (2 Adet Rio Roll Dürüm): 2 Adet Rio Roll Dürüm + Tatlı + Coca-Cola (33 cl.)
+Cajun Baharatlı Tavuk (250 gr.) Menü: Cajun Baharatlı Tavuk (250 gr.) + Lavaş + Pilav + Kutu İçecek
+Rio De Janeiro Soslu Tavuk: Özel soslu tavuk parçaları, acı sos, ekmek, lavaş, pilav veya patates kızartması
+Rio Roll Dürüm: Tandır lavaşı, Rio de Janeiro soslu tavuk, domates, turşu, peynir, acı sos
+Rio Çıtır Tavuk (250 gr.): 250 gr. tavuk, patates kızartması veya pirinç pilavı, özel sos, lavaş veya ekmek
+Cajun Baharatlı Tavuk (250 gr.) Menü: Cajun Baharatlı Tavuk (250 gr.) + Patates Kızartması veya Pirinç Pilavı + Ekmek + Çikolatalı Puding + Sarımsaklı Sos + Tatlı Ekşi Sos + Barbekü Sos + Kutu İçecek
+Seçilmiş Menü (Rio De Janeiro Soslu Tavuk): Rio De Janeiro Soslu Tavuk + Seçeceğiniz Yan Ürün + Çikolatalı Puding + Coca-Cola (33 cl.)
+Hatay Usulü Tavuk Döner Dürüm: Patates kızartması, sos, turşu, mayonez
+Zurna Tavuk Döner Dürüm: Patates kızartması, sos, turşu, mayonez
+Özel Soslu Tavuk Döner Dürüm: Domates, turşu, patates kızartması, kıvırcık marul, özel sos
+Cheddarlı Tavuk Döner Dürüm: Domates, patates kızartması, turşu, özel sos, mayonez
+Özel Soslu Kaşarlı Tavuk Döner Dürüm: Kaşar peyniri, domates, turşu, patates kızartması, kıvırcık marul, özel sos
+Tavuk Çevirme (Bütün): Bulgur pilavı, domates & biber söğüş, soğan, ekmek ile
+Tavuk Çevirme (Yarım): Bulgur pilavı, domates & biber söğüş, soğan, ekmek ile
+Tavuk Çevirme (Yarım) Menü: Tavuk Çevirme (Yarım) (Bulgur pilavı, domates & biber söğüş, soğan, ekmek ile) + İçecek
+Eker Puding:
+Tavuk Çevirme (Bütün) Menü: Tavuk Çevirme (Bütün) (Bulgur pilavı, domates & biber söğüş, soğan, ekmek ile) + İçecek (1 L.)
+Vodafone Menüsü (Karışık Pizza (Büyük)): Karışık Pizza (Büyük) + İçecek (1 L.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+Vodafone Menüsü (Köri Soslu Tavuk): Köri Soslu Tavuk + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+Mercimek Çorbası:
+Kelle Paça Çorbası: Sirke, sarımsak, ekmek ile
+İşkembe Çorbası: Sirke, sarımsak, ekmek ile
+Şişman Kumru Sandviç Menü: Şişman Kumru Sandviç + Patates Kızartması + Kutu İçecek
+Şişman Ayvalık Tostu Menü: Şişman Ayvalık Tostu + Patates Kızartması + Kutu İçecek
+Ayvalık Tostu Menü: Ayvalık Tostu + Patates Kızartması + Kutu İçecek
+Şişman Ayvalık Tostu: Kaşar peyniri, sucuk, salam, özel sos
+Ayvalık Tostu: Kaşar peyniri, sucuk, salam, özel sos
+Tavuk Tantuni Dürüm: Soğan, maydanoz, domates
+Somun Ekmek Arası Tavuk Tantuni: Domates
+Bazlama Ekmeğine Kavurmalı Kaşarlı Tost: Patates kızartması, söğüş ile
+Patatesli Gözleme:
+Izgara Köfte: Soğan salatası, ekmek ile
+Tavuklu Nohutlu Pilav: Pilav, yoğurt, salata ile
+Kadınbudu Köfte: 3 adet kadınbudu köfte, patates püresi
+Etli Yaprak Sarması: Ev yapımı özel domates sos, yoğurt ile
+Günün Çorbası:
+Anne Köftesi: 5 adet köfte, közlenmiş biber, közlenmiş domates, pirinç pilavı
+Şok Menü 2: Adana Dürüm + Cin Biberi + Yöresel Patates + Ezme + Ayran (20 cl.)
+Şok Menü 1: Adana Dürüm + Yöresel Patates Kızartması + Cin Biberi + Ezme + İçecek
+Şok Menü: Adana Dürüm + Ezme + Turşu + Ayran (20 cl.)
+Tavuk Dürüm: Soğan, domates, yeşillik. Ezme, turşu, salata ile
+Tavuk Germeç Dürüm: Soğan, domates, yeşillik. Ezme, turşu, salata ile
+İzmir Bomba (Adet): İçi çikolata dolu
+Kıymalı Adana Böreği (250 gr.): Tereyağı, el açması çıtır yufka. Domates, biber turşusu, zeytin ile
+Peynirli Adana Böreği (250 gr.): Tereyağı, el açması çıtır yufka. Domates, biber turşusu, zeytin ile
+Peynirli Adana Böreği (500 gr.): Tereyağı, el açması çıtır yufka
+Kaşarlı Gözleme: 1,5 yufka, kaşar peyniri
+İzmir Bomba (Adet): İçi çikolata dolu
+Tereyağlı Simit:
+Ankara Simidi:
+Peynirli Adana Böreği (250 gr.): Tereyağı, el açması çıtır yufka. Domates, biber turşusu, zeytin ile
+Pastırmalı Adana Böreği (250 gr.): Tereyağı, el açması çıtır yufka. Domates, biber turşusu, zeytin ile
+Peynirli Adana Böreği (500 gr.):
+Peynirli Adana Böreği (250 gr.):
+Peynirli Adana Böreği (1 kg.):
+İşkembe Çorbası: Limon, ekmek ile
+Fıstıklı Antep Midye Baklava (250 gr.):
+Midye Dolma (adet):
+Adana Dürüm Menü: Adana Dürüm (80 gr. Adana kebap, soğan, domates) + Ayran (20 cl.)
+Adana Dürüm: Soğan, domates
+Tavuk Şiş Dürüm: Soğan, domates
+Ekmek Arası Kasap Köfte Menü: Ekmek Arası Kasap Köfte (Soğan, domates) + Ayran (20 cl.)
+Adana Dürüm: Maydanoz, domates, isteğe göre soğan. Yeşillik, turşu, ezme ile
+Tavuk Şiş Dürüm: Maydanoz, domates, isteğe göre soğan. Yeşillik, turşu, ezme ile
+Kuzu Ciğer Şiş Dürüm: Maydanoz, domates, isteğe göre soğan. Yeşillik, turşu, ezme ile
+Mercimek Çorbası:
+Ekmek Arası Karışık Izgara: Adana kebap, 2 adet ızgara köfte, 2 adet ızgara sucuk, kuzu şiş, garnitür, ezme, isteğe göre soğan
+Adana Dürüm: Domates, isteğe göre soğan
+Adana Kebap: Acılı ezme, cacık, yeşil salata, bulgur pilavı, irmik tatlısı ile
+Hamsiköy Sütlacı:
+Beyti Kebap: Acılı ezme, cacık, yeşil salata, bulgur pilavı, irmik tatlısı ile
+Tavuk Şiş: Acılı ezme, cacık, yeşil salata, bulgur pilavı, irmik tatlısı ile
+Lahmacun: Salata ile
+2'li Lahmacun Menü: 2 Adet Lahmacun + İçecek
+Kelle Paça Çorbası: Sarımsak, sirke, salata, ekmek, limon ile
+Kıymalı Pide: Salata ile
+Vodafone Menüsü (3'lü Lahmacun): 3 Adet Lahmacun + Ayran (30 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+Peynirli Adanus Böreği:
+Bazlama Ekmeğine Kaşarlı Tost:
+Bazlama Ekmeğine Karışık Tost: Kaşar peyniri,
+Adana Dürüm: Sumaklı soğan, maydanoz, domates. Adanus acı biber turşusu, roka, salatalık turşusu ile
+Pratik Menü: Adana Dürüm + Sarımsaklı Patates + Adanus Acı Biber Turşusu + Roka + Salatalık Turşusu + İçecek
+Kuzu Çöp Şiş Dürüm: Sumaklı soğan, maydanoz, domates. Adanus acı biber turşusu, roka, salatalık turşusu ile
+Afilli Tavuk Dürüm: Cheddar peyniri, barbekü sos, mayonez, iceberg marul. Adanus acı biber turşusu, roka, salatalık turşusu ile
+Kral Menü: Adana Dürüm + Seçeceğiniz Eker Tatlı + Eker Ayran (20 cl.)
+Tavuk Şiş: Lavaş, pilav, közlenmiş domates, közlenmiş biber, ezme, salata ile
+Cheesecake Limonlu:
+Tavuk Pirzola: Lavaş, pilav, közlenmiş domates, közlenmiş biber, ezme, salata ile
+Künefe:
+Izgara Köfte: Lavaş, pilav, közlenmiş domates, közlenmiş biber, ezme, salata ile
+Lahmacun: Salata, ezme, ile
+Menü 5: 2 Adet Lahmacun + Salata + Ezme + Günün Tatlısı + Ayran (20 cl.)
+Menü 1: Kıymalı Pide + Salata + Ezme + Günün Tatlısı + Ayran (20 cl.)
+Vodafone Menüsü (Kıymalı Pide - Açık): Kıymalı Pide (Açık) + Ayran (30 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+Künefe:
+Tam Ekmek Arası Köfte: Soğan, domates, turşu, maydonoz, cin biberi
+Tam Ekmek Arası Arnavut Ciğeri: Soğan, domates, turşu, maydonoz, cin biberi
+Izgara Köfte: 170 gr. ızgara köfte. Kıvırcık marul, roka, maydanoz, soğan, salatalık turşusu, cin biberi, domates ile
+Tam Ekmek Arası Tavuk Şiş: Soğan, domates, turşu, maydonoz, cin biberi
+Kızarmış Tavuk (Yarım): Pilav, salata, ekmek ile
+Ekmek Arası Arnavut Ciğeri: Seçeceğiniz malzemeler ile
+Ekmek Arası Köfte: 125 gr. ızgara köfte, seçeceğiniz malzemeler ile
+Ekmek Arası Tavuk Şiş: Seçeceğiniz malzemeler ile
+Izgara Köfte: 170 gr. ızgara köfte, kıvırcık marul, roka, maydanoz, soğan, salatalık turşusu, cin biberi, domates, 150 gr. ekmek
+Mercimek Çorbası:
+Köfte Baget Sandviç + Sütaş Ayran (33 cl.):
+Kıtır Tavuk Baget Sandviç + Sütaş Ayran (33 cl.):
+Kremalı Mantarlı Tavuk: Pilav, salata ile
+Cheddarlı Tavuk: Pilav, salata ile
+Barbekü Soslu Tavuk: Pilav, salata ile
+Çıtır Tavuk: Çıtır tavuk parçaları, pilav, patates kızartması
+Günün Çorbası:
+Çiğ Köfte Dürüm (100 gr.): 100 gr. çiğ köfte, marul, nar ekşisi, limon
+Çiğ Köfte Dürüm (200 gr.): 200 gr. çiğ köfte, marul, nar ekşisi, limon
+Çiğ Köfte Dürüm (150 gr.): 150 gr. çiğ köfte, marul, nar ekşisi, limon
+Çiğ Köfte (200 gr.): 2 adet lavaş, iceberg marul, nar ekşisi, limon ile
+Kızarmış Piliç (Yarım): Pilav, salata, ekmek ile
+Midye Dolma (Adet):
+Çiğ Köfte Dürüm:
+Çiğ Köfte (5 Kişilik): 500 gr. çiğ köfte, yarım iceberg marul, 5 adet lavaş, limon, acı sos, nar ekşisi
+Halka Tatlısı:
+XL Çiğ Köfte Dürüm: 200 gr. çiğ köfte ile
+Çiğ Köfte Dürüm: İsteğe göre, roka, maydanoz, nane, marul, kuzukulağı, reyhan, domates, mor lahana, mısır, yeşilsoğan
+Mega Çiğ Köfte Dürüm: İsteğe göre, roka, maydanoz, nane, marul, kuzukulağı, reyhan, domates, mor lahana, mısır, yeşilsoğan
+Çiğ Köfte (500 gr.): Çiğ köfte, mevsim yeşillikleri, lavaş, limon, nar ekşisi, acı sos
+Çiğ Köfte (200 gr.): Çiğ köfte, mevsim yeşillikleri, lavaş, limon, nar ekşisi, acı sos
+Zurna Çiğ Köfte Dürüm: İsteğe göre, roka, maydanoz, nane, marul, kuzukulağı, reyhan, domates, mor lahana, mısır, yeşilsoğan
+Karışık Dürüm: Çift lavaş, çiğ köfte, şnitzel, iceberg marul, nar ekşisi, ketçap, mayonez, turşu, domates
+Double Karışık Dürüm: Çift lavaş, double çiğ köfte, 2 adet tavuk şinitzel, iceberg marul, nar ekşisi, ketçap, mayonez, turşu, domates
+Çiğ Köfte Dürüm: (100 gr.) Çiğ köfte, iceberg marul, limon, nar ekşisi, turşu, domates
+Çiğ Köfte (285 gr.) (2 Kişilik): 3 adet lavaş, iceberg marul, 2 adet nar ekşisi, limon ile
+Şnitzel Dürüm: Çift lavaş, şnitzel, iceberg marul, ketçap, mayonez, turşu, domates
+Ultra Mega Çiğ Köfte Dürüm: 150 gr. çiğ köfte, isteğe göre iceberg marul, karalahana, salatalık turşusu, nane, maydanoz, roka, acı sos, nar ekşisi
+Çiğ Köfte (400 gr.): Iceberg marul, karalahana, salatalık turşusu, nane, maydanoz, roka, acı sos, nar ekşisi ile
+Joker Çiğ Köfte (600 gr.): Iceberg marul, karalahana, salatalık turşusu, nane, maydanoz, roka, acı sos, nar ekşisi ile
+Çiğ Köfte (800 gr.): Iceberg marul, karalahana, salatalık turşusu, nane, maydanoz, roka, acı sos, nar ekşisi ile
+Burma Kadayıf (1 kg.):
+Midye Dolma (Adet) (Orta):
+Mega Çiğ Köfte Dürüm: 120 gr. çiğ köfte, iceberg marul, nar ekşisi, acı sos, limon, nane, maydanoz, domates, turşu
+Çiğ Köfte Dürüm: 90 gr. çiğ köfte, iceberg marul, nar ekşisi, acı sos, limon, nane, maydanoz, domates, turşu
+Çiğ Köfte (500 gr.): Iceberg marul, nar ekşisi, acı sos, limon, nane, maydanoz, turşu, 4 adet lavaş,
+Çiğ Köfte (250 gr.): Iceberg marul, nar ekşisi, acı sos, limon, nane, maydanoz, turşu, 2 adet lavaş
+Çiğ Köfte Dürüm (90 gr.): Seçeceğiniz malzemeler ile
+Çiğ Köfte Dürüm (125 gr.): Seçeceğiniz malzemeler ile
+Çiğ Köfte (600 gr.): 3/4 göbek marul, limon, nar ekşisi, 6 adet lavaş ile
+Çiğ Köfte (400 gr.): Yarım göbek marul, limon, nar ekşisi, 4 adet lavaş ile
+Çiğ Köfte Dürüm (180 gr.): Seçeceğiniz malzemeler ile
+Menü 1: Çiğ Köfte Dürüm + Ayran (20 cl.)
+Menü 3: Mega Çiğ Köfte Dürüm + Ayran (30 cl.)
+
+Mega Çiğ Köfte Dürüm: 150 gr. çiğ köfte, isteğe göre iceberg marul, limon, acı sos, nar ekşisi, salatalık turşusu, biber, nane,
+maydanoz
+
+Çiğ Köfte (400 gr.): 4 adet lavaş, yeşillik, limon, nar ekşisi ile
+
+İzmir Bomba:
+Midye Dolma (Adet):
+Çiğ Köfte (500 gr.): 3/4 göbek marul, limon, 5 adet lavaş, 5 adet çiğ köfte sosu
+Mega Çiğ Köfte Dürüm (140 gr.): Nane, biber turşusu, maydanoz, domates, salatalık turşusu
+Çiğ Köfte Dürüm (100 gr.): Nane, biber turşusu, maydanoz, domates, salatalık turşusu
+Ultra Mega Çiğ Köfte Dürüm (180 gr.): Nane, biber turşusu, maydanoz, domates, salatalık turşusu
+Menü 4: Patso Sandviç + Coca-Cola (25 cl.)
+XL Çiğ Köfte Dürüm Menü: XL Çiğ Köfte Dürüm + Ayran (20 cl.)
+Çiğ Köfte (1 kg.) Menü: Çiğ Köfte (1 kg.) (Yeşillik, nar ekşisi, acı sos, 10 adet lavaş) + Ayran (1 L.)
+Midye Dolma (Adet):
+Çiğ Köfte Dürüm: 90 gr. çiğ köfte, yeşillik, nar ekşisi, acı sos, limon
+Mega Çiğ Köfte Dürüm: Çift lavaşa; 220 gr. çiğ köfte, yeşillik, nar ekşisi, acı sos, limon
+Mega Çiğ Köfte Dürüm Menü: Mega Çiğ Köfte Dürüm + Ayran (30 cl.)
+Çiğ Köfte Dürüm Menü: Çiğ Köfte Dürüm + Ayran (30 cl.)
+Çiğ Köfte Dürüm: 100 gr. çiğ köfte, iceberg marul, limon, maydanoz, nane, cin biberi, turşu
+Çiğ Köfte (400 gr.): Lavaş, iceberg marul, limon, maydanoz, nane, cin biberi, turşu, 2 adet nar ekşisi, 2 adet acı sos
+Mega Çiğ Köfte Dürüm: 200 gr. çiğ köfte, iceberg marul, limon, maydanoz, nane, cin biberi, turşu
+Çiğ Köfte (750 gr.): Lavaş, iceberg marul, limon, maydanoz, nane, cin biberi, turşu
+Midye Dolma (20 Adet): Limon ile
+Duble Çiğ Köfte Dürüm Menü: Duble Çiğ Köfte Dürüm (Iceberg marul, limon, nar ekşisi, acı sos) + Ayran (20 cl.)
+Çiğ Köfte (400 gr.): Iceberg marul, limon, 5 adet lavaş, 2 adet nar ekşisi, 2 adet acı sos ile
+Çiğ Köfte Dürüm Menü: Çiğ Köfte Dürüm (Iceberg marul, limon, nar ekşisi, acı sos) + Ayran (20 cl.)
+Çiğ Köfte (200 gr.): Iceberg marul, limon, 3 adet lavaş, 2 adet nar ekşisi, 2 adet acı sos ile
+Arnavut Ciğeri Dürüm Menü: Arnavut Ciğeri Dürüm (Domates, soğan, turşu, biber) + Ayran (20 cl.)
+Hamburger Menü: Hamburger (Hamburger köftesi, yeşillik, turşu, domates, ketçap, mayonez) + Patates Kızartması + Kutu İçecek
+Sütaş Çikolatalı Puding:
+Tavuk Burger Menü: Tavuk Burger (Tavuk eti, yeşillik, turşu, domates, mayonez) + Patates Kızartması + Kutu İçecek
+Köfte Dürüm: Domates, yeşillik, soğan, sos
+Cheddarlı Sucuk Dürüm: Cheddar peyniri, patates kızartması, sos, sarımsaklı mayonez
+Zurna Tavuk Döner Dürüm: Patates kızartması, yeşillik, mayonez, sos
+İskenderun Usulü Tavuk Döner Dürüm: Patates kızartması, yeşillik, mayonez, sos
+Zurna Cheddarlı Tavuk Dürüm: Patates kızartması, sos, mayonez, 4 dilim cheddar peyniri
+Hamburger Menü: Hamburger (Hamburger köftesi, yeşillik, turşu, domates, ketçap, mayonez) + Patates Kızartması + Kutu İçecek
+Çift Lavaşa Zurna Tavuk Döner Dürüm: Yeşillik, patates kızartması, özel sos, mayonez, 1 adet ilave lavaş
+Özel Urfa Lahmacun: Kıyma, soğan, domates, maydanoz, Urfa isotu
+Adana Kebap: Salata, haydari, ezme ile
+Menü 2: 2 Adet Lahmacun + Salata + Haydari + Ezme + Ayran (30 cl.)
+Beyti Kebap: Salata, haydari, ezme ile
+Kıymalı Pide:
+Karışık Bazlama Tost:
+Alman Pastası (Adet):
+Kıymalı Kalem Böreği (Adet):
+Trileçe (Dilim):
+Profiterol:
+Menu 11: Karışık Pizza (Orta) + Patates Kızartması + Ketçap + Mayonez + Kutu İçecek
+Menü 1: Küçük Boy Pizza + Patates Kızartması + Ketçap + Mayonez + İçecek
+Kral Menü: Küçük Boy Pizza + Patates Kızartması + Soğan Halkası + Chicken Fingers + Ketçap + Mayonez + İçecek
+Menü 5: Büyük Boy Pizza + Ketçap + Mayonez + İçecek (1 L.)
+Karışık Pizza (Büyük): Pizza sosu, mozzarella peyniri, dana sucuk, dana salam, dana sosis, zeytin, mantar, mısır, yeşilbiber, kırmızıbiber. Ketçap, mayonez ile
+Lahmacun: Maydanoz, limon ile
+Kuşbaşılı Pide: Mevsim salata ile
+Fındık Lahmacun: Maydanoz, limon ile
+Gavurdağı Salata: İnce kıyılmış domates, maydanoz, soğan, yeşilbiber, ceviz, nar ekşisi, zeytinyağı
+Ekşili Kuru Patlıcan Dolma:
+Lahmacun:
+Ekonomik Adana Dürüm Menü: Adana Dürüm + Patates Kızartması + İçecek
+Ekonomik Lahmacun Menü: Lahmacun (2 Adet) + Ezme + Maydanoz + İçecek
+Mercimek Çorbası:
+Ekonomik Köfte Ekmek Menü: Köfte Ekmek + Patates Kızartması + İçecek
+İzmir Midye Dolma (Adet) (Orta): Limon ile
+Çiğ Köfte Dürüm: 90 gr. çiğ köfte, iceberg marul, maydanoz, salatalık turşusu, kırmızılahana, cin biberi, jalapeno, nar ekşisi, limon, acı sos, nane
+Mega Çiğ Köfte Dürüm: 130 gr. çiğ köfte, iceberg marul, maydanoz, salatalık turşusu, kırmızılahana, cin biberi, jalapeno, nar ekşisi, limon, acı sos, nane
+Çiğ Köfte (400 gr.): 4 adet lavaş, iceberg marul, limon, acı sos, 2 adet nar ekşisi ile
+Double Çiğ Köfte Dürüm (Çift Lavaş): 175 gr. çiğ köfte iceberg marul, isteğe göre, acı sos, nar ekşisi, limon, maydanoz, salatalık turşusu, kırmızı lahana, jalapeno biberi, cin biberi, limon, nane
+Midye Dolma (Adet) (Orta): Limon ile
+Mega Çiğ Köfte Dürüm: 130 gr. çiğ köfte, iceberg marul, limon, nar ekşisi, nane, maydanoz, roka, cin biberi, salatalık turşusu, domates, acı sos
+Çiğ Köfte Dürüm: Iceberg marul, limon, nar ekşisi, nane, maydanoz, roka, cin biberi, salatalık turşusu, domates, acı sos
+Ekonomik Çiğ Köfte Menü 1: Çiğ Köfte (400 gr.) (4 adet lavaş, iceberg marul, limon, acı sos, 2 adet nar ekşisi) + İçecek (1 L.)
+Çiğ Köfte (400 gr.): 4 adet lavaş, iceberg marul, limon, acı sos, 2 adet nar ekşisi
+Lahmacun: Mevsim salata, ezme, limon ile
+Adana Dürüm: Soğan, yeşillik, domates
+Künefe:
+Karışık Kebap: Izgara köfte, kuzu şiş, patlıcanlı kebap, Adana kebap, tavuk şiş, ızgara tavuk kelebek, fındık lahmacun. Közlenmiş domates, közlenmiş biber, soğan, yeşillik, pirinç pilavı, mevsim salata ile
+Adana Kebap: Közlenmiş domates, közlenmiş biber, soğan, yeşillik, pirinç pilavı, mevsim salata ile
+Cajun Tavuk Firarda: Cajun baharatlı tavuk, baharatlı patates kızartması, sos seti, tandır ekmeği ile
+Cajun Ajun's Burger: Cajun çıtır tavuk, Ajun's sos, marul, soğan halkası, domates, salatalık turşusu. Baharatlı patates kızartması, sos seti ile
+Cajun 3 Kafadar Sepet: Cajun baharatlı tavuk, cajun baharatlı mantar taneleri, soğan halkaları, baharatlı patates kızartması, sos seti, tandır ekmeği
+Cajun Master Dürüm: Cajun çıtır tavuk, Ajun's sos, iceberg marul, domates, salatalık turşusu. Baharatlı patates kızartması, sos seti ile
+Hot Cajun Tavuk Firarda: Acılı cajun baharatlı tavuk, baharatlı patates kızartması, sos seti, tandır ekmeği ile
+Waffle: Muz, kivi, çilek, çikolata sos, kivi sos, çikolata parçaları, fındık parçaları
+Su Böreği:
+Ekler (500 gr.):
+Karaköy Böreği:
+Peynirli Gözleme: Mevsim yeşillikleri, patates kızartması ile
+Lahmacun: Mevsim salata ile
+Seçilmiş Menü (3 Lahmacun): 3 Adet Lahmacun + Coca-Cola (33 cl.)
+Kuşbaşılı Kaşarlı Pide: Mevsim salata ile
+Ekmek Arası Et Döner Menü: Ekmek Arası Et Döner (100 gr.) + Ayran (20 cl.)
+Kıymalı Pide: Mevsim salata ile
+Etli Ekmek Pide: Ezme, salata, haydari
+Adana Dürüm: Domates, yeşillik, soğan. Ezme, salata, haydari
+Bıçak Arası Pide: Ezme, salata, haydari
+Etli Kaşarlı Pide: Ezme, salata, haydari
+Bıçak Arası Kaşarlı Pide: Ezme, salata, haydari
+Lahmacun: Salata, haydari, acılı ezme ile
+Kıymalı Pide: Salata, haydari, acılı ezme ile
+Vodafone Menüsü (Kıymalı Pide): Kıymalı Pide + Ayran (27 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+Künefe:
+Beyti Kebap Menü: Beyti Kebap + İçecek
+Izgara Levrek: (400 - 450 gr.) Soğan, roka, limon, fındıklı tahin helvası, mısır ekmeği
+
+Mevsim Salatası:
+Balık Çorbası: Günün balığı
+Midye Tava: Tarator sos, limon ile
+Izgara Palamut Takoz: (300 gr.) Limon, fındıklı tahin helvası, mısır ekmeği
+Hamsi Tava (350 gr.): Limon, mısır ekmeği, fındıklı tahin helvası ile
+Mevsim Salata:
+Izgara Levrek (400 - 450 gr.): Soğan, roka, limon, mısır ekmeği, fındıklı tahin helvası ile
+Balık Çorbası: Günün balığı
+Roka Salatası:
+Et Tantuni Dürüm: Soğan, domates, maydanoz, isteğe göre yağlı, acılı
+Tavuk Tantuni Dürüm: Soğan, domates, maydanoz, isteğe göre yağlı, acılı
+Yarım Ekmek Arası Et Tantuni: Soğan, domates, maydanoz, isteğe göre yağlı, acılı
+Yarım Ekmek Arası Tavuk Tantuni: Soğan, domates, maydanoz, isteğe göre yağlı, acılı
+Yarım Ekmek Arası Izgara Köfte Menü: Yarım Ekmek Arası Izgara Köfte (120 gr. ızgara köfte, közlenmiş biber, domates, soğan ile) + Patates Kızartması + Ayran (17 cl.)
+Menü 7: Jumbo Hatay Usulü Tavuk Döner Dürüm (44 cm.) (110 gr. tavuk döner, sos, yeşillik, domates, patates kızartması, turşu, soğan, ketçap, mayonez) + Patates Kızartması + Ayran (20 cl.)
+Menü 4: Hatay Usulü Tavuk Döner Dürüm (100 gr. tavuk döner, yeşillik, domates, turşu, patates kızartması, ketçap, mayonez) + Sütlü Tatlı + Ayran (20 cl.)
+Menü 8: Jumbo Hatay Usulü Et Döner Dürüm (44 cm.) (110 gr. et döner, sos, yeşillik, domates, patates kızartması, turşu, ketçap, mayonez, soğan) + Patates Kızartması + Ayran (20 cl.)
+Günün Sütlü Tatlısı:
+Menü 1: Jumbo Tavuk Döner Dürüm (110 gr. tavuk döner, yeşillik, soğan, domates, turşu, ketçap, maonez) + Patates Kızartması + Ayran (20 cl.)
+Izgara Köfte Menü: Günün Çorbası + 5 Adet Köfte + Günün Yardımcı Yemeği + Günün Salatası
+Tavuk Kanat Menü: Günün Çorbası + 5 Adet Tavuk Kanat + Günün Yardımcı Yemeği + Günün Salatası
+Lahmacun (2 Adet): Maydanoz, limon ile
+Künefe:
+Tavuk Kanat: Salata ile
+İskender (Adana Kebaptan): Yoğurt, sos, tereyağı
+Kıymalı Pide: Salata ile
+Lahmacun:
+2'li Lahmacun Menü: 2 Adet Lahmacun + Salata + Künefe + Ayran (20 cl.)
+Kıymalı Pide:
+Kuşbaşılı Kaşarlı Pide:
+Adana Kebap: Köz domates, köz biber, sumaklı soğan, bulgur pilavı, lavaş, ezme, tarator, salata ile
+Menü 1: 2 Adet Lahmacun + Salata + Tulumba Tatlısı + Ayran (18 cl.)
+Tavuk Döner Dürüm: Yeşillik, soğan, tulumba tatlısı ile
+Lahmacun: Salata, tulumba tatlısı ile
+Kıymalı Pide: Salata, közlenmiş biber, tulumba tatlısı ile
+Menü 3: Kıymalı Pide + Salata + Tulumba Tatlısı + Ayran (18 cl.)
+Cheddar Soslu Et Dürüm: Patates kızartması, salata, cacık
+Gobit Döner: Patates kızartması, salata, cacık
+Lahmacun: Maydanoz, limon ile
+Et Döner Dürüm: Patates kızartması, salata, cacık
+Pilav Üstü Et Döner: Salata, cacık
+Ayvalık Tostu: Salam, sucuk, kaşar peyniri, Rus salatası, turşu, ketçap, mayonez
+Efsane Kumru Sandviç: Sosis, bol kaşar peyniri, salam, bol sucuk, turşu, ketçap, mayonez
+Double Ayvalık Tostu: Bol kaşar peyniri, bol sucuk, salam, turşu, Rus salatası, ketçap, mayonez
+Kumru Sandviç: Bol sosis, sucuk, kaşar peyniri, turşu, ketçap, mayonez
+Dev Tost: Sucuk, kaşar peyniri
+Lahmacun:
+Kıymalı Pide: Ezme salata, seçeceğiniz tatlı
+Kuşbaşılı Pide: Ezme salata, seçeceğiniz tatlı
+Antep Lahmacun:
+Tavuk Şiş: Ezme salata, seçeceğiniz tatlı
+Lahmacun: Dana kıyma, özel harç
+Alaçam Kıymalı Pide (Açık): Dana kıyma, soğan, domates, yeşilbiber
+Kuşbaşılı Kaşarlı Pide (Açık): Dana sırt eti, kaşar peyniri, domates, yeşilbiber
+Kıymalı Bafra Pidesi (Kapalı): Kavrulmuş dana kıyma, soğan, karabiber
+2'li Lahmacun Menü: 2 Adet Lahmacun + İçecek
+Alaçatı Kumru Sandviç: 150 gr. kumru ekmeğine; sucuk, salam, sosis, eritilmiş kaşar peyniri, turşu, ketçap, mayonez
+Alaçatı Kumru Sandviç Menü: Alaçatı Kumru Sandviç + Patates Kızartması + Ketçap & Mayonez + Kutu İçecek
+Ayvalık Tostu: Kaşar peyniri, salam, sucuk, Rus salatası, turşu, ketçap, mayonez
+: Bütün somun ekmeğine; kaşar peyniri, sucuk, salam, sosis, yumurta, köy salçası
+Ayvalık Tost Menü: Ayvalık Tost + Patates Kızartması + Ketçap & Mayonez + Kutu İçecek
+Ayvalık Tostu: Sucuk, salam, kaşar peyniri, Rus salatası, turşu, domates, ketçap, mayonez
+İzmir Kumru Sandviç: Sosis, sucuk, kaşar peyniri, ketçap, mayonez, turşu
+Köy Tostu: Bazlama ekmeğine, sucuk, salam, kaşar peyniri
+İzmir Kumru Sandviç Menü: İzmir Kumru Sandviç + Patates Kızartması + Kutu İçecek
+Ayvalık Menü: Ayvalık Tostu + Patates Kızartması + Kutu İçecek
+2'li Cheddar Soslu Burger Menü: 2 Adet Cheddar Soslu Burger + Patates Kızartması + Ketçap + Mayonez + Kutu İçecek
+2'li Garlic Soslu Burger Menü: 2 Adet Garlic Soslu Burger + Patates Kızartması + Ketçap + Mayonez + Kutu İçecek
+2'li Meksika Soslu Burger Menü: 2 Adet Meksika Soslu Burger + Patates Kızartması + Ketçap + Mayonez + Kutu İçecek
+Yarım Ekmek Izgara Köfte: Domates, soğan, yeşillik. Patates kızartması ile
+2'li Café de Paris Soslu Burger Menü: 2 Adet Café de Paris Soslu Burger + Patates Kızartması + Ketçap + Mayonez + Kutu İçecek
+Zurna Tavuk Döner Dürüm Menü: Zurna Tavuk Döner + Ayran (20 cl.)
+Hatay Usulü Tavuk Döner Dürüm Menü: Hatay Usulü Tavuk Döner Dürüm + Ayran (20 cl.)
+Ekmek Arası Tavuk Döner Menü: Ekmek Arası Tavuk Döner + Ayran (20 cl.)
+Mantarlı Kaşarlı Tavuk Döner Dürüm Menü: Mantarlı Kaşarlı Tavuk Döner Dürüm + Ayran (20 cl.)
+Tavuk Şiş: Pilav, salata ile
+Ekmek Arası Köfte: Domates, turşu, soğan, cin biberi, maydanoz
+Ekmek Arası Arnavut Ciğeri: Domates, turşu, soğan, cin biberi, maydanoz
+Izgara Köfte: Bulgur pilavı, soğan, salata
+Ekmek Arası Izgara Tavuk: Domates, turşu, soğan, cin biberi, maydanoz
+Çiğ Köfte (200 gr.): Marul, nar ekşisi, limon, acı sos, lavaş
+Seçilmiş Menü (Dev Burgeretto Burger): Dev Burgeretto Burger (Kavurma, mozzarella, cheddar peyniri, kıvırcık marul, ketçap, mayonez) + Patates Kızartması veya Soğan Halkası (6 Adet) + Coca-Cola (33 cl.)
+Dev Burgeretto Burger: Mozzarellalı dana kavurma, cheddar peyniri, domates, göbek marul, soğan, turşu
+Hatay Dürüm Menü 1: Hatay Tavuk Döner Dürüm (100 gr.) + Kutu İçecek
+Hatay Dürüm Menü 2: Hatay Tavuk Döner Dürüm (80 gr.) + Mevsim yeşillikleri + İçecek
+Seçilmiş Menü (Süper Karışık Pizza Orta): Süper Karışık Pizza (Orta) + Coca-Cola (33 cl.)
+Lahmacun:
+Adana Kebap: Mevsim salata, acılı ezme ile
+Ankara Simidi:
+Gözleme Kahvaltı Menü: Seçeceğiniz gözleme, domates, salatalık, beyaz peynir, kaşar peyniri, salam, zeytin
+Kıymalı Karaköy Böreği: Domates & salatalık söğüş ile
+Ala Kahvaltı Tabağı: Beyaz peynir, kaşar peyniri, salam, sosis, siyah zeytin, domates, salatalık, reçel, bal, tereyağı, sürülebilir çikolata, krem peynir, patates kızartması, sigara böreği
+Sigara Böreği (8 Adet):
+Tavuk Suyu Çorbası:
+Yayla Çorbası:
+Mercimek Çorbası:
+Fırın Sütlaç:
+Ezogelin Çorbası:
+: 2 adet yumurta
+: Özel ordu tost ekmeği, sürme sucuk, kaşar peyniri
+: Salam, sosis, sucuk, kaşar peyniri, Rus salatası, turşu, ketçap, mayonez
+: Salam, sucuk, kaşar peyniri
+: Sosis, sucuk, salam, eritilmiş kaşar peyniri, turşu, ketçap, mayonez
+Kumru Sandviç: 130 gr. susamlı ekmeğe; sosis, sucuk, salam, kaşar peyniri, ketçap, mayonez
+Midye Dolma (Adet):
+Ekmek Arası Kokoreç: 130 gr. ekmeğe; kekik, kimyon, tuz
+Kokoreç Menü 1: Ekmek Arası Kokoreç (130 gr.) + Midye Dolma (5 Adet) + Ayran (30 cl.)
+Patso Sandviç: Patates kızartması, sosis
+Cheeseburger: 120 gr. ev yapımı burger köftesi, yeşillik, domates, turşu, cheddar peyniri, burger sos, isteğe göre soğan. Patates kızartması ile
+Klasik Burger: 120 gr. ev yapımı burger köftesi, yeşillik, domates, turşu, burger sos, kırmızı soğan, ev yapımı sos. Patates kızartması ile
+Dana Füme Duble Burger: 240 gr. ev yapımı burger köftesi, füme et, cheddar peyniri, karamelize soğan, ranch sos, Alchemist sos. Patates kızartması ile
+Simya Burger: 120 gr. ev yapımı burger köftesi, füme et, aktif karbonlu ekmek, 2 adet mozzarella peyniri, yeşillik, domates, karamelize soğan, acı soslu mayonez. Patates kızartması ile
+Ciabatta Mushroom Burger: Ciabatta ekmeği arasın; 120 gr. ev yapımı burger köftesi, karamelize soğan, soslu mantar, mozzarella peyniri, yeşillik, turşu, ev yapımı sos. Patates kızartması ile
+Sanayi Tostu: Salça sosu, kaşar peyniri, sucuk, yumurta, yeşilbiber, kapya biberi
+Kaşarlı Süper Karışık Tost: Kavurma, sucuk, pastırma, yumurta, kaşar peyniri, yeşilbiber, domates
+Karışık Tost: Sucuk, kaşar peyniri
+Haşlanmış Yumurta:
+Ekmek Arası Köfte: Soğan, domates, kıvırcık marul
+Lahmacun: Salata ve acılı ezme ile
+2 Lahmacun Menü: Lahmacun (2 Adet) + Salata + Ezme + Ayran (20 cl.)
+Kıymalı Pide: Salata ve acılı ezme ile
+Adana Kebap: Salata ve acılı ezme ile
+Kuşbaşılı Kaşarlı Pide: Salata ve acılı ezme ile
+Zurna Tavuk Döner Dürüm: Yeşillik, patates kızartması, turşu, özel sos, mayonez
+Tavuk Döner Dürüm: Yeşillik, patates kızartması, turşu, özel sos, mayonez
+Tavuk Döner Menü 2: Seçeceğiniz Tavuk Döner + Patates Kızartması + Kutu İçecek
+Et Döner Dürüm: Yeşillik, domates, turşu, özel sos, soğan
+Tavuk Döner Menü 5: Seçeceğiniz Tavuk Döner + Patates Kızartması + Eker Ayran (27 cl.)
+Lahmacun: Soğan, maydanoz, limon ile
+Antep Lahmacun (Sarımsaklı): Soğan, maydanoz, limon ile
+Urfa Lahmacun (Acılı): Soğan, maydanoz, limon ile
+Et Döner Dürüm: Mevsim salata, patates kızartması ile
+Tombik Ekmek Arası Et Döner: Mevsim salata, patates kızartması ile
+Alish Burger: 120 gr. dana hamburger köftesi, dana füme et, yeşillik, domates, turşu, karamelize soğan, Alish sos
+Alish Spesiyal Burger: 240 gr. dana hamburger köftesi, duble cheddar peyniri, füme et, yeşillik, pancar turşusu, kuru soğan, Alish sos
+Cheeseburger: 120 gr. dana hamburger köftesi, cheddar peyniri, yeşillik, domates, turşu, soğan, Alish sos
+Menü 1: Cajun Baharatlı Tavuk (250 gr.) + Baharatlı Patates Kızartması + Alish Sos + Ketçap + Mayonez + Lavaş + Kutu İçecek
+Füme Burger: 120 gr. dana hamburger köftesi, füme et, cheddar peyniri, yeşillik, domates, turşu, karamelize soğan, Alish sos
+Ton Balıklı Sandviç: 150 gr. ton balığı, iceberg marul, domates, turşu, mısır. Salata, patates kızartması ile
+Cheese Chicken Sandviç: 160 gr. jülyen tavuk parçaları, biber, mantar, özel baharatlar, cheddar peyniri. Salata, patates kızartması ile
+Meatball Sandviç: 150 gr. özel Aliss köfte, domates, turşu. Salata, patates kızartması ile
+Cheese Meatball Sandviç: 150 gr. özel Aliss köfte, turşu, domates, mevsim yeşillikleri. Salata, patates kızartması ile
+Cheese Steak Sandviç: Jülyen biftek parçaları, biber, mantar, özel baharatlar, cheddar peyniri. Salata, patates kızartması ile
+Lahmacun: Mevsim salata ile
+Kıymalı Pide: Mevsim salata ile
+Adana Kebap: Közlenmiş domates, közlenmiş yeşilbiber, bulgur pilavı, sumaklı soğan, mevsim salata
+Kıymalı Kaşarlı Pide: Mevsim salata ile
+Seçilmiş Menü (Kıymalı): Kıymalı Pide + Salata + Coca-Cola (33 cl.)
+Patatesli Ev Böreği (Adet):
+Kıymalı Kır Pidesi:
+Çikolatalı Ekler (Adet):
+Peynirli Ev Böreği (Adet):
+Sade Açma:
+: Özel Makarna + Etli Buharda Mantı + Çuçure
+: Ev yapımı makarna, et, sebze, özel Asya sos
+: Etli sebzeli kavurma sos, ev yapımı erişte
+: Etli mantı çorbası
+: Ispanak, dana eti
+Cowboy Kovalayan Burger: 110 gr. burger köftesi, beef bacon, çift kat cheddar peyniri, turşu, çıtır soğan, kibrit patates, smoked BBQ sos. Patates kızartması ile
+Cheeseburger: 110 gr. burger köftesi, çift kat cheddar peyniri, domates, turşu, kıvırcık marul, fresh kırmızı soğan, Allons-y sos. Patates kızartması ile
+Seçilmiş Menü (Cheeseburger): Cheeseburger + Coca-Cola (33 cl.)
+Ham & Cheese Burger: 110 gr. burger köftesi, çift kat cheddar peyniri, dana jambon, turşu, domates, kıvırcık marul, karamelize soğan, Allons-y sos. Patates kızartması ile
+Crispy Chicken Burger: Baharatlarla tatlandırılmış çıtır tavuk parçaları, turşu, kıvırcık marul, domates, fresh kırmızı soğan, mayo sos. Patates kızartması ile
+Damacana Su (19 L.): Depozito bedeli 15 TL'dir.
+Almina Su (1,5 L.) (12 Adet):
+Almina Su (50 cl.) (24 Adet):
+İnci Su (5 L.) (4 Adet):
+Hatay Usulü Tavuk Döner Dürüm & Tatlı Menü: Hatay Usulü Tavuk Döner Dürüm (120 gr.) (Yeşillik, patates kızartması, turşu, özel sos) + Eker Tatlı + Acı Turşu Biber + Ayran (20 cl.)
+İskenderun Usulü Özel Soslu Tavuk Döner Dürüm Menü: İskenderun Usulü Özel Soslu Tavuk Döner Dürüm (120 gr.) (Sos, patates kızartması, turşu, domates) + Acı Biber + Ayran (20 cl.)
+Hatay Usulü Tavuk Döner Dürüm (120 gr.): Sos, patates kızartması, turşu, domates
+Zurna Tavuk Döner Dürüm Menü: Zurna Tavuk Döner Dürüm (150 gr.) + Ayran (20 cl.)
+Zurna Dürüm Menü: Zurna Tavuk Döner Dürüm (150 gr.) + Acı Biber + Kutu İçecek
+Seçilmiş Menü (Cheeseburger): Cheeseburger + Patates Kızartması + Coca-Cola (33 cl.)
+Indiana Burger: 200 gr. çift katlı hamburger köftesi, domates, double cheddar peyniri, turşu, karamelize soğan, Aloha sos. Patates kızartması ile
+Aloha Special Burger: 120 gr. dana hamburger köftesi, turşu, domates, cheddar peyniri, dana füme, karamelize soğan, Aloha sos. Patates kızartması ile
+Cheddar's Dream Burger: 120 gr. dana hamburger köftesi, double cheddar peyniri, karamelize soğan, Aloha sos, turşu. Patates kızartması ile
+Cheeseburger: 120 gr. dana hamburger köftesi, cheddar peyniri, turşu, domates, karamelize soğan, Aloha sos. Patates kızartması ile
+Tam Ekmek Arası Köfte: Domates, soğan, salata, közlenmiş biber
+Adana Dürüm: Domates, soğan, közlenmiş biber
+Tam Ekmek Arası Izgara Köfte Menü: Tam Ekmek Arası Izgara Köfte + Patates Kızartması + Coca-Cola (20 cl.)
+Cheddarlı Köfte Dürüm: Domates, soğan, salata, közlenmiş biber
+Tam Ekmek Arası İnegöl Köfte: Domates, soğan, salata, közlenmiş biber
+Abant Su (0,5 L.) (48 Adet):
+Abant Su (1,5 L.) (36 Adet):
+Abant Su (5 L.) (12 Adet):
+Erikli Su (0,5 L.) (48 Adet):
+Erikli Su (1,5 L.) (36 Adet):
+Erikli Su (5 L.) (12 Adet):
+Ekmek Arası Alsancak Köfte Menü: Ekmek Arası Alsancak Köfte (Soğan, maydanoz, domates, biber) + Fasulye Piyaz + Ayran (17 cl.)
+Nohutlu Tavuklu Pilav:
+Kokoreç: Turşu ile
+Kelle Paça Çorbası: Turşu ile
+Fırın Sütlaç:
+Tam Ekmek Arası Kokoreç:
+Ev Yapımı Sütlaç: (Köy sütü ile yapılmaktadır.)
+Izgara Köfte: Pirinç pilavı, domates, salata, ezme, patates kızartması, haydari, turşu
+Lahmacun:
+2'li Lahmacun Menü: 2 Adet Lahmacun + Ayran (20 cl.)
+Antep Lahmacun:
+Beyti Kebap: Mevsim salata, çiğ köfte, günün yoğurtlu mezesi ile
+Mercimek Çorbası:
+Lahmacun:
+Kıymalı Pide: Salata ile
+Gobit Ekmek Arası Arnavut Ciğeri Menü: Gobit Ekmek Arası Arnavut Ciğeri + Tatlı + Coca-Cola (20 cl.)
+Paşa Pide: Kıyma, kaşar peyniri, yumurta
+Beyti Kebap: Közlenmiş domates, közlenmiş biber, acılı ezme, salata, bulgur pilavı, irmik helvası ile
+Tam Ekmek Arası Sanayi Kasap Sucuklu Tost: Kasap sucuk, kaşar peyniri, yumurta, salça, kekik. Jalapeno biberi veya zeytin ile
+3/4 Ekmek Arası Sanayi Kasap Sucuklu Tost: Kasap sucuk, kaşar peyniri, yumurta, salça, kekik. Jalapeno biberi veya zeytin ile
+Tam Ekmek Arası Sanayi Kavurma Tost: Dana kavurma, kaşar peyniri, yumurta, salça, kekik. Jalapeno biberi veya zeytin ile
+3/4 Ekmek Arası Sanayi Kavurma Tost: Dana kavurma, kaşar peyniri, yumurta, salça, kekik. Jalapeno biberi veya zeytin ile
+Tam Ekmek Arası Altı Üstü Spesiyal Tost: Çift kaşar peyniri, çift sucuk, yeşilzeytin, özel sos, biber. Jalapeno biberi veya zeytin ile
+Falafel Dürüm Menü 1: Falafel Dürüm + Patates Kızartması (160 gr.) + Ketçap + Mayonez + BBQ + Ranch + A & F Sos + İçecek
+Always Humus Menü: 8 Adet Falafel + Tabule Salatası + Büyük Boy Humus + Patates Kızartması + Ketçap + Mayonez + BBQ Sos + Ranch Sos + A & F Sos + İçecek (1 L.)
+Cheddar Falafel Menü: Cheddar Falafel Menü + Patates Kızartması + Ketçap + Mayonez + BBQ Sos + Ranch Sos + A & F Sos + İçecek
+Falafel Dürüm: Lavaş ekmeği, 4 adet falafel köfte, humus, pancar turşusu, salatalık turşusu, domates, sweet chilli sos, garlic sos
+Hot Chilli Falafel Dürüm: Lavaş ekmeği, 4 adet falafel köfte, pancar turşusu, salatalık turşusu, domates, tahin sos, humus, atom sos, jalapeno biber, Louisiana
+Amanos Tavuk Döner Zurna Dürüm: Tavuk döner, patates kızartması, yeşillik, domates, Hatay sos, mayonez
+Amanos Tavuk Döner Dürüm: Tavuk döner, patates kızartması, yeşillik, domates, Hatay sos, mayonez
+Menü 6: Amanos Tavuk Döner Zurna Dürüm + Patates Kızartması + Turşu Biberi + Burma Kadayıf + Coca-Cola (20 cl.)
+Ekmek Arası Tavuk Döner: Yeşillik, domates, sos
+Tavuk Döner SSK Dürüm: Tavuk döner, kaşar peyniri, soğan, sos, yeşillik, domates, sos
+Hamsi Tava (Kılçıksız): Salata, soğan, roka, irmik tatlısı, roll ekmek ile
+Ekmek Arası Hamsi (Kılçıksız): Kıvırcık marul, isteğe göre soğan. Mevsim salatası ile
+Karışık Kumpir: Tereyağı, kaşar peyniri, Rus salatası, sosis, turşu, yeşilzeytin, siyah zeytin, mısır, ketçap, mayonez
+Vodafone Menüsü (Hamsi Tava (Kılçıksız)): Hamsi Tava (Kılçıksız) + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+2'li Karışık Kumpir Menü: 2 Adet Karışık Kumpir + İçecek (1 L.)
+Cheeseburger: 150 gr. ev yapımı dana burger köfte, double cheddar peyniri, iceberg marul, turşu, domates, kırmızı soğan, mayonez. Patates kızartması ile
+Ambrosia Burger: 150 gr. ev yapımı dana burger köfte, barbekü sos, karamelize soğan, turşu, kaşar peyniri. Patates kızartması ile
+Teksas Burger: 150 gr. ev yapımı dana burger köfte, karamelize soğan, jalapeno biberi, iceberg marul, salatalık turşusu, acı dip sos. Patates kızartması ile
+Delicious Burger: 150 gr. ev yapımı dana burger köfte, sweet chili sos, iceberg marul, turşu, soğan, double kaşar peyniri. Patates kızartması ile
+Secret Burger: 150 gr. ev yapımı dana burger köfte, közlenmiş patlıcan, turşu, soğan, barbekü sos. Patates kızartması ile
+Lahmacun: Mevsim salata ile
+Kuşbaşılı Kaşarlı Pide: Mevsim salata ile
+Kıymalı Pide: Mevsim salata ile
+Kıymalı Kaşarlı Pide: Mevsim salata ile
+Kuşbaşılı Pide: Mevsim salata ile
+Klasik Mantı: Nane, sumak, tereyağlı sos, bazlama ekmeği, turşu, tereyağı
+Kıtır Mantı: Nane, sumak, tereyağlı sos, bazlama ekmeği, turşu, tereyağı
+Etli Yaprak Sarma:
+Mercimek Çorbası:
+Çoban Salata:
+Mantı: Sarımsaklı veya sarımsaksız yoğurt, nane, sumak, tereyağlı sos, bazlama ekmeği, turşu, tereyeğı ile
+Anadolu Mantı: Sarımsaklı veya sarımsaksız yoğurt, nane, sumak, tereyağlı sos, bazlama ekmeği, turşu, tereyeğı ile
+Kıymalı Çiğ Börek:
+Mercimek Çorbası:
+Feraye Mantı: Kızarmış mantı üzerine sarımsaklı veya sarımsaksız yoğurt, nane, sumak, tereyağlı sos, bazlama ekmeği, turşu, tereyağı ile
+Urfa Lahmacun:
+Vodafone Menüsü (3 Urfa Lahmacun): 3 Adet Urfa Lahmacun + Ayran (30 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+Ekmek Arası Tavuk Döner: 100 gr. tavuk döner, yeşillik
+Kıymalı Pide (Uzun): Salata
+Antep Lahmacun:
+Ekonomik Menü 1: 2 Adet Lahmacun + Salata + Ezme + Meyve + Ayran (20 cl.)
+Lahmacun: Salata, meyve, ezme ile
+Ekonomik Menü 2: Kıymalı Pide + Salata + Ezme + Meyve + Ayran (20 cl.)
+2'li Lahmacun Menü: 2 Adet Lahmacun + Salata + Ayran (20 cl.)
+Vodafone Menüsü (Kıymalı Pide): Kıymalı Pide + Ayran (20 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+Tavuk Şiş Dürüm: Domates, soğan
+Adana Dürüm: Domates, soğan
+Arnavut Ciğeri Dürüm: Domates, soğan
+Çikolatalı Dürüm:
+Sucuk Dürüm: Domates
+Avokado Tost: Avokado sos, beyaz peynir, avokado. Patates kızartması, domates, salatalık, soğan halkası ile
+Ayvalık Tost: Sucuk, Rus salatası, kaşar peyniri, salam, turşu, ketçap, mayonez. Patates kızartması, domates, salatalık, soğan halkası ile
+Beyaz Peynirli Tost: Kaşar peyniri, cheddar peyniri, beyaz peynir, domates, zeytin ezmesi, iceberg marul, yeşilbiber, kekik. Patates kızartması, domates, salatalık, soğan halkası ile
+Karışık Tost: Sucuk, kaşar peyniri. Patates kızartması, domates, salatalık, soğan halkası ile
+Kaşarlı Tost: Patates kızartması, domates, salatalık, soğan halkası ile
+Kavurmalı Kaşarlı Tost: Kavurma, kaşar peyniri. Patates kızartması, domates, salatalık, soğan halkası ile
+Kavurmalı Yumurtalı Tost: Kavurma, kaşar peyniri, yumurta. Patates kızartması, domates, salatalık, soğan halkası ile
+10'lu Lahmacun Menü: 10 Adet Lahmacun + Coca-Cola (1 L.) (Acı seçiminizi sipariş notu kısmında belirtiniz.)
+2'li Lahmacun: Salata, acılı ezme ile
+Kıymalı Pide: Salata, acılı ezme ile
+Seçilmiş Menü (2 Adet ahmacun): 2 Adet Lahmacun + Coca-Cola (33 cl.)
+Adana Kebap: Salata, acılı ezme ile
+Klasik Waffle: Seçeceğiniz malzemeler ile
+Angry Waffle: Nutella, sütlü çikolata, beyaz çikolata, muz, kivi, çilek, sütlü damla çikolata, pirinç fındık, bütün Antep fıstığı, sütlü çikolata sos, beyaz çikolata sos
+Double Waffle: Seçeceğiniz malzemeler ile
+Sandviç Waffle: Seçeceğiniz malzemeler ile
+Çikolatalı Waffle: Sütlü çikolata, bitter çikolata, muz, çilek, kivi, sütlü damla çikolata, bitter damla çikolata, sütlü pirinç patlağı, sütlü çikolata sos, bitter çikolata sos, kırmızı kiraz şekerleme
+Ekmek Arası Tavuk Döner: Yeşillik, domates, soğan, turşu, kekik, pul biber
+Hatay Usulü Tavuk Döner Dürüm: Yeşillik, domates, soğan, turşu, kekik, pul biber
+Seçilmiş Menü (Hatay Usulü Tavuk Döner Dürüm): Hatay Usulü Tavuk Döner Dürüm + Coca-Cola (33 cl.)
+Günün Çorbası:
+Ayvalık Tostu: Salam, sucuk, sosis, turşu, kaşar peyniri, ketçap, mayonez
+: 2 Adet Lahmacun + Salata (Sumaklı soğan, maydanoz) + Sütaş Ayran (175 cl.)
+: Günün Çorbası + Tavuk Döner Dürüm (Közlenmiş biber, domates, soğan) + Sütaş Ayran (17,5 cl.)
+: Et Dönerli Pide (Kapalı) + Salata + Ayran (17,5 cl.)
+: Tavuk Şiş (Pilav, közlenmiş domates, közlenmiş biber, sumaklı soğan, patates kızartması) + Sütaş Ayran (17,5 cl.)
+: Kıymalı Pide + Salata (Maydanoz) + Sütaş Ayran (17,5 cl.)
+Puding:
+Sütlaç:
+Arnavut Ciğeri Dürüm: Domates, soğan
+Çiğ Köfte (250 gr.): 2 adet lavaş, iceberg marul, limon, nar ekşisi, acı sos
+Çiğ Köfte (500 gr.): 5 adet lavaş, iceberg marul, limon, nar ekşisi, acı sos
+SSK Et Döner Dürüm: Sos, soğan, kaşar peyniri. İrmik helvası, cacık, mevsim salatası, patates kızartması ile
+Lahmacun: İrmik helvası, cacık, mevsim salatası, patates kızartması ile
+Mercimek Çorbası:
+Kaşarlı Sarma Beyti Kebap (Adanadan): Bulgur pilavı, köz biber, köz domates, soğan, tırnak pide, irmik helvası, cacık, mevsim salatası, patates kızartması ile
+İskender (Et Dönerden): Bulgur pilavı, köz biber, köz domates, yoğurt, tırnak pide, irmik helvası, cacık, mevsim salatası, patates kızartması ile
+Hamburger Menü: Hamburger (Burger köftesi, iceberg marul, domates, turşu, ketçap, mayonez) + Patates Kızartması + İçecek (20 cl.)
+Sufle:
+Cheeseburger Menü: Hamburger (Burger köftesi, iceberg marul, domates, turşu, ketçap, mayonez) + Patates Kızartması + İçecek (20 cl.)
+Tavuklu Wrap Menü: Tavuk Wrap (Tortilla ekmeğine tavuk, mantar, kapya biberi, yeşilbiber, kuru soğan, mozzarella peyniri) + Patates Kızartması + İçecek (20 cl.)
+Vodafone Menüsü (Köfteli Wrap): Köfteli Wrap + Ayran (30 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+Ankara Zurna Çiğ Köfte Dürüm: (45 cm.) 200 gr. çiğ köfte, seçeceğiniz malzemeler
+Ankara Çiğ Köfte Dürüm: 100 gr. çiğ köfte, iceberg marul, limon, acı sos, nar ekşisi
+Havuç Dilim Baklava (Dilim):
+Çiğ Köfte (600 gr.): 6 adet lavaş, 3 adet nar ekşisi, 3 adet acı sos, iceberg marul salata, limon ile
+Burma Kadayıf (Dilim):
+Ankara Çiğ Köfte Dürüm: 80 gr. çiğ köfte, iceberg marul, nar ekşisi, acı sos, limon
+Joker: 600 gr. çiğ köfte, 6 adet lavaş, 3 adet nar ekşisi, 3 adet acı sos, salata, iceberg marul, limon
+Ankara Zurna Çiğ Köfte Dürüm (45 cm.): 140 gr. çiğ köfte, seçeceğiniz malzemeler
+Ankara Süper Çiğ Köfte Dürüm: 120 gr. çiğ köfte, seçeceğiniz malzemeler
+Ankara Mega Çiğ Köfte Dürüm: 100 gr. çiğ köfte, seçeceğiniz 5 adet malzeme
+Ekmek Arası Tavuk Döner: 100 gr. tavuk döner, domates, yeşillik, soğan
+Kızarmış Tavuk (Bütün):
+Sıcak Künefe:
+Tavuk Döner Dürüm: 100 gr. tavuk döner, domates, yeşillik, soğan
+İskender (Tavuk Dönerden): 100 gr. tavuk döner, sos, tereyağ, yoğurt, pilav, garnitür
+Ekmek Arası Arnavut Ciğeri Menü: Ekmek Arası Arnavut Ciğeri + Eker Ayran (20 cl.)
+Hamburger Menü: Hamburger + Patates Kızartması + İçecek (20 cl.)
+Ekmek Arası Köfte Menü: Ekmek Arası Köfte + Eker Ayran (20 cl.)
+Adana Dürüm Menü: Adana Dürüm + Eker Ayran (20 cl.)
+Ekmek Arası Patso Menü: Ekmek Arası Patso + İçecek (20 cl.)
+Günün Menüsü (Çorbalı): Seçeceğiniz Çorba + Seçeceğiniz Ana Yemek + Seçeceğiniz Yardımcı Yemek + Seçeceğiniz Yan Ürün
+Günün Menüsü (Çorbasız): Seçeceğiniz Ana Yemek + Seçeceğiniz Yardımcı Yemek + Seçeceğiniz Yan Ürün
+Kavurmalı Patatesli Gözleme:
+Eko Menü 3: Mercimek Çorbası + Izgara Köfte + Pirinç Pilavı + Pide Ekmeği + Turşu + Ayran (20 cl.)
+Beyaz Peynirli Gözleme:
+: Arancini Dürüm + Patates Kızartması + İçecek
+: Falafel Dürüm + Patates Kızartması + İçecek
+: Közlenmiş patlıcan, közlenmiş biber, iceberg marul, turşu, domates, tahin sos
+: Sebzeli Mix Falafel (Havuç, kabak, patates, iceberg marul, domates, turşu, tahin sos) + Patates Kızartması + İçecek
+: Salata, turşu, sos, pita ekmeği ile
+Lahmacun (2 Adet): Limon, salata ile
+Lahmacun: Limon ile
+Kuşbaşılı Kaşarlı Pide: Salata, ezme ile
+Kıymalı Pide: Salata, ezme ile
+Adana Dürüm: Domates, maydanoz, isteğe göre soğan
+Ekmek Arası Izgara Köfte: 150 gr. dana köfte, domates, soğan, maydanoz
+Ekmek Arası Et Tantuni: 120 gr. dana sırt eti, domates, maydanoz, limon
+Ekmek Arası Kokoreç:
+Ekmek Arası Kuzu Şiş: 150 gr. kuzu eti, domates, soğan, köz biber, maydanoz
+3'lü Islak Hamburger Menü: 3 Adet Islak Hamburger + Cin Biberi + İçecek
+Islak Hamburger: Dana eti. Cin biber ile
+Cheddarlı Islak Hamburger: Dana eti, cheddar peyniri. Cin biber ile
+Seçilmiş Menü (3'lü Islak Hamburger Menü): 3 Adet Islak Hamburger + Cin Biberi + Coca-Cola (33 cl.)
+Kaşarlı Islak Hamburger: Dana eti, kaşar peyniri. Cin biber ile
+Ekmek Arası Hamsi Menü: Ekmek Arası Hamsi + İçecek
+Hamsi Tava (1,25 kg.): (Belirtilen gramaj bilgileri, ürünlerin temizlenmemiş çiğ halinin gramajıdır.) Salata, ekmek ile
+Hamsi Tava (650 gr.): (Belirtilen gramaj bilgileri, ürünlerin temizlenmemiş çiğ halinin gramajıdır.) Salata, ekmek ile
+Ekmek Arası Izgara Palamut Menü: Ekmek Arası Izgara Palamut + İçecek
+Ekmek Arası Çipura Menü: Ekmek Arası Çipura + İçecek
+Hatay Usulü Tavuk Döner Dürüm: 100 gr. tavuk döner, kıvırcık marul, salatalık turşusu, patates kızartması, domates, ketçap, mayonez, Hatay sos
+Ekmek Arası Tavuk Döner: 100 gr. tavuk döner, kıvırcık marul, soğan, domates
+Tavuk Döner Dürüm: 100 gr. tavuk döner, kıvırcık marul, soğan, domates, patates kızartması
+Menü 1: Hatay Usulü Tavuk Döner Dürüm + Seçeceğiniz Tatlı + Kutu İçecek
+Arnavut Ciğeri: 150 gr. ciğer, tırnak pide, salata, bulgur pilavı
+Kumru Sandviç: Sosis, sucuk, kaşar peyniri, turşu, ketçap, mayonez
+Dev Kumru Sandviç: Sosis, sucuk, kaşar peyniri, turşu, ketçap, mayonez
+Ayvalık Tostu: Sucuk, kaşar peyniri, Rus salatası, domates, turşu, ketçap, mayonez
+Ekmek Arası Tavuk Tantuni: Maydanoz, domates, soğan
+Sosisli Patso Sandviç: Sosis, patates kızartması, ketçap, mayonez
+Köri Soslu Tavuk: 185 gr. tavuk, mantar, köri sos, pilav, patates kızartması
+Karışık Izgara: Izgara köfte, ızgara tavuk, ızgara sucuk, pilav, patates kızartması, közlenmiş domates, közlenmiş biber ile
+Etli Bazlama: Jülyen dana eti, yeşilbiber, kırmızıbiber, soğan, soya sos, kaşar peyniri. Patates kızartması ile
+Kajun Baharatlı Tavuk: Kültür sos, patates kızartması
+Waffle: Nutella, çilek, muz, kivi, çikolata parçaları, siyah çikolata sos, beyaz çikolata sos
+Adana Kebap: Pilav, lavaş veya pide, közlenmiş domates, közlenmiş biber, soğan, salata, ezme ile
+İskender (Et Dönerden): Bulgur pilavı, közlenmiş domates, közlenmiş biber, soğan, salata, ezme ile
+Lahmacun (2 Adet): Kıyma, isot, domates, biber, soğan, sarımsak
+Seçilmiş Menü (3 Lahmacun): 3 Adet Lahmacun + Coca-Cola (33 cl.)
+Menü 12: İskender (Et Dönerden) + Salata + Ayran (20 cl.)
+Merkezefendi Köfte: Bulgur pilavı, acı sos, kızarmış domates, kızarmış biber ile
+Merkezefendi Cheeseburger: 200 gr. Merkezefendi burger köftesi, dana füme, 4 kat cheddar peyniri, patates kızartması, fırınlanmış soğan, Merkezefendi sos, turşu
+Ekmek Arası Izgara Köfte: Acı sos, domates, soğan. Karışık turşu ile
+Dana Lokum: Bulgur pilavı, acı sos, kızarmış domates, kızarmış biber ile
+Süt Helvası:
+Ekmek Arası Hamsi (Kılçıksız):
+Hamsi Kuşu Tava (Kılçıksız): Yeşillik, soğan, domates, turşu, ekmek, limon
+Ekmek Arası Mezgit:
+Hamsi Tava (1 kg.) Menü: Hamsi Tava (1 kg.) (Kılçıksız) + Salata + Ekmek
+Tahin Helvası:
+Et Tantuni Dürüm: Domates, maydanoz, soğan
+3'lü Et Tantuni Dürüm Menü: 3 Adet Et Tantuni Dürüm + İçecek (1 L.)
+Tavuk Tantuni Dürüm: Domates, maydanoz, soğan
+Ekmek Arası Et Tantuni: Domates, maydanoz, soğan
+Ekmek Arası Tavuk Tantuni: Domates, maydanoz, soğan
+Pilav Üstü Tiftiklenmiş Tavuk Menü: Pilav Üstü Tiftiklenmiş Tavuk (400 gr.) + 2 Adet Lavaş + Salata + Pirinç Pilavı veya Bulgur Pilavı + Soğan & Domates & Acı Biber Turşusu + Kutu İçecek
+Tandır Menü: Tavuk Tandır (430 gr.) + 2 Adet Lavaş + Pilav + Salata + Bulgur Pilavı + Soğan & Domates & Acı Biber Turşusu + Kutu İçecek
+Tavuk Tandır (400 gr.) Menü: Tavuk Tandır (400 gr.) + 2 Adet Lavaş + Pirinç Pilavı veya Bulgur Pilavı + Salata + Soğan & Domates & Acı Biber Turşusu + Kutu İçecek
+2'li Tavuk Tandır Menü: 2 Adet Tavuk Tandır (860 gr.) + Pirinç Pilavı veya Bulgur Pilavı + Salata + Soğan & Domates & Acı Biber Turşusu + İçecek (1 L.)
+2'li Pilav Üstü Tavuk Tandır Menü: 2 Adet Pilav Üstü Tiftiklenmiş Tavuk Tandır (850 gr.) + Salata + Pirinç Pilavı veya Bulgur Pilavı + Soğan & Domates & Acı Biber Turşusu + İçecek (1 L.)
+Midye Dolma (Adet):
+Kokoreç: Pul biber, kekik, kimyon, turşu, cin biberi ile
+Ekmek Arası Köfte: Soğan, domates, biber. Turşu, cin biberi ile
+Ekmek Arası Sucuk: Turşu, cin biberi ile
+Sebzeli Kokoreç: Domates, biber. Turşu, cin biberi ile
+Ekmek Arası Köfte: 120 gr. ekmeğe; domates, soğan
+Ekmek Arası Kokoreç: 120 gr. ekmeğe; kekik, pul biber, kimyon
+Ekmek Arası Cheddar Peynirli Köfte: 120 gr. ekmeğe; cheddar peyniri, ızgara köfte, közlenmiş domates, közlenmiş biber, isteğe göre soğan
+2'li Ekmek Arası Köfte Menü: 2 Adet Ekmek Arası Izgara Köfte + 2 Adet Patates Kızartması + Seçeceğiniz 2 Adet Tatlı + 2 Adet Eker Ayran (20 cl.) veya 2 Adet Şalgam Suyu (30 cl.) veya İçecek (1 L.)
+Ekmek Arası Dana Sucuk: 120 gr. ekmeğe; domates, soğan
+Anna Burger Menü: Anna Burger (140 gr. hamburger köftesi, anna sos, turşu, marul, domates) + Soğan Halkası + Patates Kızartması + Ketçap + Mayonez + Kutu İçecek
+Anna Cheeseburger Menü: Anna Cheeseburger (140 gr. hamburger köftesi, cheddar peyniri, anna sos, turşu, marul, domates) + Soğan Halkası + Patates Kızartması + Ketçap + Mayonez + Kutu İçecek
+Karışık Izgara: Köfte, tavuk biftek. Pilav, patates kızartması, salata, garnitür
+Etli Nohut Menü: Günün Çorbası + Etli Nohut + Pirinç Pilavı + Cacık veya Salata veya Yoğurt
+Köri Soslu Tavuk Menü: Günün Çorbası + Köri Soslu Tavuk + Pirinç Pilavı + Cacık veya Salata
+Kuru Fasulye Menü: Seçeceğiniz Çorba + Kuru Fasulye + Pilav + Cacık veya Salata
+Mantarlı Tavuk Sote Menü: Günün Çorbası + Mantarlı Tavuk Sote + Pirinç Pilavı + Cacık veya Salata veya Yoğurt
+Ekmek Arası Dana Arnavut Ciğer: (100 gr.) İsteğe göre domates, soğan, maydanoz, pul biber (Lütfen istediğiniz malzemeleri seçiniz.)
+Ekmek Arası Dana Arnavut Ciğeri Menü: Ekmek Arası Dana Arnavut Ciğeri (100 gr.) (Lütfen istediğiniz malzemeleri seçiniz.) + Sütaş Ayran (30 cl.)
+Ekmek Arası Özel Köftemiz: (150 gr.) İsteğe göre domates, soğan, maydanoz, pul biber (Lütfen istediğiniz malzemeleri seçiniz.)
+Ekmek Arası Dana Yaprak Ciğer: (100 gr.) İsteğe göre domates, soğan, maydanoz, pul biber (Lütfen istediğiniz malzemeleri seçiniz.)
+Dana Yaprak Ciğer: (100 gr.) İsteğe göre domates, soğan, maydanoz, pul biber (Lütfen istediğiniz malzemeleri seçiniz.)
+Lahmacun: Domates, soğan, maydanoz. Salata, ezme ile
+Kıymalı Pide: Soğan, domates, maydanoz. Salata, ezme ile
+Sarma Beyti Kebap: Lavaşa sarılı, soslu, yoğurtlu. Domates, biber. Salata, ezme ile
+Adana Kebap: Salata, ezme ile
+Ekmek Arası Et Döner: (100 gr. soğan, domates, yeşillik, biber)
+Harbiye Dürüm: Hatay usulü kebap eti, acı, domates, maydanoz, soğan. 3 çeşit soğuk meze ile
+Tavuk Şiş Dürüm: Acı, domates, maydanoz, soğan. 3 çeşit soğuk meze ile
+Mercimek Çorbası:
+Künefe: Peynir, fıstık
+Adana Dürüm: Acı, domates, maydanoz, soğan. 3 çeşit soğuk meze ile
+Zurna Tavuk Döner Dürüm: Özel sos, turşu, patates kızartması, yeşillik, isteğe göre soğan
+Morgi Tavuk Döner Dürüm: Özel sos, mayonez, turşu, patates kızartması, yeşillik
+Tavuk Döner Menü 4: Morgi Tavuk Döner Dürüm + Günün Çorbası + Eker Çikolatalı Puding + Patates Kızartması + Ayran (29 cl.)
+Tavuk Döner Menü 5: Morgi Tavuk Döner Dürüm + Patates Kızartması + Ayran (29 cl.)
+Tavuk Döner Menü 1: Morgi Tavuk Döner Dürüm + Günün Çorbası + Eker Çikolatalı Puding + Patates Kızartması + Kutu İçecek
+Hatay Usulu Tavuk Döner Dürüm: Patates kızartması, turşu, özel sos, sarımsaklı mayonez
+Cheddarlı Zurna Tavuk Döner Dürüm:
+Menü 4: Zurna Tavuk Döner Dürüm + Patates Kızartması + Kutu İçecek
+Hatay Usulü Zurna Tavuk Döner Dürüm: Patates kızartması, turşu, sos, mayonez
+Vodafone Menüsü (Hatay Usulü Zurna Tavuk Döner Dürüm): Hatay Usulü Zurna Tavuk Döner Dürüm + Patates Kızartması + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+Double Kaşarlı Sucuklu Tost: Özel tost ekmeğine; sucuk, çift kaşar peyniri, özel sos
+Sucuklu Kaşarlı Yumurtalı Tost: Özel tost ekmeğine; sucuk, kaşar peyniri, yumurta, özel sos
+Kaşarlı Sucuklu Tost: Özel tost ekmeğine; sucuk, kaşar peyniri, özel sos
+Double Kaşarlı Tost: Özel tost ekmeğine; çift kaşar peyniri, özel sos
+Karışık Tost: Özel tost ekmeğine; sucuk, kaşar peyniri, salam, özel sos
+2'li Antep Lahmacun Menü: 2 Adet Antep Lahmacun + Maydanoz & Limon + İçecek (20 cl.)
+Antep Lahmacun: Maydanoz, limon, çoban salata (soğansız) ile
+Kuşbaşı Kaşarlı Pide: Soğansız çoban salata, maydanoz, limon ile
+Tavuk Şiş: Susamlı lavaş (Sıcak), közlenmiş biber, közlenmiş domates, çoban salata (soğansız) ile
+5'li Antep Lahmacun Menü: 5 Adet Antep Lahmacun + Maydanoz & Limon + İçecek (1 L.) (Lütfen acı seçiminizi sipariş notunda belirtiniz.)
+Lahmacun: Kıyma, maydanoz, soğan, domates, biber
+Kıymalı Pide:
+Kuşbaşılı Kaşarlı Pide:
+Adana Kebap: Bulgur pilavı, domates, biber ile
+Tavuk Şiş: Bulgur pilavı, domates, biber ile
+Lahmacun: Kuzu kıyma, maydanoz, kapya biber, soğan, sivri biber, pul biber, tuz, karabiber
+Antep Lahmacun: Kuzu kıyma, sarımsak, maydanoz, kapya biber, sivri biber, soğan, pul biber, tuz, karabiber
+Sarma Beyti Kebap: (180 gr.) Kuzu eti, salça sos, sarımsak, yoğurt, közlenmiş domates, közlenmiş biber, lavaşa sarılı. Soğan söğüş, yoğurtlu kornişon turşusu, közlenmiş soğan salata, mevsim salata, biber turşusu ile
+Yaprak Spesiyal: (300 gr.) Dana kontrfile, zeytinyağı, közlenmiş biber. Soğan söğüş, yoğurtlu kornişon turşusu, közlenmiş soğan salata, mevsim salata, biber turşusu ile
+Beyran Çorbası: Haşlanmış kuzu eti, pirinç, et suyu, pul biber, karabiber, sarımsak sos
+2'li Lahmacun: Salata, haydari, ezme, çiğ köfte ile
+4'lü Lahmacun Menü: 4 Adet Lahmacun + Yeşil Salata + Haydari + Acılı Ezme + Çiğ Köfte + İçecek (1 L.)
+3'lü Lahmacun Menü: 3 Adet Lahmacun + Yeşil Salata + Haydari + Acılı Ezme + Çiğ Köfte + İçecek (1 L.)
+Tavuk Şiş: Salata, haydari, ezme, çiğ köfte ile
+Lahmacun: Salata, haydari, ezme, çiğ köfte ile
+Lahmacun: Maydanoz, limon, ezme
+Antep Lahmacun: Maydanoz, limon, ezme
+Seçilmiş Menü (2 Lahmacun): 2 Lahmacun + Coca-Cola (33 cl.)
+Adana Kebap Menü: Adana Kebap (Zırh ile çekilmiş et, lavaş ekmeği, salata, ezme) + İrmik Helvası + Kutu İçecek
+Künefe:
+Lahmacun (2 Adet): Salata, ezme ile
+Seçilmiş Menü (Kıymalı Kaşarlı Pide - 75 cm.): Kıymalı Kaşarlı Pide (75 cm.) + Coca-Cola (33 cl.)
+Adana Dürüm: Domates, yeşillik, soğan. Cin biber, ezme ile
+Kıymalı Kaşarlı Pide (75 cm.): Salata, ezme ile
+Kuşbaşılı Kaşarlı Pide (75 cm.): Salata, ezme ile
+Antep Lahmacun: Turşu, yeşillik ile
+Adana Dürüm: Salata, turşu ile
+Seçilmiş Menü (Antep Lahmacun): 2 Adet Antep Lahmacun + Coca-Cola (33 cl.)
+Tavuk Şiş: Patlıcan yoğurtlama, salata, ezme, pişmiş soğan, sumaklı soğan, közlenmiş domates, közlenmiş biber, lavaş ekmeği ile
+Kıymalı Pide: Turşu, yeşillik ile
+Kuzu Et Şiş: Közlenmiş domates, közlenmiş yeşilbiber, mevsim yeşillikleri ile
+Kuzu Ciğer Şiş: Közlenmiş domates, közlenmiş yeşilbiber, mevsim yeşillikleri ile
+Lahmacun: Salata ile
+Adana Dürüm: Domates, yeşillik, soğan
+Tavuk Şiş: Közlenmiş domates, közlenmiş biber, soğan, pilav
+Tavuk Kanat: Közlenmiş domates, közlenmiş biber, soğan, pilav
+Tavuk Beyti Kebap: Közlenmiş domates, közlenmiş biber, soğan, pilav
+Tavuk Şiş Dürüm: İsteğe göre domates, soğan, marul
+Adana Dürüm: İsteğe göre domates, soğan
+Tavuk Şiş: Soğan salatası, ezme, mevsim salatası, közlenmiş domates, közlenmiş biber, biber turşusu, limon, çiğ köfte ile
+Çöp Şiş: Soğan salatası, ezme, mevsim salatası, közlenmiş domates, közlenmiş biber, biber turşusu, limon, çiğ köfte ile
+Adana Kebap: Soğan salatası, ezme, mevsim salatası, közlenmiş domates, közlenmiş biber, biber turşusu, limon, çiğ köfte ile
+Ayvalık Tostu Menü: Ayvalık Tostu + Patates Kızartması + İçecek
+Cheddarlı Kumru Sandviç Menü: Cheddarlı Kumru Sandviç + Patates Kızartması + İçecek
+Ayvalık Tostu: Sucuk, kaşar peyniri, Rus salatası, turşu, ketçap, mayonez, domates
+Cheddarlı Ayvalık Tostu Menü: Cheddarlı Ayvalık Tostu + Patates Kızartması + İçecek
+2'li Kanka Kumru Menü: 2 Adet Kumru + Patates Kızartması (Büyük Boy) + Ketçap & Mayonez + İçecek (1 L.)
+Ezogelin Çorbası:
+İşkembe Çorbası:
+Kelle Paça Çorbası:
+Mercimek Çorbası:
+Çiğ Köfte Dürüm: Iceberg marul, nar ekşisi, limon, lavaş, acı sos ile
+Kaşarlı Patates Dürüm:
+Double Çiğ Köfte Dürüm Menü: Double Çiğ Köfte Dürüm + Ayran (20 cl.)
+Çiğ Köfte Dürüm & Ayran Menü: Çiğ Köfte Dürüm + Ayran (20 cl.)
+Arnavut Ciğer Dürüm Menü: Arnavut Ciğer Dürüm + Ayran (20 cl.)
+: Marul, nar ekşisi, limon sos
+: Marul, limon, lavaş ile
+: Marul, nar ekşisi, limon sos
+: Maydanoz, limon ile
+: Marul, limon, lavaş ile
+: 2 Adet Antep Lahmacun + Coca-Cola (33 cl.)
+:
+Karışık Pizza (Orta): Pizza sosu, mozzarella peyniri, sucuk, salam, sosis, mantar, zeytin, mısır, kırmızıbiber, yeşilbiber, kekik, fesleğen
+Karışık Pizza (Büyük): Pizza sosu, mozzarella peyniri, sucuk, salam, sosis, mantar, zeytin, mısır, kırmızıbiber, yeşilbiber, kekik, fesleğen
+Karışık Kumpir: Tereyağı, kaşar peyniri, salam, sosis, Rus salatası, zeytin, mısır, turşu, ketçap, mayonez
+Menü 2: Seçeceğiniz Orta Boy Pizza + Patates Kızartması + Kutu İçecek
+Çifte Menü: 2 Adet Orta Boy Pizza + 2 Adet Tatlı + İçecek (1 L.)
+Karışık Pizza (Büyük): Pizza sosu, mozzarella peyniri, sucuk, salam, sosis, mantar, zeytin, mısır, kırmızıbiber, yeşilbiber, kekik, fesleğen
+Aps Menü 4: Seçeceğiniz Pizza (Büyük) + İçecek (1 L.)
+Karışık Pizza (Orta): Pizza sosu, mozzarella peyniri, sucuk, salam, sosis, mantar, zeytin, mısır, kırmızıbiber, yeşilbiber, kekik, fesleğen
+Menü 2: Seçeceğiniz Pizza (Orta) + Patates Kızartması + Kutu İçecek
+Aps Menü 5: 2 Adet Seçeceğiniz Pizza (Büyük) + İçecek (1 L.)
+Orta Boy Pizza Menü: Seçeceğiniz Orta Boy Pizza + Patates Kızartması + Kutu İçecek
+2'li Pizza (Büyük) Menü: 2 Adet Seçeceğiniz Büyük Boy Pizza + İçecek (1 L.)
+Süper Karışık Kumpir: Tereyağı, kaşar peyniri, Rus salatası, sosis, turşu, zeytin, mısır, ketçap, mayonez
+Vodafone Menüsü (Süper Karışık Pizza - Büyük): Süper Karışık Pizza (Büyük) + Patates Kızartması + İçecek (1 L.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+2'li Pizza (Orta) Menü: 2 Adet Seçeceğiniz Orta Boy Pizza + İçecek (1 L.)
+Arzillo Smoke Burger Menü: Arzillo Smoke Burger + Patates Kızartması + Soğan Halkası (2 Adet) + Kutu İçecek
+Cheeseburger Menü 2: Cheeseburger + Patates Kızartması + Kutu İçecek
+Arzillo Smoke Burger (130 gr.): Burger köftesi, füme et, karamelize soğan, ARC sos, cheddar peyniri, turşu, barbekü sos. Patates kızartması ile
+Cheeseburger (130 gr.): Burger köftesi, cheddar peyniri, yeşillik, domates, ARC sos, kırmızı soğan, turşu. Patates kızartması ile
+Robin's Burger (130 gr.): Burger köftesi, pastırma, karamelize soğan, ARC sos, cheddar peyniri, kibrit patates kızartması, turşu, barbekü sos. Patates kızartması ile
+Kıymalı Kayseri Mantısı: Salata ile
+Hindi İncik Tandır: Pilav, cacık, salata ile
+Kısır:
+Zeytinyağlı Yaprak Sarma: Yoğurt ile
+Etli Nohut: Pilav, cacık ile
+Latte:
+Oreolu Cheesecake: Dilim
+Frambuazlı Cheesecake: Dilim
+Iced White Mocha:
+Profiterollu Çikolatalı Pasta: Dilim
+İzmir Bomba (Adet):
+Beyaz Peynirli Su Böreği (500 gr.):
+Frambuazlı Trileçe (Adet):
+Karışık Kuru Pasta (500 gr.): Tatlı, tuzlu
+Elmalı Tart (Adet):
+Lahmacun: Salata, ezme ile
+Kıymalı Pide: Salata, ezme
+Lahmacun Menü: 2 Adet Lahmacun + Salata + Ezme + Tatlı + Ayran (20 cl.)
+Tavuk Şiş: Pilav, salata, soğan, ezme
+Mercimek Çorbası:
+Hatay Soslu Tavuk Döner Dürüm Menü: Hatay Soslu Tavuk Döner Dürüm (Tandır lavaşına, tavuk döner, özel Hatay sos, yeşillik, turşu, soğan) + Seçeceğiniz Yan Ürün + Kutu İçecek
+Tavuk Külbastı: (160 - 180 gr.) Közlenmiş domates, közlenmiş biber, salata, tortilla lavaşı, isteğe göre köri soslu makarna, demi glace soslu makarna, salata
+Ssk Tavuk Döner Dürüm Menü: Ssk Tavuk Döner Dürüm (Tavuk döner, soğan, sos, kaşar peyniri) + Patates Kızartması + Seçeceğiniz Yan Ürün
+Cheddar Soslu Et Döner Dürüm Menü: Cheddar Soslu Et Döner Dürüm (Tortilla lavaş, soslu cheddar peyniri, et döner, yeşillik, turşu) + Seçeceğiniz Yan Ürün + Ranch Sos + Kutu İçecek
+Sebzeli BBQ Soslu Tavuk: Marine jülyen tavuk, kapya biber, yeşilbiber, barbekü sos sos, baharatlar, isteğe göre köri soslu makarna, demi glace soslu makarna, salata, patates kızartması
+Cheeseburger Menü: Cheeseburger (120 gr. burger köftesi, burger sos, çift kat cheddar peyniri, iceberg marul, domates, turşu) + Patates Kızartması + İçecek
+Crispy Burger Menü: Crispy Burger (120 gr. burger köftesi, çıtır patates, çift kat cheddar peyniri, çift kat dana füme, bbq sos) + Patates Kızartması + İçecek
+Füme Etli Burger Menü: Füme Etli Burger (120 gr. burger köftesi, karamelize soğan, füme kaburga, cheddar peyniri) + Patates Kızartması + İçecek
+Cajun Sepeti Single Menü: Cajun Baharatlı Tavuk (250 gr.) + Patates Kızartması + Tortilla + Sos Seti + İçecek
+Klasik Burger Menü: Klasik Burger (120 gr. burger köftesi, burger sos, iceberg marul, domates, turşu) + Patates Kızartması + İçecek
+Lahmacun:
+Lahmacun Menü: 2 Adet Lahmacun + Tatlı + Ayran (30 cl.)
+Ekmek Arası Et Döner Menü: Ekmek Arası Et Döner + Seçeceğiniz Tatlı + Ayran (30 cl.)
+Kıymalı Pide:
+Ekmek Arası Izgara Köfte: Yeşillik, domates, isteğe göre soğan, turşu, cin biberi
+Margharita Pizza (Büyük): (Odun ateşinde pişirilmektedir. İnce hamur) Pizza sosu, mozzarella peyniri, parmesan peyniri, fesleğen
+Misto Pizza (Büyük): (Odun ateşinde pişirilmektedir. İnce hamur) Pizza sosu, mozzarella peyniri, sucuk, salam, sosis, renkli biberler, mantar, mısır, zeytin
+Margharita Pizza (Orta): (Odun ateşinde pişirilmektedir. İnce hamur) Pizza sosu, mozzarella peyniri, parmesan peyniri, fesleğen
+Misto Pizza (Orta): (Odun ateşinde pişirilmektedir. İnce hamur) Pizza sosu, mozzarella peyniri, sucuk, salam, sosis, renkli biberler, mantar, mısır, zeytin
+Fungo Pizza (Büyük): (Odun ateşinde pişirilmektedir. İnce hamur) Pizza sosu, mozzarella peyniri, mantar, sarımsak sos, dağ kekiği
+Et Tantuni: Domates, biber, soğan, et parçaları
+Köri Soslu Tavuk: Sotelenmiş tavuk parçaları, renkli biberler, mantar, ekşi krema, köri sos, pilav, patates kızartması ile
+Tavuk Tantuni: Domates, biber, soğan, tavuk parçaları
+Cheeseburger: Özel Art gurme köfte, domates, turşu, yeşillik, cheddar peyniri. Patates kızartması, özel soslar ile
+Biftek Tortilla Wrap: Jülyen biftek parçaları, biber, mantar, kaşar peyniri. Mevsim yeşillikleri, patates kızartması ile
+Lahmacun:
+Künefe:
+Kıymalı Pide:
+Beyti Kebabı: Bulgur pilavı, közlenmiş domates, biber, soğan ile
+Kuşbaşılı Pide:
+Yayla Çorbası:
+:
+: (El açması) Domates, salatalık, zeytin ile
+: (El açması) Kaşar peyniri, patates, kıyma. Domates, salatalık, zeytin ile
+:
+Lahmacun:
+Kıymalı Pide:
+Kuşbaşılı Kaşarlı Pide:
+Sarma Beyti Kebap: Yoğurt, sos. Mevsim salatası, ezme ile
+Adana Kebap: Mevsim salatası, ezme ile
+Lahmacun: Salata, ezme, mevsim yeşillikleri
+Kıymalı Pide: Salata, ezme, közlenmiş yeşilbiber
+Soslu Beyti Kebap: Salata, ezme, pilav, mevsim yeşillikleri, közlenmiş domates, közlenmiş yeşilbiber, eritilmiş kaşar peyniri
+Kuşbaşılı Kaşarlı Pide: Salata, ezme, közlenmiş yeşilbiber
+Tavuk Şiş: Salata, ezme, pilav, sumaklı soğan, mevsim yeşillikleri, közlenmiş domates, közlenmiş yeşilbiber, kırmızıbiber
+Lahmacun:
+Kıymalı Pide: Salata, patates kızartması, irmik helvası, acılı ezme, haydari ile
+Kıymalı Kaşarlı Pide: Salata, patates kızartması, irmik helvası, acılı ezme, haydari ile
+Kuşbaşılı Kaşarlı Pide: Salata, patates kızartması, irmik helvası, acılı ezme, haydari ile
+Sarma Beyti Kebap: Yoğurtlu, soslu. Salata, patates kızartması, irmik helvası, acılı ezme, haydari ile
+Lahmacun:
+Kıymalı Pide: Salata, ezme, tarator ile
+Adana Kebap: Pilav, sumaklı soğan, közlenmiş yeşilbiber, közlenmiş domates, lavaş, pide, salata, ezme, tarator ile
+Beyti Kebap: Pilav, yoğurt, közlenmiş domates, közlenmiş biber ile
+Adana SSK Dürüm:
+Lahmacun:
+Vodafone Menüsü (2 Lahmacun): 2 Adet Lahmacun + İrmik Helvası + Salata + Ayran (30 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+Karışık Pizza (Büyük): Pizza sosu, pizza peyniri, sosis, sucuk, salam
+Seçilmiş Menü (Karışık Pizza - Orta): Karışık Pizza (Orta) + Elma Dilim Patates Kızartması + İrmik Helvası + Coca-Cola (33 cl.)
+Klasik Burger: Marul, domates, ketçap, mayonez
+:
+:
+: (Kaliforniya Sarma) Özel soslu pirinç, yosun, somon, yengeç, salatalık, avokado, susam
+:
+:
+Lahmacun: Salata, ezme ile
+Anadolu Pizza (Orta): (28 cm.) Mozzarella peyniri, sucuk, salam, sosis, mısır, zeytin, renkli biber, sos
+Kıymalı Kaşarlı Pide: Salata, ezme ile
+Ton Balıklı Pizza (Orta): (28 cm.) Mozzarella peyniri, ton balığı, soğan, sos, roka
+Kuşbaşılı Kaşarlı Pide: Salata, ezme ile
+Etli Ekmek Menü: Etli Ekmek + Mevsim Salata + Çiğ Köfte + Ayran (17 cl.)
+Etli Ekmek: Mevsim salata, çiğ köfte ile
+Seçilmiş Menü (Etli Ekmek): Etli Ekmek + Coca-Cola (33 cl.)
+Bıçak Arası Menü: Bıçak Arası Pide + Mevsim Salata + Çiğ Köfte + Ayran (17 cl.)
+Mevlana Pide Menü: Mevlana Pidesi + Mevsim Salata + Çiğ Köfte + Ayran (17 cl.)
+Lahmacun: Mevsim salata, tarator, biber turşusu ile
+Adana Kebap: Bulgur pilavı, soğan söğüş, közlenmiş biber ve domates, mevsim salata, biber turşusu, tarator ile
+Mercimek Çorbası: Mevsim salata, limon ile
+Kıymalı Pide: Kıyma, domates, biber, soğan, özel baharatlar. Mevsim salata, tarator, biber turşusu ile
+Tavuk Şiş: Bulgur pilavı, soğan söğüş, közlenmiş biber ve domates, mevsim salata, biber turşusu, tarator ile
+Tam Ekmek Arası Kokoreç: Kuzu kokoreç, baharat
+Çeyrek Ekmek Arası Kokoreç: Kuzu kokoreç, baharat
+Midye Dolma (Adet):
+Tam Ekmek Arası Sebzeli Kokoreç: Kuzu kokoreç, domates, biber, baharat
+Ekmek Arası Köfte: Domates, soğan, yeşillik
+Beyaz Peynirli Su Böreği (500 gr.):
+Kıymalı Karaköy Böreği (500 gr.):
+Kıymalı Karaköy Böreği:
+Patatesli Boşnak Böreği:
+Beyaz Peynirli Su Böreği:
+Seçilmiş Menü (Penne): Penne Arrabbiata + Coca-Cola (33 cl.)
+Beyaz Peynirli Su Böreği: 300 gr.
+Kıymalı Karaköy Kol Böreği: 300 gr.
+Patatesli Boşnak Böreği: 300 gr.
+Kıymalı Su Böreği: 300 gr.
+Beyaz Peynirli Su Böreği (500 gr.):
+Lahmacun: Salata, ezme, tarator, günün tatlısı ile
+Beyti Kebap: Yoğurtu, soslu, açık. Soğan piyaz, közlenmiş domates, biber, salata, ezme, tarator, günün tatlısı ile
+Adana Kebap: Soğan piyaz, közlenmiş domates, biber, salata, ezme, tarator, günün tatlısı ile
+Kıymalı Pide: Salata, ezme, tarator, günün tatlısı ile
+Karışık Kebap: Adana kebap, tavuk, ızgara köfte, tavuk kanat, kuzu şiş, patlıcanlı kebap, fındık lahmacun. Soğan piyaz, közlenmiş domates, biber, salata, ezme, tarator, günün tatlısı ile
+Asmalı Kırmızı Special: Dana külbastı, kasap köfte, kuzu karski, sosyete döneri
+Sosyete Döneri: 200 gr. dana antrikot, karamelize soğan. Közlenmiş domates, közlenmiş biber, patates kızartması, turşu ile
+Kekikli Tavuk Külbastı: Sotelenmiş mevsim sebzeleri, pesto soslu kuskus ile
+Hamsiköy Sütlacı:
+Profiterol:
+Lahmacun: Salata, ezme, haydari, irmik tatlısı ile
+Kıymalı Pide: Salata, ezme, haydari, irmik tatlısı ile
+Menü 1: 2 Adet Kıymalı Pide + Salata + Ezme + Haydari + İrmik Helvası + İçecek (1 L.)
+Beyti Kebap: (Açık) Salata, ezme, haydari, irmik tatlısı ile
+Vodafone Menüsü (3 Lahmacun): 3 Adet Lahmacun + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+Lahmacun:
+Beyti Kebap: Közlenmiş domates, közlenmiş biber, acılı ezme, salata, soğan söğüş, pilav, lavaş, yoğurt, günün tatlısı ile
+Kıymalı Pide: Acılı ezme, salata, günün tatlısı ile
+Adana Dürüm: Yeşillik, soğan. Közlenmiş domates, közlenmiş biber, acılı ezme, salata, soğan söğüş, günün tatlısı ile
+Kuşbaşılı Kaşarlı Pide: Acılı ezme, salata, günün tatlısı ile
+2'li Lahmacun Menü: 2 Adet Lahmacun + Salata + Ezme + Günün Tatlısı + Ayran (20 cl.)
+Kıymalı Pide: Salata, ezme, günün tatlısı ile
+4'lü Lahmacun Menü: 4 Adet Lahmacun + Salata + Ezme + Günün Tatlısı + Ayran (1 L.)
+Adana Kebap: Pilav, közlenmiş domates, közlenmiş biber, soğan, salata, ezme, günün tatlısı
+Beyti Kebap: Pilav, közlenmiş domates, közlenmiş biber, soğan, salata, ezme, günün tatlısı
+Seçilmiş Menü (SSK Et Döner Dürüm): SSK Et Döner Dürüm + Coca-Cola (33 cl.)
+Seçilmiş Menü (Beyti Kebap): Beyti Kebap + Coca-Cola (33 cl.)
+Kıymalı Pide:
+Lahmacun:
+Vodafone Menüsü (Karışık Pide): Karışık Pide + Ayran (33 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+Lahmacun: Mevsim salata, maydanoz, limon, ezme salata, irmik tatlısı ile
+Kıymalı Pide: Mevsim salata, çiğ köfte, haydari, patates kızartması, bulgur pilavı, soğan, maydanoz, közlenmiş domates, közlenmiş biber, ezme salata, irmik tatlısı ile
+Sarma Beyti (Et Dönerden): Yoğurtlu, soslu. Mevsim salata, çiğ köfte, haydari, patates kızartması, bulgur pilavı, soğan, maydanoz, közlenmiş domates, közlenmiş biber, ezme salata, irmik tatlısı ile
+Beyti Sarma (Adana Kebaptan): Mevsim salata, çiğ köfte, haydari, patates kızartması, bulgur pilavı, soğan, maydanoz, közlenmiş domates, közlenmiş biber, ezme salata, irmik tatlısı ile
+Tavuk Şiş: Mevsim salata, çiğ köfte, haydari, patates kızartması, bulgur pilavı, soğan, maydanoz, közlenmiş domates, közlenmiş biber, ezme salata, irmik tatlısı ile
+Lahmacun:
+Kıymalı Pide: Salata, ezme, günün tatlısı ile
+Adana Kebap: Bulgur pilavı, közlenmiş domates, közlenmiş biber, tırnak pide ve lavaş ekmeği ile
+Kuşbaşılı Pide: Salata, ezme, günün tatlısı ile
+Beyti Kebap: Yoğurtlu, soslu, açık. Bulgur pilavı, közlenmiş domates, közlenmiş biber, tırnak pide ve lavaş ekmeği ile
+Lahmacun:
+Kıymalı Pide:
+Adana Kebap: Mevsim salata, tarator, ezme ile
+Beyti Kebap: Mevsim salata, tarator, ezme ile
+Vali Kebabı: Tavuk pirzola, tavuk kelebek, ızgara köfte, et şiş, fındık lahmacun, mevsim salata, tarator, ezme ile
+Kaşarlı Et Döner Dürüm: Sos, soğan, kaşar peyniri, salata, tarator, patates kızartması, çiğ köfte, irmik helvası
+Et Döner Dürüm: Sos, soğan, salata, tarator, patates kızartması, çiğ köfte, irmik helvası
+Lahmacun: Salata, tarator, patates kızartması, çiğ köfte, irmik helvası
+Lahmacun (2 Adet): Salata, tarator, patates kızartması, çiğ köfte, irmik helvası
+Kıymalı Pide: Salata, tarator, patates kızartması, çiğ köfte, irmik helvası
+Etli Ekmek: Salata, ezme, tarator ile
+Mevlana Pide: Salata, ezme, tarator ile
+Menü 6: 6 Adet Lahmacun + Salata + Ezme + Tarator (Lütfen acı durumunu sipariş notunda belirtiniz.)
+Menü 7: 3 Adet Kıymalı Pide + 2 Adet Lahmacun + Salata + Ezme + Tarator
+Menü 5: 5 Adet Kıymalı Pide + Salata + Ezme + Tarator
+Lahmacun: Salata, ezme, haydari
+Beyti Kebap: Salata, ezme
+Lahmacun Menü: 2 Adet Lahmacun + Ayran (20 cl.)
+Kıymalı Pide: Salata, ezme, haydari
+Künefe:
+Lahmacun: Salata, ezme, haydari ile
+Kıymalı Pide: Salata, ezme, haydari ile
+Adana Kebap: Salata, ezme, haydari ile
+Künefe:
+Tavuk Kanat: Salata, ezme, haydari ile
+Lahmacun: Salata, ezme ile
+Kıymalı Pide: Salata, ezme ile
+2'li Lahmacun Menü: 2 Adet Lahmacun + Ayran (30 cl.)
+Adana Dürüm: Yeşillik, domates. Ezme ile
+Kaşarlı Pide: Salata, ezme ile
+Özel Antep Lahmacun (2 Adet): Maydanoz, soğan, limon, közlenmiş biber, sarımsak, limon, mevsim salata, ezme
+İskender (Et Dönerden): Kızarmış tırnak pide, yoğurt, bulgur pilavı, tereyağı, közlenmiş biber, közlenmiş domates, sos, salata, ezme
+Kuşbaşılı Pide: Salata, ezme, közlenmiş biber ile
+Kıymalı Pide: Salata, ezme, közlenmiş biber ile
+Et Döner: Bulgur pilavı, soğan, maydanoz, közlenmiş biber, közlenmiş domates, salata, ezme
+Lahmacun (2 Adet): Maydanoz, limon ile
+Kıymalı Pide: Patates kızartması, günün tatlısı, salata, cacık
+Sarma Beyti Kebap: Salata, cacık, patates kızartması
+Kanat Şiş: Salata, cacık, patates kızartması
+Katmer Tatlısı:
+Lahmacun: Yeşillik, köz biber, irmik helvası ile
+Kıymalı Pide: Yeşillik, köz biber, irmik helvası ile
+Beyti Sarma Kebap: Pilav, közlenmiş domates, közlenmiş biber, patates kızartması, salata, cacık, irmik helvası ile
+Katmer:
+Tavuk Şiş: Pilav, közlenmiş domates, közlenmiş biber, patates kızartması, salata, cacık, irmik helvası ile
+Lahmacun: Ezme, haydari, salata ile
+Kuşbaşılı Kaşarlı Pide: Ezme, haydari, salata ile
+Kıymalı Pide: Ezme, haydari, salata ile
+Adana Kebap: Közlenmiş domates, közlenmiş biber, bulgur pilavı, ezme, haydari ile
+Seçilmiş Menü (Beyti Kebap): Beyti Kebap (Açık) + Coca-Cola (33 cl.)
+Hatay Usulü Tavuk Döner Dürüm Menü: Hatay Usulü Tavuk Döner Dürüm (Turşu, mayonez, patates kızartması) + Cin Biberi + Ayran (17 cl.)
+Seçilmiş Menü (Tavuk): Piliç Külbastı veya Tavuk Şiş + Gavurdağı Salata + Közlenmiş Domates + Közlenmiş Biber + Pilav + Coca-Cola (20 cl.))
+Izgara Menü: Günün Çorbası + Seçeceğiniz Izgara + Seçeceğiniz Yardımcı Yemek + Salata veya Yoğurt veya Cacık veya Tatlı
+Zurna Tavuk Döner Dürüm Menü: Zurna Tavuk Döner Dürüm (Turşu, mayonez, patates kızartması) + Cin Biberi + Ayran (17 cl.)
+Ekmek Arası Et Döner Menü: Ekmek Arası Et Döner (Patates kızartması, turşu, soğan, domates) + Cin Biberi + Ayran (17 cl.)
+Kayın Damacana Su (19 L.):
+Assu Damacana Su (19 L.):
+Kayın Damacana Su (19 L.) + Su Pompası + Depozito:
+Kayın Damacana Su (19 L.) (Depozitolu):
+Kayın Damacana Su (19 L.) + Pompa:
+Asya Bardak Su (72 Adet):
+Saka Su (5 L.) (4 Adet):
+Saka Su (50 cl.) (24 Adet):
+Saka Su (1,5 L.) (12 Adet):
+Assu Su (19 L.): (Tek kullanımlık pet şişe)
+Assu Su (50 cl.) (24 Adet): Pet şişe
+Assu Su (5 L.) (4 Adet): Pet şişe
+Assu Su (1,5 L.) (12 Adet): Pet şişe
+Kayın Su (5 L.) (4 Adet):
+Kayın Su (1,5 L.) (12 Adet):
+Kayın Su (33 cl.) (24 Adet):
+Kayın Su (50 cl.) (24 Adet):
+Lahmacun: Mevsim salata, ezme, haydari, pişmiş soğan ile
+Antep Lahmacun: Mevsim salata, ezme, haydari, pişmiş soğan ile
+Adana Dürüm: Domates, soğan, maydanoz
+Tavuk Şiş Dürüm: Domates, soğan, maydanoz
+Künefe:
+Seçilmiş Menü (Çeşme Çılgın Kumru): Çeşme Çılgın Kumru + Coca-Cola (33 cl.)
+Seçilmiş Menü (Bolognese Soslu Makarna): Bolognese Soslu Makarna + Coca-Cola (33 cl.)
+Zeytinyağlı Yaprak Sarma (100 gr.):
+Çerkez Tavuğu (100 gr.):
+Zeytinyağlı Lahana Dolması (100 gr.):
+Deniz Börülcesi (100 gr.):
+Havuçlu Tarator (100 gr.):
+Lahmacun: Salata, acılı ezme, çiğ köfte, közlenmiş biber
+Kıymalı Pide: Salata, acılı ezme, çiğ köfte, közlenmiş biber
+Beyti Kebap: Pilav, salata, ezme, çiğ köfte, soğan, közlenmiş biber, közlenmiş domates
+Adana Kebap: Pilav, salata, ezme, çiğ köfte, soğan, közlenmiş biber, közlenmiş domates
+Karışık Izgara: Adana kebap, tavuk şiş, tavuk kanat, ızgara köfte, fındık lahmacun, pilav, salata, ezme, çiğ köfte, soğan, közlenmiş biber, közlenmiş domates
+Günün Menüsü: Mercimek Çorba + Etli Patlıcan Yemeği + Pilav + Cacık
+Kampanyalı Karışık Pizza (Büyük): Mozzarella peyniri, özel sos, sucuk, salam, sosis, mantar, siyah zeytin, mısır
+Vodafone Menüsü (Karışık Pizza - Büyük): Karışık Pizza (Büyük) + Fruko (1 L.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+Vodafone Menüsü (Karışık Pizza - Orta): Karışık Pizza (Orta) + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+Karışık Pizza (Orta) (31 cm.): Mozzarella peyniri, domates sos, sucuk, sosis, salam, mantar, mısır, siyah zeytin, yeşilbiber
+Karışık Pizza (Büyük) (36 cm.): Mozzarella peyniri, domates sos, sucuk, sosis, salam, mantar, mısır, siyah zeytin, yeşilbiber
+Adana Dürüm: Salata, ezme ile
+Beyti Kebap (Adana Kebaptan): Salata, ezme, sumaklı soğan, cacık, közlenmiş domates, közlenmiş biber ile
+Peynirli Künefe:
+Tavuk Şiş: Salata, ezme, sumaklı soğan, cacık, közlenmiş domates, közlenmiş biber ile
+Adana Kebap: Salata, ezme, sumaklı soğan, cacık, közlenmiş domates, közlenmiş biber ile
+Hamsi Tava: Mevsim salata, turşu, sumaklı soğan, limon, ekmek ile
+Ekmek Arası Hamsi: Yeşillik, soğan, turşu, limon
+Hamsi (1 kg.) (Pişirilmiş): Mevsim salata, turşu, sumaklı soğan, limon, ekmek ile
+Ekmek Arası Alabalık: Yeşillik, soğan, turşu, limon
+Palamut Tava: Mevsim salata, turşu, sumaklı soğan, limon, ekmek ile
+Menü 3: Günün Çorbası + Tavuk Sote veya Tavuk Haşlama veya Kuru Fasulye + Salata (1 adet ekmek, acılı ezme, yoğurtlu patlıcan salatası ile) + Bulgur Pilavı veya Pirinç Pilavı + Salata
+Menü 1: Günün Çorbası + Çoban Kavurma veya Tas Kebabı veya Kuzu Haşlama (1 adet ekmek, acılı ezme, yoğurtlu patlıcan salatası ile) + Bulgur Pilavı veya Pirinç Pilavı + Salata
+Menü 2: Günün Çorbası + Patlıcan Yemeği veya Patlıcan Musakka veya Karnıyarık veya Sulu Köfte (1 adet ekmek, acılı ezme, yoğurtlu patlıcan salatası ile) + Bulgur Pilavı veya Pirinç Pilavı + Salata
+Lahmacun: Kıyma, soğan, domates, maydanoz. Mevsim salatası, ezme, tarator ile
+Kuşbaşılı Pide: Domates, biber, kuşbaşı. Mevsim salatası, ezme, tarator ile
+Kıymalı Pide: Domates, soğan, kıyma, maydanoz. Mevsim salatası, ezme, tarator ile
+Beyti Kebap (Açık): (Adana kebaptan) Sos, tereyağı, kaşar peyniri, yoğurt. Pilav, Mevsim salatası, ezme, tarator ile
+İskender (Adana Kebaptan): Sos, tereyağı, kaşar peyniri, yoğurt. Pilav, Mevsim salatası, ezme, tarator ile
+2'li Lahmacun Menü: 2 Adet Lahmacun + Salata + Günün Tatlısı + Ayran (20 cl.)
+Kıymalı Pide: Ezme, salata, irmik tatlısı ile
+Lahmacun: Ezme, salata, irmik tatlısı ile
+Beyti Kebap: Ezme, salata, irmik tatlısı ile
+Kuşbaşılı Pide: Ezme, salata, irmik tatlısı ile
+Tavuklu Noodle: Tavuk, beyaz lahana, havuç, kırmızıbiber, yeşilbiber, noodle, soya sosu
+Sebzeli Noodle: Beyaz lahana, havuç, kırmızıbiber, yeşilbiber, noodle, soya sosu
+Etli Noodle: Et, beyaz lahana, havuç, kırmızıbiber, yeşilbiber, noodle, soya sosu
+Seçilmiş Menü (Tavuklu Noodle): Tavuklu Noodle + Coca-Cola (33 cl.)
+California Roll (8 Pcs.): Salatalık, mayonez, avokado, yengeç, dışı balık yumurtası kaplı
+Grand Fouper Burger Menü: Grand Fouper Burger (Foupe özel large brioche, 160 gr. Foupe burger köftesi, Clothbound Cheddar peyniri, dana bacon, karamelize soğan, iceberg marul, domates, turşu, Fouper Exquisite sos) + Patates Kızartması + Kutu İçecek
+Fouper Burger Menü: Fouper Burger (Foupe özel Brioche, 100 gr. Foupe burger köftesi, Clothbound Cheddar peyniri, dana bacon, karamelize soğan, marul, domates, turşu, Fouper Exquisite sos) + Patates Kızartması + Kutu İçecek
+Enjoy Burger Menü: Enjoy Burger (Foupe özel Brioche, 100 gr. Foupe burger, cheddar peyniri, iceberg marul, soğan, domates, turşu, Foupe Enjoy tatlı sos) + Patates Kızartması + Kutu İçecek
+Grand Enjoy Burger Menü: Grand Enjoy Burger (Foupe özel large brioche, 160 gr. Foupe burger, cheddar peyniri, iceberg marul, soğan, domates, turşu, Foupe Enjoy tatlı sos) + Patates Kızartması + Kutu İçecek
+Grand Smoked Coffee Burger Menü: Grand Smoked Coffee Burger (Foupe özel large brioche, 160 gr. Foupe burger köftesi, Smoked Provolone peyniri, dana bacon, iceberg marul, domates, soğan, turşu, Foupe Foupe Coffee BBQ sos) + Patates Kızartması + Kutu İçecek
+Antep Lahmacun: Yeşillik, limon ile
+Adana Dürüm: Domates, maydanoz, isteğe göre soğan
+Urfa Dürüm: Domates, maydanoz, isteğe göre soğan
+Süzme Mercimek Çorbası:
+Tavuk Şiş: Terbiyeli tavuk göğüs, bulgur pilavı, soğan, közlenmiş biber, közlenmiş domates, ezme salata, tırnak pide ile
+Lahmacun: Göbek marul, maydanoz, domates, limon ile
+Nar Ekşili Cevizli Lahmacun: Göbek marul, maydanoz, domates, limon ile
+Tereyağlı Süzme Mercimek Çorbası: Tırnaklı pide, limon ile
+Kaşarlı Lahmacun: Göbek marul, maydanoz, domates, limon ile
+Sarımsaklı Antep Lahmacun: Göbek marul, maydanoz, domates, limon ile
+Seçilmiş Menü (Muzlu Çilekli Cup): Muzlu Çilekli Cup + Coca-Cola (33 cl.)
+Mançiz Cup: Nutella, muz, çilek, Cicibebe bisküvisi, anne pudingi
+Banoffee (Cam Kavanozda): Banoffee kreması, muz, tereyağlı bisküvi, süt karameli, yer fıstığı, ceviz
+Muzlu Çilekli Cup: Çilek, muz, Cicibebe bisküvisi, anne pudingi
+Cicibebe Cup:
+Atom Cup: Cicibebe bisküvi, muz, kivi, Nutella, çilek
+Oreolu Çilekli Nutellalı Cup: Oreo, çilek, Nutella, özel krema
+Çilekli Cup: Çilek, Cicibebe, anne pudingi
+Muzlu Çilekli Cup: Çilek, muz, Cicibebe, anne pudingi
+Atom Cup: Kivi, muz, çilek, Nutella, Cicibebe, özel krema
+Mançiz Cup: Nutella, muz, çilek, Cicibebe, anne pudingi
+Atom Cup: Kivi, muz, çilek, Nutella, Cicibebe, özel krema
+Oreolu Çilekli Nutellalı Cup: Oreo, çilek, Nutella, özel krema
+Nutella Profiterol: Profiterol topu, Nutella, çikolata sosu, çikolata parçaları, ceviz
+Muzlu Çilekli Cup: Çilek, muz, Cicibebe bisküvisi, anne pudingi
+Çilekli Cup: Çilek, Cicibebe bisküvisi, anne pudingi
+Vodafone Menüsü (Köri Soslu Tavuk): Köri Soslu Tavuk + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+Seçilmiş Menü (Fettuccine Alfredo): Fettuccine Alfredo + Coca-Cola (33 cl.)
+Tavuklu Wrap: Jülyen tavuk, mix biber, kaşar peyniri. Patates kızartması, sos ile
+Köri Soslu Tavuk: Yeşillik, patates kızartması ile
+Karışık Pizza: Salam, sosis, mısır, domates, zeytin, mozzarella peyniri, sos
+Lahmacun:
+Et Döner Dürüm: Yeşillik, domates, turşu, patates kızartması
+Özel Tereyağlı İskender (Et Dönerden):
+Pide Arası Et Döner: Yeşillik, domates, turşu, patates kızartması
+Mercimek Çorbası:
+Köz Domates Çorbası: İsteğe göre kaşar peyniri ile
+Avokadolu & Nohut Köfteli Salata: Yarım avokado, nohut köftesi (fırında falafel mücveri), koyu cacık, domates, salatalık, karışık yeşillik, fesleğenli light sos
+Falafelli Tattaze Salata: 2'li falafel mücveri (fırında nohut köftesi), koyu cacık, salatalık, siyah zeytin, kuru domates, maskolin yeşillik, light yeşil sos
+Köfteli Kinoa Salatası: 3 adet anne köftesi, kinoadan domatesli kısır, salatalık, karışık yeşillik, nar ekşili sos
+Klasik Köfte Tabağı: Çeşnili pilav, günün mezesi ile
+Waffle: Seçeceğiniz malzemeler ile
+Karışık Kumpir: Seçeceğiniz malzemeler ile
+Bebek Waffle: Nutella, beyaz çikolata, muz, çilek, kivi, oreo, yer fıstığı, brownie
+Duble Kaşar Peynirli Kumpir: Seçeceğiniz malzemeler ile
+Nutella Aşkı Waffle: Nutella, muz, çilek, Oreo, yer fıstığı
+114. Etli Erişte / Beef Noodle: Havuç, soya filizi, lahana, taze soğan / Carrot, soybean sprouts, cabbage, fresh onion
+113. Tavuklu Erişte / Chicken Noodle: Havuç, soya filizi, lahana, taze soğan / Carrot, soybean sprouts, cabbage, fresh onion
+115. Karidesli Erişte / Shrimp Noodle: Havuç, soya filizi, lahana, taze soğan / Carrot, soybean sprouts, cabbage, fresh onion
+112. Sebzeli Erişte / Vegetables Noodle: Havuç, soya filizi, lahana, taze soğan / Carrot, soybean sprouts, cabbage, fresh onion
+40. General Tso Tavuk: Taze soğan, susam, acı sos, tatlı ekşi sos
+Kaşarlı Tavuk Dürüm: Özel sos ile marine edilmiş tavuk biftek, domates, yeşillik, kızartılmış kaşar peyniri, lavaş
+Tavuklu Pilav Menü: Tavuklu Pilav + Salatalık Turşusu + Cin Biberi + Pul Biber + Karabiber + Ekmek + Salata + İçecek
+Mercimek Çorbası: Ekmek, limon, biber turşusu, salatalık turşusu ile
+Izgara Köfte: Ev yapımı köfte, mevsim salata, pilav, süs biber, turşu, ekmek, lavaş
+Tavuklu Pilav: Tavuklu pilav, salatalık turşusu, cin biberi, pul biber, karabiber, ekmek
+Pirinç Pilavı:
+Domates Soslu Köfte:
+Kemalpaşa Tatlısı:
+Izgara Tavuk:
+Çıtır Tavuk: Patates kızartması ile
+Adana Kebap: Mevsim salata, ezme, soğan söğüş, turşu biberi, günün Eker tatlısı ile
+Beyti Kebap (Açık): Yoğurtlu, soslu, kaşar peyniri, tereyağı. Mevsim salata, ezme, soğan söğüş, turşu biberi, günün Eker tatlısı ile
+Tavuk Pirzola: Mevsim salata, ezme, soğan söğüş, turşu biberi, günün Eker tatlısı ile
+Tavuk Kanat: Izgara tavuk kanat sos, tuz. Mevsim salata, ezme, soğan söğüş, turşu biberi, günün Eker tatlısı ile
+Et Sac Kavurma: Domates, soğan, biber, sos, baharat, tereyağı. Mevsim salata, ezme, soğan söğüş, turşu biberi, günün Eker tatlısı ile
+Lahmacun: Mevsim salata, acılı ezme, közlenmiş biber ile
+2'li Lahmacun Menü 2: 2 Adet Lahmacun + Mevsim Salata + Acılı Ezme + Ayran (20 cl.)
+Kıymalı Pide: Mevsim salata, acılı ezme, közlenmiş biber ile
+Kuşbaşılı Kaşarlı Pide: Mevsim salata, acılı ezme, közlenmiş biber ile
+Seçilmiş Menü (Lahmacun): 3 Adet Lahmacun + Coca-Cola (20 cl.)
+Tam Ekmek Arası Atom Tost: Tam ekmek arasına; yumurta, sucuk, salam, kaşar peyniri, sosis, domates, ketçap, mayonez, pul biber, kekik
+Vodafone Menüsü (Tam Ekmek Arası Atom Tost): Tam Ekmek Arası Atom Tost + Taze Sıkma Portakal Suyu (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız.)
+Karışık Ayvalık Tostu: Kaşar peyniri, sucuk, salam, domates, Rus salatası, turşu, ketçap, mayonez
+Süper Karışık Ayvalık Tostu: Çift kat ayvalık ekmeğine; kaşar peyniri, sucuk, salam, sosis, Rus salatası, domates, turşu, ketçap, mayonez
+Yarım Ekmek Arası Cheddar Peynirli Pastırmalı Tost: Dana sucuk, pastırma, kaşar peyniri, cheddar peyniri, turşu, salça sos, kekik
+Hatay Usulü Tavuk Döner Dürüm: Patates kızartması, Hatay sos, mayonez
+Ekmek Arası Tavuk Döner Menü 1: Ekmek Arası Tavuk Döner (125 gr.) + Ayran (20 cl.)
+Tavuk Döner Menü 1: Tavuk Döner (100 gr.) + Ayran (20 cl.)
+Ekmek Arası Köfte Menü: Ekmek Arası Köfte + Ayran (20 cl.)
+Kazandibi:
+Antakya Usulü Tavuk Döner Dürüm: Cin biberi, çiğ köfte, günün tatlısı ile
+Antakya Usulü Kaşarlı Tavuk Döner Dürüm: Cin biberi, çiğ köfte, günün tatlısı ile
+Antakya Usulü Kaşarlı Körili Tavuk Döner Dürüm: Cin biberi, çiğ köfte, günün tatlısı ile
+Mercimek Çorbası: Ekmek ve turşu ile
+İskender (Tavuk Dönerden): Cin biberi, çiğ köfte, günün tatlısı ile
+Lahmacun: Turşu, biber, salata, ezme, soğan, söğüş, Eker tatlı ile
+Kıymalı Pide: Turşu, biber, salata, ezme, soğan, söğüş, Eker tatlı ile
+Kuşbaşılı Kaşarlı Pide: Turşu, biber, salata, ezme, soğan, söğüş, Eker tatlı ile
+Beyti Kebap: Turşu, biber, salata, ezme, soğan, söğüş, Eker tatlı ile
+Adana Kebap: Turşu, biber, salata, ezme, soğan, söğüş, Eker tatlı ile
+Özel Satır Köfte Menü: Özel Satır Köfte + İç Pilav + Salata + Acılı Ezme + Turşu + Soğan + Ayran (27 cl.)
+Kuzu Ciğer Şiş Menü: Kuzu Ciğer Şiş + İç Pilav + Salata + Acılı Ezme + Turşu + Soğan + Ayran (27 cl.)
+Marine Tavuk Şiş Menü: Marine Tavuk Şiş + İç Pilav + Salata + Acılı Ezme + Turşu + Soğan + Ayran (27 cl.)
+Kuzu But Şiş Menü: Kuzu But Şiş + İç Pilav + Salata + Acılı Ezme + Turşu + Soğan + Ayran (27 cl.)
+Kuzu Tandır Menü: Kuzu Tandır + İç Pilav + Salata + Acılı Ezme + Turşu + Soğan + Ayran (27 cl.)
+: İnegöl Köft + İç Pilav + Salata + Acılı Ezme + Turşu + Soğan + Ayran (27 cl.)
+Cheeseburger: Özel burger ekmeği arasına; 120 gr. baharatlı burger köftesi, bol cheddar sos, kıvırcık marul, burger sos
+Cheeseburger Menü: Cheeseburger + Patates Kızartması + Kutu İçecek
+Vegan Burger: Özel burger ekmeği arasına; 120 gr. vegan köftesi, burger sos, karamelize soğan, mantar, cheddar sos, kıvırcık marul, turşu
+Juicy Lucy Burger: Özel burger ekmeği arasına; 160 gr. kaşar ve cheddar peynirli baharatlı burger köftesi, burger sos, karamelize soğan, kıvırcık marul, turşu
+Dana Bacon Burger Menü: Dana Bacon Burger + Patates Kızartması + Kutu İçecek
+Adana Dürüm: Yeşillik, domates, özel sos, isteğe göre soğan
+Tavuk Şiş Dürüm: Yeşillik, domates, özel sos, isteğe göre soğan
+Adana Kebap: Pilav, salata, közlenmiş domates, közlenmiş biber, salatalık turşusu, biber turşusu, soğan
+Tavuk Kanat: Pilav, salata, közlenmiş domates, közlenmiş biber, salatalık turşusu, biber turşusu, soğan
+Tavuk Şiş: Pilav, salata, közlenmiş domates, közlenmiş biber, salatalık turşusu, biber turşusu, soğan
+Şefin Burgeri: 120 gr. dana burger köftesi, kaşar peyniri, cheddar peyniri, dana kuşbaşı, karamelize soğan, domates, kıvırcık marul, şefin özel sosu. Patates kızartması ve soğan halkası ile
+Klasik Burger: 120 gr. dana burger köftesi, domates, salatalık turşusu, kıvırcık marul, soğan, şefin özel sosu. Patates kızartması ve soğan halkası ile
+Karamelize Burger: 120 gr. dana burger köftesi, karamelize soğan, karamelize mantar, cheddar peyniri, kıvırcık marul, domates, şefin özel sosu. Patates kızartması ve soğan halkası ile
+Beğendi Burger: 120 gr. dana burger köftesi, közlenmiş patlıcan, beğendi sos, kaşar peyniri, salatalık turşusu, şefin özel sosu. Patates kızartması ve soğan halkası ile
+Cheeseburger: 120 gr. dana burger köftesi, cheddar peyniri, dana kuşbaşı, kıvırcık marul, karamelize soğan, şefin özel sosu. Patates kızartması ve soğan halkası ile
+Antakya Usulü Tavuk Döner Dürüm Menü: Antakya Usulü Tavuk Döner Dürüm + Kutu İçecek
+Soslu Tavuk Döner Dürüm (47 cm.): Turşu, patates kızartması, mayonez
+Antakya Usulü Tavuk Döner Dürüm: Turşu, patates kızartması, mayonez
+3'lü Antakya Dürüm Menü: 3 Adet Antakya Usulü Tavuk Döner Dürüm
+Künefe: Ev yapımı
+Big Baker Burger: 185 gr. Hamburger köftesi, cheddar peyniri, Baker sos, karamelize soğan, közlenmiş biber, turşu, yeşillik. Patates kızartması ile
+Seçilmiş Menü (Big Baker Burger): Big Baker Burger + Coca-Cola (33 cl.)
+Vodafone Menüsü (Cheeseburger): Cheeseburger + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)
+BBQ Burger: Hamburger köftesi, barbekü sos, cheddar peyniri, jalapeno biberi, soğan, turşu, yeşillik. Patates kızartması ile
+Cheeseburger: Hamburger köftesi, Baker sos, cheddar peyniri, domates, turşu, yeşillik. Patates kızartması ile
+Soslu Tavuk Döner Dürüm: Yeşillik, domates, patates kızartması, turşu, isteğe göre soğan
+Menü 3: Soslu Tavuk Döner Dürüm (70 gr.) + Patates Kızartması veya Tatlı + İçecek
+Et Döner Dürüm: Yeşillik, domates, patates kızartması, isteğe göre soğan
+Tombik Ekmek Arası Tavuk Döner: Yeşillik, domates, patates kızartması, turşu, isteğe göre soğan
+Tombik Ekmek Arası Et Döner: Yeşillik, domates, patates kızartması, isteğe göre soğan
+Ekmek Arası Tavuk Döner Menü: Ekmek Arası Tavuk Döner (Yeşillik, turşu) + İçecek
+Izgara Köfte (500 gr.) Menü: Izgara Köfte (500 gr.) (Közlenmiş domates, biber ile) (Pişirilmiş) + Mevsim Salata + 2 Adet Ayran (33 cl.) (Belirtilen gramaj bilgisi ürünün çiğ halinin gramajıdır.)
+Ekmek Arası Izgara Köfte Menü: Ekmek Arası Izgara Köfte (Közlenmiş domates, biber) + Ayran (33 cl.)
+Ekmek Arası Et Döner Menü: Ekmek Arası Et Döner (Yeşillik, turşu) + İçecek
+Pilav Üstü Et Döner (150 gr.): Patates kızartması, turşu, mevsim yeşillikleri ile
+Seçilmiş Menü (Kıymalı Kaşarlı Pide): Kıymalı Kaşarlı Pide + Coca-Cola (33 cl.)
+Lahmacun Menü 1: 5 Adet Lahmacun (Acı durumunu sipariş notunda belirtiniz.) + Salata + Ayran (1 L.)
+Mercimek Çorbası:
+Ezogelin Çorbası:
+Adana Dürüm Menü: Adana Dürüm + Salata + Ayran (30 cl.)
+2'li Orta Menü: Seçeceğiniz 2 Adet Orta Boy Pizza + İçecek (1 L.)
+Bonus Gurme Maxi Burger: 120 gr. burger köftesi, cheddar peyniri, karamelize soğan, karamelize mantar, domates, turşu, marul. Patates kızartması ile
+Tekli Menü: Seçeceğiniz Orta Boy Pizza + Kutu İçecek
+Büyük Menü: Seçeceğiniz Büyük Boy Pizza + Kutu İçecek
+2'li Büyük Menü: Seçeceğiniz 2 Adet Büyük Boy Pizza + İçecek (1 L.)
+Ekonomik Menü: Seçeceğiniz Pizza + Kutu İçecek (33 cl.)
+2'li Pizza Menü: Seçeceğiniz 2 Adet Pizza + İçecek (1 L.)
+Cheeseburger: Burger köftesi, cheddar peyniri, karamelize soğan, kıvırcık marul, mayonez, domates. Patates kızartması, ketçap, mayonez ile
+Klasik Burger: Burger köftesi, karamelize soğan, kıvırcık marul, mayonez, domates. Patates kızartması, ketçap, mayonez ile
+Çıtır Tavuk Burger: Panelenmiş çıtır tavuk, karamelize soğan, kıvırcık marul, mayonez, domates. Patates kızartması, ketçap, mayonez ile
+Limited Burger: Siyah burger ekmeğine; burger köftesi, dana jambon, cheddar peyniri, karamelize soğan, kıvırcık marul, kaşar peyniri, mayonez, domates. Patates kızartması, ketçap, mayonez ile
+Füme Burger: Burger köftesi, isli füme kaburga, kıvırcık marul, cheddar peyniri, karamelize soğan, mayonez, domates. Patates kızartması, ketçap, mayonez ile
+Frambuazlı Pasta (Dilim):
+Çilekli Mag:
+Maxi-Karışık Rossi Pizza (Orta): İnce hamur, pizza sosu, mozzarella peyniri, salam, sucuk, mantar, biber, siyah zeytin, mısır
+Maxi-Karışık Rossi Pizza (Büyük): İnce hamur, pizza sosu, mozzarella peyniri, salam, sucuk, mantar, biber, siyah zeytin, mısır
+Füme Antrikotlu Pizza (Orta): Capello pizza sos, mantar, füme antrikot, mozzarella peyniri
+Rossi Karışık Pizza (Orta): İnce hamur, pizza sosu, salam, sucuk, mantar, biber, mozzarella peyniri
+4 Peynirli Del Piero Pizza (Orta): İnce hamur, pizza sosu, keçi peyniri, mozzarella peyniri, beyaz peynir, rokfor peyniri
+Midye Dolma (Adet):
+Tam Ekmek Arası Kokoreç: 155 gr. ekmek, kimyon, kekik, pul biber, jalapeno biberi ile
+Tam Ekmek Arası Sebzeli Kokoreç: 155 gr. ekmek, kimyon, kekik, pul biber, domates, jalapeno biberi ile
+Ekmek Arası Sucuk: Başyazıcı et sucuk, 155 gr. ekmek, sumaklı soğan, közlenmiş domates
+Adana Kebap: 160 gr. Adana kebap, bulgur pilavı, közlenmiş domates, biber, salata, lavaş, sumaklı soğan, sarımsaklı tarator
+İzmir Kumru Sandviç: Salam, sucuk, sosis, kaşar peyniri, turşu, ketçap, mayonez
+İzmir Kumru Sandviç Menü: İzmir Kumru Sandviç + Patates Kızartması + İçecek
+Ayvalık Tostu Menü: Ayvalık Tostu + Patates Kızartması + İçecek
+Atom Sandviç: Sucuk, salam, sosis, pastırma, kavurma, kaşar peyniri, yumurta, turşu, ketçap, mayonez
+Ayvalık Tostu: Sucuk, salam, kaşar peyniri, turşu, Rus salatası, ketçap, mayonez
+Hatay Usulü Tavuk Döner Dürüm Menü: Hatay Usulü Tavuk Döner Dürüm (120 gr. tavuk döner, patates kızartması, salatalık turşusu, yeşillik, özel sos) + Ayran (20 cl.)
+Zurna Dürüm Menü (42 cm.): Zurna Dürüm (160 gr. tavuk döner, patates kızartması, salatalık turşusu, mayonez, özel sos) + Ayran (20 cl.)
+Hatay Usulü Mega Tavuk Döner Dürüm Menü: Hatay Usulü Mega Tavuk Döner Dürüm (120 gr. tavuk döner, patates kızartması, salatalık turşusu, cin biber, yeşillik, özel sos) + Patates Kızartması + Coca-Cola (33 cl.)
+Künefe: Pişirilme süresi 15 dakikadır.
+3'lü Hatay Usulü Mega Tavuk Döner Dürüm Menü: 3 Adet Hatay Usulü Mega Tavuk Döner Dürüm (120 gr. tavuk döner, patates kızartması, salatalık turşusu, yeşillik, özel sos) + 3 Adet Patates Kızartması + Coca-Cola (1 L.) veya 3 Adet Ayran (20 cl.)
+Karidesli Erişte: Brokoli, yeşilsoğan, havuç, beyaz lahana
+Tavuklu Sebzeli Erişte: Brokoli, yeşilsoğan, havuç, beyaz lahana
+Dana Etli Sebzeli Erişte: Brokoli, yeşilsoğan, havuç, beyaz lahana
+Philadelphia Roll (8 Pcs.): Somon, salatalık, kıvırcık marul, krem peynir, dışı susam
+Sushi Queen 2 (30 Pcs.): Sake Maki (6 Pcs.) + California Roll (8 Pcs.) + Philadelphia Roll (8 Pcs.) + Kani Maki (6 Pcs.) + Kani Nigiri (1 Pcs.) + Sake Nigiri (1 Pcs.)
+Ekmek Arası Tavuk Tantuni: Domates, maydanoz, soğan, nane, kekik
+Tavuk Tantuni Dürüm: Domates, maydanoz, soğan, nane, kekik
+Ekmek Arası Et Tantuni: Domates, maydanoz, soğan, nane, kekik
+Et Tantuni Dürüm: Domates, maydanoz, soğan, nane, kekik
+Çiğ Köfte (250 gr.): Marul, limon, nar ekşisi, acı sos, 2 adet lavaş ekmeği ile
+Vanilya krema dolgulu
+Çikolata krema dolgulu
+Karamel krema dolgulu
+Yaban mersini parçacıklı krema dolgulu
+Çilek krema dolgulu.
+Limon krema dolgulu
+Muz krema dolgulu
+Vişne krema dolgulu
+Zurna Tavuk Döner Dürüm: Patates kızartması, göbek marul, mayonez, özel sos
+Tavuk Döner Dürüm: Patates kızartması, göbek marul, mayonez, özel sos
+Süper İkili Menü: 2 Adet Zurna Tavuk Döner Dürüm + 2 Adet Ayran (17 cl.)
+Cheddarlı Zurna Tavuk Döner Dürüm: Patates kızartması, cheddar peyniri, mayonez, özel sos
+Menü 5: Zurna Tavuk Döner Dürüm + Patates Kızartması + Ayran (25 cl.)
+Adana Kebap: 180 gr. kuzu zırh kıyma. Közlenmiş domates, közlenmiş biber, pirinç pilavı, mevsim salata, günün mezeleri ile
+Tavuk Şiş: 220 gr. tavuk but şiş. Közlenmiş domates, közlenmiş biber, pirinç pilavı, mevsim salata, günün mezeleri ile
+Adana Dürüm: 110 gr. kuzu zırh kıyma. Tablacı salatası, günün mezeleri ile
+Seçilmiş Menü (Tavuk Şiş): Tavuk Şiş + Coca-Cola (33 cl.)
+Tavuk Kanat: 7 adet gezen tavuk kanat. Közlenmiş domates, közlenmiş biber, pirinç pilavı, mevsim salata, günün mezeleri ile
+Et Döner (100 gr.): İsteğe göre soğan, domates ile
+Ekmek Arası Et Döner (75 - 80 gr.): Yaprak et döner, isteğe göre soğan, domates
+Et Döner (150 gr.): İsteğe göre soğan, domates ile
+İskender (Et Dönerden): Sos, yoğurt
+Et Döner (200 gr.): İsteğe göre soğan, domates ile
+Adana Dürüm: Domates, isteğe göre sumaklı soğan, biber turşusu
+Tavuk Şiş Dürüm: Domates, isteğe göre sumaklı soğan, biber turşusu
+Adana Dürüm (Tavuktan) Menü: Adana Dürüm (Tavuktan) (Domates, yeşillik, biber turşusu) + Ayran (30 cl.)
+Mercimek Çorbası:
+Ciğer Şiş Dürüm: Domates, isteğe göre sumaklı soğan, biber turşusu
+Farm Burger Menü: Farm Burger (110 gr.) + Patates Kızartması + İçecek
+Cheeseburger Menü: Cheeseburger (110 gr.) + Patates Kızartması + İçecek
+Farm Burger: Hamburger köftesi, cheddar peyniri, füme et, karamelize soğan, turşu, yeşillik. Patates kızartması ile
+Cheeseburger: Hamburger köftesi, cheddar peyniri, turşu, yeşillik, karamelize soğan, ketçap. Patates kızartması ile
+Final Burger Menü: 2 Adet Cheeseburger (110 gr.) + Patates Kızartması + İçecek (1 L.)
+2'li Çiğ Börek:
+Seçilmiş Menü (Kayseri Mantısı): Kayseri Mantısı + Coca-Cola (33 cl.)
+Zeytinyağlı Yaprak Sarma:
+Kayseri Mantısı: El açması
+Pastırmalı Kaşarlı Gözleme: El açması yufka
+Kayseri Mantısı: El açması
+2'li Çiğ Börek:
+Zeytinyağlı Yaprak Sarma:
+Patatesli İçli Köfte (Adet):
+Pastırmalı Kaşarlı Gözleme: El açması yufka
+Karışık Dürüm: Çift lavaşa çiğ köfte, tavuk schnitzel, marul, turşu, domates, nar ekşisi, ketçap, mayonez
+Çiğ Köfte Dürüm: 100 gr. çiğ köfte, marul, limon, nar ekşisi, turşu, domates
+Tavuk Schnitzel Dürüm: Çift lavaşa tavuk schnitzel, marul, turşu, domates, ketçap, mayonez
+Double Çiğ Köfte Dürüm: Çift lavaşa 120 gr. çiğ köfte, marul, limon, nar ekşisi, turşu, domates
+Çiğ Köfte (500 gr.): 6 adet lavaş, marul, 4 adet nar ekşisi, limon
+Hatay Usulü Soslu Tavuk Döner Dürüm: Patates kızartması, soğan, marul, domates, turşu, sos
+Yarım Ekmek Arası Tavuk Döner: Patates kızartması, marul, domates, soğan, turşu
+Tam Ekmek Arası Tavuk Döner: Patates kızartması, marul, domates, soğan, turşu
+Seçilmiş Menü (Tam Ekmek Arası Tavuk Döner ): Tam Ekmek Arası Tavuk Döner + Coca-Cola (20 cl.)
+Tereyağlı Simit:
+Profiterol:
+Mercimek Çorbası: Kruton ekmek ile
+Bitter Çikolatalı Soğuk Baklava:
+Hamburger: Hamburger köftesi, marul, domates
+Hatay Soslu Tavuk Döner Dürüm: Göbek marul, domates, soğan, turşu, sos, mayonez
+Zurna Tavuk Döner Dürüm: Göbek marul, domates, soğan, turşu
+Menü 1: Hatay Soslu Tavuk Döner Dürüm + Seçeceğiniz Yan Ürün + Ayran (20 cl.)
+İskender (Et Dönerden): Yoğurt, mevsim salata, pirinç pilavı ile
+Yarım Ekmek Arası Tavuk Döner: Göbek marul, domates, soğan, turşu
+Yeni Nesil Cajun Soslu Tavuk (250 gr.) & Ranch Sos: Yanında Akdeniz sos, patates kızartması, lavaş, ketçap, mayonez ile
+Yeni Nesil Cajun Soslu Tavuk (250 gr.) & Acılı Ekşili Sos: Yanında acılı ekşili sos, patates kızartması, lavaş, ketçap, mayonez ile
+Yeni Nesil Cajun Soslu Tavuk (250 gr.) & Ballı Hardal Sos: Yanında ballı hardal sos, patates kızartması, lavaş, ketçap, mayonez ile
+Yeni Nesil Cajun Soslu Tavuk (250 gr.) & Haydari Sos: Yanında haydari sos, patates kızartması, lavaş, ketçap, mayonez ile
+Yeni Nesil Cajun Soslu Tavuk (250 gr.) & Tatlı Ekşili Sos: Yanında acılı ekşili sos, patates kızartması, lavaş, ketçap, mayonez ile
+Lahmacun (2 Adet):
+Adana Kebap: Bulgur pilavı, közlenmiş domates, sumaklı soğan, közlenmiş biber, tırnak pide, salata, ezme ile
+Kıymalı Pide: Salata, ezme ile
+Beyti Kebap: Yoğurtlu, soslu, açık. Bulgur pilavı, közlenmiş domates, sumaklı soğan, közlenmiş biber, salata, ezme ile
+Tavuk Şiş: Bulgur pilavı, közlenmiş domates, sumaklı soğan, közlenmiş biber, tırnak pide, salata, ezme ile
+İzmir Bomba (Adet):
+Profiterol: Cam kasede
+Alman Pastası:
+Ekler (250 gr.):
+Supangle: Cam kasede
+Pizza Margarita (27 cm.): 70 gr. pizza sosu, 100 gr. mozzarella peyniri
+Pizza Alaturka (27 cm.): 70 gr. pizza sosu, 100 gr. mozzarella peyniri, 50 gr. sucuk, 50 gr. sosis, 60 gr. mix biber, 40 gr. mantar, 15 gr. mısır, 15 gr. zeytin
+BBQ Chicken Pizza (27 cm.): Pizza sosu, mozzarella peyniri, bonfile tavuk parçaları, mısır, köy biberi, barbekü sosu
+İtalyan Kafası Special (27 cm.): Dana bacon, kapari, mısır, kırmızı kapya biber, mozzarella peyniri, fesleğen
+Deniz Mahsullü Pizza (27 cm.): 110 gr. karides, 100 gr. kalamar, 70 gr. ton balığı, 50 gr. mix biber, 15 gr. mısır, isteğe göre midye
+Lahmacun: Dana kaburga kıyma, domates, biber, maydanoz, soğan, kırmızıbiber
+Kıymalı Pide: Dana kaburga kıyma, domates, soğan, köy biberi, maydanoz
+Sarma Beyti Kebap: Yoğurt, sos. Pilav, salata, ezme, közlenmiş domates, közlenmiş biber
+Adana Kebap: Pilav, salata, ezme, közlenmiş domates, közlenmiş biber
+Süzme Mercimek Çorbası
